@@ -2,7 +2,7 @@
 SModelS Database
 ================
 
-SModelS stores all the information about the experimental results in the Database.
+`SModelS`_ stores all the information about the experimental results in the Database.
 The Database is organized as files in an ordinary (UNIX) directory hierarchy, with a thin Python
 layer serving as the access to the database.
 The overall structure of the directory hierarchy and its contents is
@@ -18,15 +18,12 @@ We note that all the results in the official database release have been
 carefully validated  and the validation material can be
 found at `http://smodels.hephy.at/wiki/Validationv11 <http://smodels.hephy.at/wiki/Validationv11>`_.
 
-The database can conveniently be updated independently from SModelS code
-updates. It suffices to unpack any new database tarball and replace the database
-directory. In the same fashion, one can easily add additional results as
-explained below.
 
 Installation
 ============
 
-In order to use the Database simply download or clone this repository and
+The database can conveniently be updated independently from `SModelS`_ code
+updates. It suffices to download or clone this repository to a local folder and
 correctly set the SModelS database path when running SModelS.
 For more information check the `SModelS online manual`_.
 
@@ -67,3 +64,4 @@ For citing the experimental analyses in the database, you can use
 *smodels-database/database.bib*.
 
 .. _SModelS online manual: http://smodels.readthedocs.io/
+.. _SModelS: https://github.com/SModelS/smodels
