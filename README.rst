@@ -1,5 +1,3 @@
-.. image:: docs/manual/source/images/banner720.png
-
 ================
 SModelS Database
 ================
@@ -8,21 +6,22 @@ SModelS stores all the information about the experimental results in the Databas
 The Database is organized as files in an ordinary (UNIX) directory hierarchy, with a thin Python
 layer serving as the access to the database.
 
-The :ref:`Database <Database>` is organized as files in an ordinary (UNIX)
+The Database is organized as files in an ordinary (UNIX)
 directory hierarchy, with a thin Python layer serving as the access to the
 database.  The overall structure of the directory hierarchy and its contents is
 depicted in the scheme below (click to enlarge):
 
-.. image:: docs/manual/source/images/DatabaseFolders.png
-   :width: 80%
+.. image:: https://github.com/SModelS/smodels/blob/master/docs/manual/source/images/DatabaseFolders.png
+   :width: 20%
 
 
 Installation
 ============
 
-The installation procedure explained above also installs SModelS'
-:ref:`database of experimental results <databaseStruct>`
-in the smodels-database subdirectory.
+In order to use the Database simply download or clone this repository and
+correctly set the SModelS database path when running SModelS.
+For more information check the `SModelS online manual`_.
+
 The complete list of analyses and results included in the database can be
 consulted at `http://smodels.hephy.at/wiki/ListOfAnalysesv11 <http://smodels.hephy.at/wiki/ListOfAnalysesv11>`_.
 We note that all the results in the official database release have been
@@ -35,7 +34,6 @@ directory. In the same fashion, one can easily add additional results as
 explained below.
 
 
-.. _addingFastlim:
 
 Adding FastLim data
 ^^^^^^^^^^^^^^^^^^^
@@ -63,7 +61,7 @@ Adding one's own results
 
 Adding additional experimental results is a matter of copying and editing text
 files. Once the new folders and files have been added following the
-:ref:`database structure format <folderStruct>`, SModelS
+database structure format, SModelS
 automatically rebuilds the binary (Pickle) database file.
 The added results will then be available for using with the
 the SModelS tools.
