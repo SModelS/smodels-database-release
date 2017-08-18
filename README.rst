@@ -6,7 +6,7 @@ SModelS Database
 The Database is organized as files in an ordinary (UNIX) directory hierarchy, with a thin Python
 layer serving as the access to the database.
 The overall structure of the directory hierarchy and its contents is
-depicted in the scheme below (click to enlarge):
+depicted in the scheme below:
 
 .. image:: https://github.com/SModelS/smodels/blob/master/docs/manual/source/images/DatabaseFolders.png
    :scale: 30
@@ -61,7 +61,7 @@ the SModelS tools.
 
 
 For citing the experimental analyses in the database, you can use
-*smodels-database/database.bib*.
+*database.bib*.
 
 .. _SModelS online manual: http://smodels.readthedocs.io/
 .. _SModelS: https://github.com/SModelS/smodels
