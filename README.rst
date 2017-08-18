@@ -5,22 +5,12 @@ SModelS Database
 SModelS stores all the information about the experimental results in the Database.
 The Database is organized as files in an ordinary (UNIX) directory hierarchy, with a thin Python
 layer serving as the access to the database.
-
-The Database is organized as files in an ordinary (UNIX)
-directory hierarchy, with a thin Python layer serving as the access to the
-database.  The overall structure of the directory hierarchy and its contents is
+The overall structure of the directory hierarchy and its contents is
 depicted in the scheme below (click to enlarge):
 
 .. image:: https://github.com/SModelS/smodels/blob/master/docs/manual/source/images/DatabaseFolders.png
-   :width: 20%
+   :scale: 30
 
-
-Installation
-============
-
-In order to use the Database simply download or clone this repository and
-correctly set the SModelS database path when running SModelS.
-For more information check the `SModelS online manual`_.
 
 The complete list of analyses and results included in the database can be
 consulted at `http://smodels.hephy.at/wiki/ListOfAnalysesv11 <http://smodels.hephy.at/wiki/ListOfAnalysesv11>`_.
@@ -33,6 +23,12 @@ updates. It suffices to unpack any new database tarball and replace the database
 directory. In the same fashion, one can easily add additional results as
 explained below.
 
+Installation
+============
+
+In order to use the Database simply download or clone this repository and
+correctly set the SModelS database path when running SModelS.
+For more information check the `SModelS online manual`_.
 
 
 Adding FastLim data
