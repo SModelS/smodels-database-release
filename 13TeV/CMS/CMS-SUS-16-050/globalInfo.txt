@@ -1,0 +1,9 @@
+id: CMS-SUS-16-050
+sqrts: 13.0*TeV
+lumi: 35.9/fb
+url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/index.html
+arxiv: https://arxiv.org/abs/1710.11188
+contact: CMS collaboration
+supersedes: CMS-PAS-SUS-16-050
+implementedBy: Wolfgang Waltenberger
+lastUpdate: 2018/2/14
