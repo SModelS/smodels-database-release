@@ -1,5 +1,5 @@
 txName: T5tctc
-constraint: [[['t'],['c']],[['t'],['c']]]
+constraint: [[['t'],['jet']],[['t'],['jet']]]
 condition: None
 conditionDescription: None
 figureUrl: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/CMS-SUS-16-050_Figure_009-d.png

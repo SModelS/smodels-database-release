@@ -1,5 +1,5 @@
 txName: T2cc
-constraint: [[['c']],[['c']]]
+constraint: [[['jet']],[['jet']]]
 condition: None
 conditionDescription: None
 figureUrl: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-036/CMS-SUS-16-036_Figure_008-b.png
