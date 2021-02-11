@@ -5,4 +5,4 @@ url: http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-
 arxiv: https://arxiv.org/abs/1305.0491
 contact: cms-pag-conveners-exotica@cern.ch
 implementedBy: Andre Lessa
-lastUpdate: 2018/8/3
+lastUpdate: 2021/1/15

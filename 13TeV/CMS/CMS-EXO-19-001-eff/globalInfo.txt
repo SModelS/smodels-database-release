@@ -1,0 +1,10 @@
+id: CMS-EXO-19-001
+sqrts: 13*TeV
+lumi: 137.0/fb
+url: http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-001/index.html
+arxiv: http://arxiv.org/abs/1906.06441
+publication: http://arxiv.org/abs/1906.06441.pdf
+contact: CMS collaboration
+type: displaced
+implementedBy: Andre Lessa
+lastUpdate: 2021/1/11

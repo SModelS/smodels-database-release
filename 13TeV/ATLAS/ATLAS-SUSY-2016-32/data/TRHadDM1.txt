@@ -1,0 +1,19 @@
+txName: TRHadDM1
+constraint: [[],[]]
+condition: None
+figureUrl: None
+source: ATLAS
+validated: True
+axes: [[x], [x]]
+finalState: ['RHadronD', 'RHadronD']
+intermediateState: None
+upperLimits: [[[[6.0000E+02*GeV],[6.0000E+02*GeV]],4.0130E+00*fb],
+[[[8.0000E+02*GeV],[8.0000E+02*GeV]],2.4610E+00*fb],
+[[[1.0000E+03*GeV],[1.0000E+03*GeV]],1.4030E+00*fb],
+[[[1.2000E+03*GeV],[1.2000E+03*GeV]],1.0940E+00*fb],
+[[[1.4000E+03*GeV],[1.4000E+03*GeV]],1.1280E+00*fb]]
+expectedUpperLimits: [[[[6.0000E+02*GeV],[6.0000E+02*GeV]],2.0160E+00*fb],
+[[[8.0000E+02*GeV],[8.0000E+02*GeV]],1.3410E+00*fb],
+[[[1.0000E+03*GeV],[1.0000E+03*GeV]],1.0750E+00*fb],
+[[[1.2000E+03*GeV],[1.2000E+03*GeV]],9.5400E-01*fb],
+[[[1.4000E+03*GeV],[1.4000E+03*GeV]],9.1300E-01*fb]]

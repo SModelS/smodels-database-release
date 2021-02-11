@@ -1,0 +1,9 @@
+id: CMS-SUS-19-009
+sqrts: 13*TeV
+lumi: 137/fb
+url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-009/index.html
+arxiv: https://arxiv.org/abs/1912.08887
+publication: JHEP 05 (2020) 032
+contact: cms-phys-conveners-sus@cern.ch
+implementedBy: Andre Lessa
+lastUpdate: 2021/1/12

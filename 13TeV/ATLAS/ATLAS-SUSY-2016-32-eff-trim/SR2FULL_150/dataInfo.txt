@@ -1,0 +1,7 @@
+dataId: SR2FULL_150
+dataType: efficiencyMap
+observedN: 0
+expectedBG: 1.5
+bgError: 0.3
+upperLimit: 0.09*fb
+expectedUpperLimit: 0.09*fb

@@ -6,6 +6,7 @@ source: CMS
 validated: True
 axes: [[x], [x]]
 finalState: ['HSCP', 'HSCP']
+intermediateState: None
 upperLimits: [[[[9.9464E+01*GeV],[9.9464E+01*GeV]],5.5576E-03*pb],
 [[[1.2625E+02*GeV],[1.2625E+02*GeV]],4.2752E-03*pb],
 [[[1.5665E+02*GeV],[1.5665E+02*GeV]],2.6516E-03*pb],

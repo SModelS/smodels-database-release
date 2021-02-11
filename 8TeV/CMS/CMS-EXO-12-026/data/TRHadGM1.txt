@@ -6,6 +6,7 @@ source: CMS
 validated: True
 axes: [[x], [x]]
 finalState: ['RHadronG', 'RHadronG']
+intermediateState: None
 upperLimits: [[[[2.9935E+02*GeV],[2.9935E+02*GeV]],4.6075E-03*pb],
 [[[3.9926E+02*GeV],[3.9926E+02*GeV]],2.1117E-03*pb],
 [[[5.0066E+02*GeV],[5.0066E+02*GeV]],2.0986E-03*pb],

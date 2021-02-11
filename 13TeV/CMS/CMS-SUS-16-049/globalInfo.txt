@@ -5,5 +5,5 @@ url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-
 arxiv: http://arxiv.org/abs/1707.03316
 publication: J. High Energy Phys. 10 (2017) 005, http://dx.doi.org/10.1007/JHEP10(2017)005
 contact: cms-phys-conveners-sus@cern.ch
-implementedBy: Juhi Dutta
-lastUpdate: 2017/12/28
+implementedBy: Wolfgang Waltenberger
+lastUpdate: 2019/5/21
