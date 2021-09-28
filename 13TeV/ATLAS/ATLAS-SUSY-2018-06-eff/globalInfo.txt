@@ -1,0 +1,10 @@
+id: ATLAS-SUSY-2018-06
+sqrts: 13*TeV
+lumi: 139/fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/
+arxiv: https://arxiv.org/abs/1912.08479
+contact: atlas-phys-susy-conveners@cern.ch
+implementedBy: Gael Alguero
+lastUpdate: 2020/7/24
+# datasetOrder: 'SR_ISR', 'SR_low'
+# jsonFiles: {'BkgOnly.json' : ['SR_ISR', 'SR_low']}

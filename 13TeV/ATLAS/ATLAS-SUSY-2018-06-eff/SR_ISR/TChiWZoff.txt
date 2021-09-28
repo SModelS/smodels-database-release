@@ -1,0 +1,26 @@
+txName: TChiWZoff
+constraint: [[['mu+','mu-']],[['l','nu']]] + [[['e+','e-']],[['l','nu']]]
+condition: None
+conditionDescription: None
+figureUrl: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/figaux_13c.png; https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/figaux_13d.png; https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/figaux_14c.png; https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/figaux_14d.png
+source: ATLAS
+validated: N/A
+axes: [[x, y], [x, y]]
+finalState: ['MET', 'MET']
+intermediateState: None
+efficiencyMap: [[[[1.5000E+02*GeV,9.0000E+01*GeV],[1.5000E+02*GeV,9.0000E+01*GeV]],0.00021074],
+[[[1.4000E+02*GeV,7.0000E+01*GeV],[1.4000E+02*GeV,7.0000E+01*GeV]],0.00023207],
+[[[1.2500E+02*GeV,8.5000E+01*GeV],[1.2500E+02*GeV,8.5000E+01*GeV]],4.2156e-05],
+[[[2.0000E+02*GeV,1.3000E+02*GeV],[2.0000E+02*GeV,1.3000E+02*GeV]],0.00035491],
+[[[1.4000E+02*GeV,1.0000E+02*GeV],[1.4000E+02*GeV,1.0000E+02*GeV]],6.2303e-05],
+[[[1.5000E+02*GeV,8.0000E+01*GeV],[1.5000E+02*GeV,8.0000E+01*GeV]],0.00031373],
+[[[2.0000E+02*GeV,1.6000E+02*GeV],[2.0000E+02*GeV,1.6000E+02*GeV]],0.00013719],
+[[[1.5000E+02*GeV,1.1000E+02*GeV],[1.5000E+02*GeV,1.1000E+02*GeV]],0.00012316],
+[[[1.0000E+02*GeV,6.0000E+01*GeV],[1.0000E+02*GeV,6.0000E+01*GeV]],7.8545e-05],
+[[[1.2500E+02*GeV,6.5000E+01*GeV],[1.2500E+02*GeV,6.5000E+01*GeV]],0.0001407],
+[[[1.1000E+02*GeV,7.0000E+01*GeV],[1.1000E+02*GeV,7.0000E+01*GeV]],6.2419e-05],
+[[[3.5000E+02*GeV,2.9000E+02*GeV],[3.5000E+02*GeV,2.9000E+02*GeV]],0.00043923],
+[[[3.0000E+02*GeV,2.4000E+02*GeV],[3.0000E+02*GeV,2.4000E+02*GeV]],0.00038485],
+[[[1.4000E+02*GeV,8.0000E+01*GeV],[1.4000E+02*GeV,8.0000E+01*GeV]],0.00018903],
+[[[2.0000E+02*GeV,1.4000E+02*GeV],[2.0000E+02*GeV,1.4000E+02*GeV]],0.00023701],
+[[[2.5000E+02*GeV,1.9000E+02*GeV],[2.5000E+02*GeV,1.9000E+02*GeV]],0.00034174]]

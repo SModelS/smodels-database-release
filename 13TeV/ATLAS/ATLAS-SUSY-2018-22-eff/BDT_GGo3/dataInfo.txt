@@ -1,0 +1,7 @@
+dataId: BDT_GGo3
+dataType: efficiencyMap
+observedN: 80
+expectedBG: 85
+bgError: 9
+upperLimit: 0.17*fb
+expectedUpperLimit: 0.202*fb

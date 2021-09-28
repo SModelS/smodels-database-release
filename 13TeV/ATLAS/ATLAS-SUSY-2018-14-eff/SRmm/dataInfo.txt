@@ -1,0 +1,7 @@
+dataId: SRmm
+dataType: efficiencyMap
+observedN: 0
+expectedBG: 0.11
+bgError: 0.2
+upperLimit: 0.0222*fb
+expectedUpperLimit: 0.0222*fb

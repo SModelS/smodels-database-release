@@ -1,0 +1,7 @@
+id: ATLAS-SUSY-2013-20
+sqrts: 8.0*TeV
+lumi: 20./fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-20/
+publication: https://link.springer.com/article/10.1007/JHEP04(2015)116
+implementedBy: Wolfgang Waltenberger
+lastUpdate: 2021/4/12

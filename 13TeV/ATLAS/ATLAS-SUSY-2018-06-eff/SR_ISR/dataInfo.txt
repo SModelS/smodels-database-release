@@ -1,0 +1,7 @@
+dataId: SR_ISR
+dataType: efficiencyMap
+observedN: 30
+expectedBG: 23.4
+bgError: 2.1
+upperLimit: 0.138*fb
+expectedUpperLimit: 0.0848*fb

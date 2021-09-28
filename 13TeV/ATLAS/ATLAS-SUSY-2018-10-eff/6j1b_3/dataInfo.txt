@@ -1,0 +1,7 @@
+dataId: 6j1b_3
+dataType: efficiencyMap
+observedN: 7
+expectedBG: 12.9
+bgError: 1.6
+upperLimit: 0.0376*fb
+expectedUpperLimit: 0.0697*fb

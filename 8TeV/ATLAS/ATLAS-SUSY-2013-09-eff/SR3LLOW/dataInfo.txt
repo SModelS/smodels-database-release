@@ -1,0 +1,7 @@
+dataId: SR3LLOW
+dataType: efficiencyMap
+observedN: 6
+expectedBG: 4.3
+bgError: 2.1
+upperLimit: 0.472*fb
+expectedUpperLimit: 0.347*fb

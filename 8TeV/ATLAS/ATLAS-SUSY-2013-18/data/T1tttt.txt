@@ -6,6 +6,8 @@ figureUrl: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-18/fi
 source: ATLAS
 validated: True
 axes: [[x, y], [x, y]]
+finalState: ['MET', 'MET']
+intermediateState: None
 upperLimits: [[[[6.0000E+02*GeV,1.0000E+00*GeV],[6.0000E+02*GeV,1.0000E+00*GeV]],8.9000E+00*fb],
 [[[6.0000E+02*GeV,5.0000E+01*GeV],[6.0000E+02*GeV,5.0000E+01*GeV]],1.0000E+01*fb],
 [[[6.0000E+02*GeV,1.0000E+02*GeV],[6.0000E+02*GeV,1.0000E+02*GeV]],1.2000E+01*fb],

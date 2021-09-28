@@ -2,5 +2,6 @@ id: ATLAS-CONF-2013-007
 sqrts: 8.0*TeV
 lumi: 20.7/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-007/
+supersededBy: ATLAS-SUSY-2013-09
 implementedBy: Federico A
 lastUpdate: 2016/9/29

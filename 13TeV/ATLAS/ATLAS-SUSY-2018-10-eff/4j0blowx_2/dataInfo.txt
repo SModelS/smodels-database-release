@@ -1,0 +1,7 @@
+dataId: 4j0blowx_2
+dataType: efficiencyMap
+observedN: 57
+expectedBG: 58.4
+bgError: 3.5
+upperLimit: 0.126*fb
+expectedUpperLimit: 0.132*fb

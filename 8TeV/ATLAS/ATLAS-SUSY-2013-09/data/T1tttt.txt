@@ -1,11 +1,13 @@
 txName: T1tttt
-constraint: [[['t','t']],[['t','t']]]
+constraint: [[['t+','t-']],[['t-','t+']]]
 condition: None
 conditionDescription: None
 figureUrl: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-09/figaux_11a.png
 source: ATLAS
 validated: True
 axes: [[x, y], [x, y]]
+finalState: ['MET', 'MET']
+intermediateState: None
 upperLimits: [[[[4.0000E+02*GeV,1.0000E+00*GeV],[4.0000E+02*GeV,1.0000E+00*GeV]],2.4534E+01*fb],
 [[[4.0000E+02*GeV,4.5000E+01*GeV],[4.0000E+02*GeV,4.5000E+01*GeV]],2.8352E+01*fb],
 [[[4.5000E+02*GeV,1.0000E+00*GeV],[4.5000E+02*GeV,1.0000E+00*GeV]],2.6553E+01*fb],

@@ -6,4 +6,4 @@ arxiv: http://arxiv.org/abs/1402.4770
 publication: JHEP06(2014)055
 contact: cms-pag-conveners-sus@NOSPAMcernSPAMNOT.ch, SModelS collaboration
 implementedBy: Federico Ambrogi
-lastUpdate: 2018/4/5
+lastUpdate: 2021/9/4

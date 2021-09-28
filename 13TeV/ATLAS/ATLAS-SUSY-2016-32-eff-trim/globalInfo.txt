@@ -6,6 +6,6 @@ arxiv: https://arxiv.org/abs/1902.01636
 publication: https://arxiv.org/pdf/1902.01636.pdf
 contact: Andre Lessa <lessa.a.p@gmail.com>; Jan Heisig <heisig@physik.rwth-aachen.de>; SModelS
 implementedBy: Andre Lessa
-lastUpdate: 2021/1/15
+lastUpdate: 2021/8/30
 Leff_inner: 0.001
 Leff_outer: 12.0

@@ -1,0 +1,7 @@
+dataId: SR3l_ISR
+dataType: efficiencyMap
+observedN: 12
+expectedBG: 3.9
+bgError: 1.0
+upperLimit: 0.42*fb
+expectedUpperLimit: 0.19*fb

@@ -1,0 +1,11 @@
+id: ATLAS-SUSY-2018-14
+sqrts: 13*TeV
+lumi: 139.0/fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-14/
+arxiv: https://arxiv.org/abs/2011.07812
+publication: https://arxiv.org/pdf/2011.07812.pdf
+contact: ATLAS collaboration
+implementedBy: GA
+lastUpdate: 2021/5/26
+jsonFiles: {'SRee_bkgonly.json': ['SRee'], 'SRmm_bkgonly.json': ['SRmm'], 'Comb_bkgonly.json': ['SRee', 'SRmm', 'SRem']}
+type: displaced

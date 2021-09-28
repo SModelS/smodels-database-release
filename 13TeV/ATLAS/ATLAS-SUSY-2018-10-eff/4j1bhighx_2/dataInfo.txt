@@ -1,0 +1,7 @@
+dataId: 4j1bhighx_2
+dataType: efficiencyMap
+observedN: 26
+expectedBG: 25.3
+bgError: 3.0
+upperLimit: 0.101*fb
+expectedUpperLimit: 0.0944*fb

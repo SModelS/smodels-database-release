@@ -1,0 +1,7 @@
+dataId: SRem
+dataType: efficiencyMap
+observedN: 0
+expectedBG: 0.007
+bgError: 0.19
+upperLimit: 0.0222*fb
+expectedUpperLimit: 0.0222*fb

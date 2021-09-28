@@ -1,0 +1,7 @@
+dataId: SRee
+dataType: efficiencyMap
+observedN: 0
+expectedBG: 0.46
+bgError: 0.1
+upperLimit: 0.0222*fb
+expectedUpperLimit: 0.0222*fb

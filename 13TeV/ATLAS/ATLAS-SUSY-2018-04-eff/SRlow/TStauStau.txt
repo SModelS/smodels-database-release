@@ -1,5 +1,5 @@
 txName: TStauStau
-constraint: [[['ta']],[['ta']]]
+constraint: [[['ta+']],[['ta-']]]
 condition: None
 conditionDescription: None
 figureUrl: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-04/figaux_01a.png
