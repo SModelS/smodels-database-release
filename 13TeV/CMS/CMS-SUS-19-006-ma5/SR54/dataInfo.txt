@@ -1,8 +1,0 @@
-dataId: SR54
-dataType: efficiencyMap
-observedN: 1208
-expectedBG: 1218.0
-bgError: 76.94153624668537
-comment: SR54_Njet45_Nb2_HT350600_MHT350600
-upperLimit: 1.22*fb
-expectedUpperLimit: 1.29*fb

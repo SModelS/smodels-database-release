@@ -1,8 +1,0 @@
-dataId: SR16
-dataType: efficiencyMap
-observedN: 127
-expectedBG: 132.0
-bgError: 18.027756377319946
-comment: SR16_Njet23_Nb1_HT1200_MHT350600
-upperLimit: 0.295*fb
-expectedUpperLimit: 0.333*fb

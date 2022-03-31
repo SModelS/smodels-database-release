@@ -1,8 +1,0 @@
-dataId: SR70
-dataType: efficiencyMap
-observedN: 0
-expectedBG: 0.2
-bgError: 2.3021728866442674
-comment: SR70_Njet45_Nb3_HT1700_MHT850
-upperLimit: 0.04*fb
-expectedUpperLimit: 0.04*fb

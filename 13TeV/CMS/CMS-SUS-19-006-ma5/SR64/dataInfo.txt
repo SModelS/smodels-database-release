@@ -1,8 +1,0 @@
-dataId: SR64
-dataType: efficiencyMap
-observedN: 111
-expectedBG: 107.0
-bgError: 16.278820596099706
-comment: SR64_Njet45_Nb3_HT350600_MHT350600
-upperLimit: 0.333*fb
-expectedUpperLimit: 0.302*fb

@@ -1,8 +1,0 @@
-dataId: SR73
-dataType: efficiencyMap
-observedN: 362
-expectedBG: 410.0
-bgError: 114.86513831445988
-comment: SR73_Njet67_Nb0_HT1200_MHT300350
-upperLimit: 1.43*fb
-expectedUpperLimit: 1.78*fb

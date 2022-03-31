@@ -1,8 +1,0 @@
-dataId: SR100
-dataType: efficiencyMap
-observedN: 1
-expectedBG: 1.7
-bgError: 1.2369316876852983
-comment: SR100_Njet67_Nb2_HT1700_MHT850
-upperLimit: 0.0287*fb
-expectedUpperLimit: 0.0414*fb

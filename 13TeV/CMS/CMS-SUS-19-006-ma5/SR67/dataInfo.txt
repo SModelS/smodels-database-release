@@ -1,8 +1,0 @@
-dataId: SR67
-dataType: efficiencyMap
-observedN: 5
-expectedBG: 6.3
-bgError: 3.4132096331752027
-comment: SR67_Njet45_Nb3_HT6001200_MHT600850
-upperLimit: 0.0607*fb
-expectedUpperLimit: 0.0705*fb

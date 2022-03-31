@@ -1,8 +1,0 @@
-dataId: SR39
-dataType: efficiencyMap
-observedN: 360
-expectedBG: 393.0
-bgError: 35.34119409414458
-comment: SR39_Njet45_Nb0_HT8501700_MHT850
-upperLimit: 0.419*fb
-expectedUpperLimit: 0.623*fb

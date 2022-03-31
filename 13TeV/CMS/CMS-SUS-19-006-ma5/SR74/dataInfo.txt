@@ -1,8 +1,0 @@
-dataId: SR74
-dataType: efficiencyMap
-observedN: 847
-expectedBG: 901.0
-bgError: 54.405882034941776
-comment: SR74_Njet67_Nb0_HT350600_MHT350600
-upperLimit: 0.625*fb
-expectedUpperLimit: 0.951*fb

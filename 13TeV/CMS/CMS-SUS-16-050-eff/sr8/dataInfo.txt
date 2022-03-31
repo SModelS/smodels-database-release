@@ -1,8 +1,0 @@
-dataId: sr8
-dataType: efficiencyMap
-observedN: 9.0
-expectedBG: 3.7
-bgError: 2.720294101747089
-comment: Ntops=1_Nbjets=1_MT2=300-400_pTmiss=600-750
-upperLimit: 0.422*fb
-expectedUpperLimit: 0.239*fb

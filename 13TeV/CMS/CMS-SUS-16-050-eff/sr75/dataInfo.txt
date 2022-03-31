@@ -1,8 +1,0 @@
-dataId: sr75
-dataType: efficiencyMap
-observedN: 3.0
-expectedBG: 3.5
-bgError: 2.5238858928247927
-comment: Ntops=2_Nbjets>=3_HT>=1300_pTmiss=250-350
-upperLimit: 0.195*fb
-expectedUpperLimit: 0.238*fb

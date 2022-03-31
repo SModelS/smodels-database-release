@@ -1,8 +1,0 @@
-dataId: SR148
-dataType: efficiencyMap
-observedN: 6
-expectedBG: 3.6
-bgError: 2.009975124224178
-comment: SR148_Njet10_Nb0_HT1200_MHT600850
-upperLimit: 0.0751*fb
-expectedUpperLimit: 0.0564*fb

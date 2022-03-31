@@ -1,8 +1,0 @@
-dataId: SR72
-dataType: efficiencyMap
-observedN: 1993
-expectedBG: 2110.0
-bgError: 205.1828452868319
-comment: SR72_Njet67_Nb0_HT6001200_MHT300350
-upperLimit: 2.4*fb
-expectedUpperLimit: 3.2*fb

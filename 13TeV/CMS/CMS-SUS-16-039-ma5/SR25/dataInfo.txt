@@ -1,8 +1,0 @@
-dataId: SR25
-dataType: efficiencyMap
-observedN: 8.0
-expectedBG: 4.9
-bgError: 1.9
-comment: SRA25_Mll75to105_MT100to160_MET200toInf
-upperLimit: 0.312*fb
-expectedUpperLimit: 0.212*fb

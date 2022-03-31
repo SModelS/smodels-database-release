@@ -1,8 +1,0 @@
-dataId: SR112
-dataType: efficiencyMap
-observedN: 88
-expectedBG: 113.0
-bgError: 38.28837943815329
-comment: SR112_Njet89_Nb0_HT1200_MHT300350
-upperLimit: 0.438*fb
-expectedUpperLimit: 0.611*fb

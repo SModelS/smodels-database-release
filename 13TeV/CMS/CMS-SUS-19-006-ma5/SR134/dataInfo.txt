@@ -1,8 +1,0 @@
-dataId: SR134
-dataType: efficiencyMap
-observedN: 2
-expectedBG: 2.9
-bgError: 3.40587727318528
-comment: SR134_Njet89_Nb2_HT1700_MHT850
-upperLimit: 0.0545*fb
-expectedUpperLimit: 0.0649*fb

@@ -1,8 +1,0 @@
-dataId: sr4
-dataType: efficiencyMap
-observedN: 7.0
-expectedBG: 5.0
-bgError: 3.0610455730027932
-comment: Ntops=1_Nbjets=1_MT2=200-550_pTmiss>=750
-upperLimit: 0.323*fb
-expectedUpperLimit: 0.254*fb

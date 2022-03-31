@@ -1,8 +1,0 @@
-dataId: SR76
-dataType: efficiencyMap
-observedN: 553
-expectedBG: 547.0
-bgError: 58.05170109479997
-comment: SR76_Njet67_Nb0_HT1200_MHT350600
-upperLimit: 1.0*fb
-expectedUpperLimit: 0.958*fb

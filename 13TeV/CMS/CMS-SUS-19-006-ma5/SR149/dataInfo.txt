@@ -1,8 +1,0 @@
-dataId: SR149
-dataType: efficiencyMap
-observedN: 0
-expectedBG: 0.0
-bgError: 2.4
-comment: SR149_Njet10_Nb0_HT8501700_MHT850
-upperLimit: 0.0389*fb
-expectedUpperLimit: 0.0389*fb

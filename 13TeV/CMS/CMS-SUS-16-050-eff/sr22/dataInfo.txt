@@ -1,8 +1,0 @@
-dataId: sr22
-dataType: efficiencyMap
-observedN: 59.0
-expectedBG: 41.0
-bgError: 8.48528137423857
-comment: Ntops=1_Nbjets=2_MT2=200-350_pTmiss=400-500
-upperLimit: 1.21*fb
-expectedUpperLimit: 0.651*fb

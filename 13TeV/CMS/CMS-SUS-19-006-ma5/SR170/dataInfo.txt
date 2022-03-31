@@ -1,8 +1,0 @@
-dataId: SR170
-dataType: efficiencyMap
-observedN: 9
-expectedBG: 5.7
-bgError: 2.2847319317591728
-comment: SR170_Njet10_Nb3_HT1200_MHT350600
-upperLimit: 0.0889*fb
-expectedUpperLimit: 0.0635*fb

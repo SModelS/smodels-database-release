@@ -1,8 +1,0 @@
-dataId: SR152
-dataType: efficiencyMap
-observedN: 18
-expectedBG: 19.2
-bgError: 5.714017850864661
-comment: SR152_Njet10_Nb1_HT1200_MHT300350
-upperLimit: 0.108*fb
-expectedUpperLimit: 0.117*fb

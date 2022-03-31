@@ -1,8 +1,0 @@
-dataId: SR121
-dataType: efficiencyMap
-observedN: 224
-expectedBG: 262.0
-bgError: 25.553864678361276
-comment: SR121_Njet89_Nb1_HT6001200_MHT350600
-upperLimit: 0.258*fb
-expectedUpperLimit: 0.468*fb

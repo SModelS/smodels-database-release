@@ -1,8 +1,0 @@
-dataId: sr39
-dataType: efficiencyMap
-observedN: 6.0
-expectedBG: 4.5
-bgError: 3.492849839314596
-comment: Ntops=1_Nbjets>=3_HT=300-1000_pTmiss=450-550
-upperLimit: 0.329*fb
-expectedUpperLimit: 0.247*fb

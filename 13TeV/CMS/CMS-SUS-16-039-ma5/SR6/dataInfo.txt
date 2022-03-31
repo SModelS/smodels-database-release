@@ -1,8 +1,0 @@
-dataId: SR6
-dataType: efficiencyMap
-observedN: 60.0
-expectedBG: 50.0
-bgError: 8.0
-comment: SRA06_Mll0to75_MT100to160_MET50to100
-upperLimit: 0.95*fb
-expectedUpperLimit: 0.654*fb

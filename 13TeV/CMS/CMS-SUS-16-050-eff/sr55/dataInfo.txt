@@ -1,8 +1,0 @@
-dataId: sr55
-dataType: efficiencyMap
-observedN: 2.0
-expectedBG: 1.8
-bgError: 1.5524174696260025
-comment: Ntops=2_Nbjets=1_MT2>=450_pTmiss=250-450
-upperLimit: 0.165*fb
-expectedUpperLimit: 0.165*fb
