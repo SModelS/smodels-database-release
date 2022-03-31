@@ -1,0 +1,7 @@
+dataId: SRDF120
+dataType: efficiencyMap
+observedN: 13
+expectedBG: 16.3
+bgError: 3.2
+upperLimit: 0.0642*fb
+expectedUpperLimit: 0.0838*fb

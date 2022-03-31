@@ -1,0 +1,9 @@
+dataId: AR2
+dataType: efficiencyMap
+observedN: 312
+expectedBG: 328.7
+bgError: 23.14519
+comment: SR8_Njet23_Nb0_HT1200_MHT600850;SR18_Njet23_Nb1_HT1200_MHT600850;SR28_Njet23_Nb2_HT1200_MHT600850
+upperLimit: 0.327336*fb
+expectedUpperLimit: 0.426560*fb
+aggregated: SR8;SR18;SR28

@@ -3,7 +3,7 @@ constraint: [['*'],['*']]
 condition: None
 conditionDescription: None
 figureUrl: None
-source: Recasting (F. Rojas and S. Belyaev)
+source: Recast by F. Rojas and A. Belyaev
 validated: N/A
 axes: [[(x, y), x - 1.0], [(x, y), x - 1.0]]; [[(x, y), x], [(x, y), x]]
 finalState: ['MET', 'MET']

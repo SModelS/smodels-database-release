@@ -1,0 +1,8 @@
+dataId: SR156
+dataType: efficiencyMap
+observedN: 3
+expectedBG: 2.0
+bgError: 1.4866068747318506
+comment: SR156_Njet10_Nb1_HT1200_MHT600850
+upperLimit: 0.0496*fb
+expectedUpperLimit: 0.041*fb

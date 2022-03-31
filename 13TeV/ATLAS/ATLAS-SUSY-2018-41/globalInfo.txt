@@ -1,0 +1,8 @@
+id: ATLAS-SUSY-2018-41
+sqrts: 13.0*TeV
+lumi: 139./fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/
+arxiv: https://arxiv.org/abs/2108.07586
+publication: https://doi.org/10.1103/PhysRevD.104.112010
+implementedBy: Wolfgang Waltenberger
+lastUpdate: 2022/3/13

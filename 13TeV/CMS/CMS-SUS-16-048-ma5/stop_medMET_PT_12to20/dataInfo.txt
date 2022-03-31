@@ -1,0 +1,7 @@
+dataId: stop_medMET_PT_12to20
+dataType: efficiencyMap
+observedN: 40.0
+expectedBG: 41.0
+bgError: 5.6
+upperLimit: 0.501*fb
+expectedUpperLimit: 0.529*fb

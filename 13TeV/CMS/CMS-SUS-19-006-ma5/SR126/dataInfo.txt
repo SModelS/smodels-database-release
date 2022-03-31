@@ -1,0 +1,8 @@
+dataId: SR126
+dataType: efficiencyMap
+observedN: 2
+expectedBG: 2.4
+bgError: 1.5524174696260025
+comment: SR126_Njet89_Nb1_HT1700_MHT850
+upperLimit: 0.0384*fb
+expectedUpperLimit: 0.0384*fb

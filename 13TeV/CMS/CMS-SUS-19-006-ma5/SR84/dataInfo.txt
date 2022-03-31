@@ -1,0 +1,8 @@
+dataId: SR84
+dataType: efficiencyMap
+observedN: 425
+expectedBG: 429.0
+bgError: 35.84689665786984
+comment: SR84_Njet67_Nb1_HT350600_MHT350600
+upperLimit: 0.607*fb
+expectedUpperLimit: 0.637*fb

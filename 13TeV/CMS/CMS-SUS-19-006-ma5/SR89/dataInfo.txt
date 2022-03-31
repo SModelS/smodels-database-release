@@ -1,0 +1,8 @@
+dataId: SR89
+dataType: efficiencyMap
+observedN: 17
+expectedBG: 19.4
+bgError: 3.9408120990476063
+comment: SR89_Njet67_Nb1_HT8501700_MHT850
+upperLimit: 0.081*fb
+expectedUpperLimit: 0.0955*fb

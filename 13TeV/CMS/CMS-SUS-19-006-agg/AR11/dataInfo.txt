@@ -1,0 +1,9 @@
+dataId: AR11
+dataType: efficiencyMap
+observedN: 15
+expectedBG: 17.4
+bgError: 5.50818
+comment: SR58_Njet45_Nb2_HT1200_MHT600850
+upperLimit: 0.073843*fb
+expectedUpperLimit: 0.086783*fb
+aggregated: SR58

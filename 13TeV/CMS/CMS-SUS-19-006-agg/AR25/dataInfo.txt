@@ -1,0 +1,9 @@
+dataId: AR25
+dataType: efficiencyMap
+observedN: 14
+expectedBG: 14.5
+bgError: 3.54683
+comment: SR98_Njet67_Nb2_HT1200_MHT600850
+upperLimit: 0.071031*fb
+expectedUpperLimit: 0.071031*fb
+aggregated: SR98

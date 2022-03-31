@@ -1,0 +1,9 @@
+dataId: AR29
+dataType: efficiencyMap
+observedN: 1
+expectedBG: 0.2
+bgError: 1.90263
+comment: SR110_Njet67_Nb3_HT1700_MHT850
+upperLimit: 0.033219*fb
+expectedUpperLimit: 0.021318*fb
+aggregated: SR110

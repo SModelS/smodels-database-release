@@ -1,0 +1,9 @@
+dataId: AR40
+dataType: efficiencyMap
+observedN: 0
+expectedBG: 0.1
+bgError: 1.30384
+comment: SR174_Njet10_Nb3_HT1700_MHT850
+upperLimit: 0.021320*fb
+expectedUpperLimit: 0.021320*fb
+aggregated: SR174

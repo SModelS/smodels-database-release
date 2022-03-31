@@ -1,0 +1,9 @@
+dataId: AR39
+dataType: efficiencyMap
+observedN: 1
+expectedBG: 0.2
+bgError: 1.41421
+comment: SR172_Njet10_Nb3_HT1200_MHT600850
+upperLimit: 0.032166*fb
+expectedUpperLimit: 0.021323*fb
+aggregated: SR172

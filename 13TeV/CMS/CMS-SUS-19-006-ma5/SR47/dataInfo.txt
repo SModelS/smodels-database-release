@@ -1,0 +1,8 @@
+dataId: SR47
+dataType: efficiencyMap
+observedN: 388
+expectedBG: 441.0
+bgError: 55.31726674375732
+comment: SR47_Njet45_Nb1_HT6001200_MHT600850
+upperLimit: 0.577*fb
+expectedUpperLimit: 0.906*fb

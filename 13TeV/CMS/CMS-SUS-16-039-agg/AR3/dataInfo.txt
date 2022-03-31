@@ -1,0 +1,9 @@
+dataId: AR3
+dataType: efficiencyMap
+observedN: 3.0
+expectedBG: 0.8
+bgError: 0.44227
+comment: AR3
+upperLimit: 0.175394*fb
+expectedUpperLimit: 0.091616*fb
+aggregated: SRA09_Mll0to75_MT100to160_MET200toInf

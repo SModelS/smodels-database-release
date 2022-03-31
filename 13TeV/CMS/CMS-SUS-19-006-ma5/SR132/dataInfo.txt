@@ -1,0 +1,8 @@
+dataId: SR132
+dataType: efficiencyMap
+observedN: 9
+expectedBG: 10.4
+bgError: 3.132091952673165
+comment: SR132_Njet89_Nb2_HT1200_MHT600850
+upperLimit: 0.0677*fb
+expectedUpperLimit: 0.074*fb

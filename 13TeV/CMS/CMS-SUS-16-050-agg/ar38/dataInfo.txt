@@ -1,0 +1,9 @@
+dataId: ar38
+dataType: efficiencyMap
+observedN: 0.0
+expectedBG: 0.5
+bgError: 1.58114
+comment: Ntops>=3_Nbjets>=3_HT>=300_pTmiss=250-350
+upperLimit: 0.084228*fb
+expectedUpperLimit: 0.090975*fb
+aggregated: sr82

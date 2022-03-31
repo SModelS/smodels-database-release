@@ -1,0 +1,7 @@
+dataId: SRSF140
+dataType: efficiencyMap
+observedN: 9
+expectedBG: 5.1
+bgError: 0.9
+upperLimit: 0.081*fb
+expectedUpperLimit: 0.0454*fb

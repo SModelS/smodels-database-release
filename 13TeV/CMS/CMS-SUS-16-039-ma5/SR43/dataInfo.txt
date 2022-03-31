@@ -1,0 +1,8 @@
+dataId: SR43
+dataType: efficiencyMap
+observedN: 0.0
+expectedBG: 3.1
+bgError: 1.0
+comment: SRA43_Mll105toInf_MT160toInf_MET150to200
+upperLimit: 0.102*fb
+expectedUpperLimit: 0.153*fb

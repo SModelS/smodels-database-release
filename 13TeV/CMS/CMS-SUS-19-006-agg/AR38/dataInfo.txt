@@ -1,0 +1,9 @@
+dataId: AR38
+dataType: efficiencyMap
+observedN: 9
+expectedBG: 5.7
+bgError: 2.07702
+comment: SR170_Njet10_Nb3_HT1200_MHT350600
+upperLimit: 0.078176*fb
+expectedUpperLimit: 0.054776*fb
+aggregated: SR170

@@ -1,0 +1,8 @@
+dataId: SR93
+dataType: efficiencyMap
+observedN: 84
+expectedBG: 76.0
+bgError: 13.601470508735444
+comment: SR93_Njet67_Nb2_HT1200_MHT300350
+upperLimit: 0.319*fb
+expectedUpperLimit: 0.254*fb

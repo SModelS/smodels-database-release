@@ -1,0 +1,9 @@
+dataId: ar1
+dataType: efficiencyMap
+observedN: 3905.0
+expectedBG: 3658.3
+bgError: 238.76767
+comment: Ntops=1_Nbjets=1_MT2=200-300_pTmiss=250-400;Ntops=1_Nbjets=1_MT2=200-300_pTmiss=400-500;Ntops=1_Nbjets=1_MT2=300-400_pTmiss=250-400;Ntops=1_Nbjets=1_MT2=400-550_pTmiss=250-400;Ntops=1_Nbjets=1_MT2=400-550_pTmiss=400-500;Ntops=1_Nbjets=1_MT2=550-750_pTmiss=400-500;Ntops=1_Nbjets=2_MT2=200-350_pTmiss=250-400;Ntops=1_Nbjets=2_MT2=200-350_pTmiss=400-500;Ntops=1_Nbjets=2_MT2=450-650_pTmiss=250-400;Ntops=1_Nbjets>=3_HT=300-1000_pTmiss=250-350;Ntops=2_Nbjets=1_MT2=200-300_pTmiss=250-350;Ntops=2_Nbjets=1_MT2=300-450_pTmiss=250-350;Ntops=2_Nbjets=1_MT2=300-450_pTmiss=350-450;Ntops=2_Nbjets=2_MT2=200-300_pTmiss=250-350;Ntops=2_Nbjets=2_MT2=300-400_pTmiss=250-350
+upperLimit: 20.201545*fb
+expectedUpperLimit: 13.449399*fb
+aggregated: sr0;sr1;sr5;sr9;sr10;sr14;sr21;sr22;sr30;sr37;sr48;sr52;sr53;sr58;sr62

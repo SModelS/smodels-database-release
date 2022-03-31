@@ -1,0 +1,8 @@
+dataId: SR3
+dataType: efficiencyMap
+observedN: 514
+expectedBG: 552.0
+bgError: 51.22499389946279
+comment: SR3_Njet23_Nb0_HT1200_MHT300350
+upperLimit: 0.615*fb
+expectedUpperLimit: 0.863*fb

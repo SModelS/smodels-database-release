@@ -1,0 +1,9 @@
+dataId: ar31
+dataType: efficiencyMap
+observedN: 0.0
+expectedBG: 0.5
+bgError: 1.80831
+comment: Ntops=2_Nbjets>=3_HT=300-1300_pTmiss>=500;Ntops=2_Nbjets>=3_HT>=1300_pTmiss>=500
+upperLimit: 0.086082*fb
+expectedUpperLimit: 0.097367*fb
+aggregated: sr72;sr77

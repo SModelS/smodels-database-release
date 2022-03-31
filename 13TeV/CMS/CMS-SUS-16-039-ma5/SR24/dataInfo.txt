@@ -1,0 +1,8 @@
+dataId: SR24
+dataType: efficiencyMap
+observedN: 9.0
+expectedBG: 10.0
+bgError: 4.0
+comment: SRA24_Mll75to105_MT100to160_MET150to200
+upperLimit: 0.295*fb
+expectedUpperLimit: 0.332*fb

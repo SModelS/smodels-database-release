@@ -1,0 +1,7 @@
+dataId: MultiBin2
+dataType: efficiencyMap
+observedN: 1
+expectedBG: 3.5
+bgError: 1.6
+upperLimit: 0.0258*fb
+expectedUpperLimit: 0.0526*fb

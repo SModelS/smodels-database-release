@@ -1,0 +1,7 @@
+dataId: SRSF220
+dataType: efficiencyMap
+observedN: 5
+expectedBG: 5.0
+bgError: 1.0
+upperLimit: 0.0468*fb
+expectedUpperLimit: 0.0468*fb

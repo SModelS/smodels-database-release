@@ -1,0 +1,9 @@
+dataId: AR32
+dataType: efficiencyMap
+observedN: 3
+expectedBG: 6.1
+bgError: 2.2025
+comment: SR118_Njet89_Nb0_HT1700_MHT850;SR126_Njet89_Nb1_HT1700_MHT850
+upperLimit: 0.031572*fb
+expectedUpperLimit: 0.052772*fb
+aggregated: SR118;SR126

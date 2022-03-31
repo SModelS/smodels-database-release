@@ -1,0 +1,9 @@
+dataId: AR1
+dataType: efficiencyMap
+observedN: 186.0
+expectedBG: 185.0
+bgError: 22.0
+comment: AR1
+upperLimit: 0.954862*fb
+expectedUpperLimit: 0.931994*fb
+aggregated: SRA01_Mll0to75_MT0to100_MET50to100

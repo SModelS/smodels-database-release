@@ -1,0 +1,9 @@
+dataId: AR34
+dataType: efficiencyMap
+observedN: 61
+expectedBG: 73.5
+bgError: 9.44934
+comment: SR137_Njet89_Nb3_HT6001200_MHT350600;SR138_Njet89_Nb3_HT1200_MHT350600;SR139_Njet89_Nb3_HT6001200_MHT600850;SR142_Njet89_Nb3_HT1700_MHT850
+upperLimit: 0.119001*fb
+expectedUpperLimit: 0.191005*fb
+aggregated: SR137;SR138;SR139;SR142

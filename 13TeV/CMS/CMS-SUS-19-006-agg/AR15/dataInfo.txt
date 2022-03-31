@@ -1,0 +1,9 @@
+dataId: AR15
+dataType: efficiencyMap
+observedN: 4363
+expectedBG: 4504.0
+bgError: 218.17424
+comment: SR75_Njet67_Nb0_HT6001200_MHT350600;SR85_Njet67_Nb1_HT6001200_MHT350600
+upperLimit: 2.412511*fb
+expectedUpperLimit: 3.266468*fb
+aggregated: SR75;SR85

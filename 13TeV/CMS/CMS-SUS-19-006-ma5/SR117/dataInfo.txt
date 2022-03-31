@@ -1,0 +1,8 @@
+dataId: SR117
+dataType: efficiencyMap
+observedN: 2
+expectedBG: 5.3
+bgError: 1.9924858845171274
+comment: SR117_Njet89_Nb0_HT8501700_MHT850
+upperLimit: 0.032*fb
+expectedUpperLimit: 0.0531*fb

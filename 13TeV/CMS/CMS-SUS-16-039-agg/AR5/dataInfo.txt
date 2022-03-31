@@ -1,0 +1,9 @@
+dataId: AR5
+dataType: efficiencyMap
+observedN: 1.0
+expectedBG: 0.9
+bgError: 0.52631
+comment: AR5
+upperLimit: 0.099176*fb
+expectedUpperLimit: 0.095198*fb
+aggregated: SRA14_Mll0to75_MT160toInf_MET250toInf

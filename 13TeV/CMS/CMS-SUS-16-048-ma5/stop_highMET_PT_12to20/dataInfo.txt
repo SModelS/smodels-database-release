@@ -1,0 +1,7 @@
+dataId: stop_highMET_PT_12to20
+dataType: efficiencyMap
+observedN: 11.0
+expectedBG: 10.0
+bgError: 1.9
+upperLimit: 0.282*fb
+expectedUpperLimit: 0.252*fb

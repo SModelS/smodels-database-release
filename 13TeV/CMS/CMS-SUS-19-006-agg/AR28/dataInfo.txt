@@ -1,0 +1,9 @@
+dataId: AR28
+dataType: efficiencyMap
+observedN: 2
+expectedBG: 3.0
+bgError: 2.03961
+comment: SR108_Njet67_Nb3_HT1200_MHT600850
+upperLimit: 0.032363*fb
+expectedUpperLimit: 0.039286*fb
+aggregated: SR108

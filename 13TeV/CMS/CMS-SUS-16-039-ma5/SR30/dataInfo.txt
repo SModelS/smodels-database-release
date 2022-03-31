@@ -1,0 +1,8 @@
+dataId: SR30
+dataType: efficiencyMap
+observedN: 3.0
+expectedBG: 4.1
+bgError: 1.6
+comment: SRA30_Mll75to105_MT160toInf_MET250to400
+upperLimit: 0.157*fb
+expectedUpperLimit: 0.185*fb

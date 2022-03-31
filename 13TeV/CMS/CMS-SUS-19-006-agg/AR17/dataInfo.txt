@@ -1,0 +1,9 @@
+dataId: AR17
+dataType: efficiencyMap
+observedN: 122
+expectedBG: 104.8
+bgError: 8.95824
+comment: SR78_Njet67_Nb0_HT1200_MHT600850
+upperLimit: 0.314266*fb
+expectedUpperLimit: 0.201761*fb
+aggregated: SR78

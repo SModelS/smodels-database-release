@@ -1,0 +1,9 @@
+dataId: AR8
+dataType: efficiencyMap
+observedN: 66
+expectedBG: 55.5
+bgError: 8.1719
+comment: SR40_Njet45_Nb0_HT1700_MHT850;SR50_Njet45_Nb1_HT1700_MHT850;SR60_Njet45_Nb2_HT1700_MHT850
+upperLimit: 0.234812*fb
+expectedUpperLimit: 0.166789*fb
+aggregated: SR40;SR50;SR60

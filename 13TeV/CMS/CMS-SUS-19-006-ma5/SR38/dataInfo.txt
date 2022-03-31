@@ -1,0 +1,8 @@
+dataId: SR38
+dataType: efficiencyMap
+observedN: 291
+expectedBG: 299.0
+bgError: 19.1049731745428
+comment: SR38_Njet45_Nb0_HT1200_MHT600850
+upperLimit: 0.347*fb
+expectedUpperLimit: 0.4*fb

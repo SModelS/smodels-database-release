@@ -1,0 +1,8 @@
+dataId: SR32
+dataType: efficiencyMap
+observedN: 123.0
+expectedBG: 121.0
+bgError: 14.0
+comment: SRA32_Mll105toInf_MT0to100_MET50to100
+upperLimit: 1.12*fb
+expectedUpperLimit: 1.07*fb

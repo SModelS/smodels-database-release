@@ -1,0 +1,9 @@
+id: CMS-SUS-19-011
+sqrts: 13*TeV
+lumi: 137/fb
+url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-011/index.html
+arxiv: https://arxiv.org/pdf/2008.05936.pdf
+publication: Eur.Phys.J.C 81 (2021) 1, 3
+contact: cms-phys-conveners-sus@cern.ch
+implementedBy: Wolfgang Waltenberger
+lastUpdate: 2021/12/6

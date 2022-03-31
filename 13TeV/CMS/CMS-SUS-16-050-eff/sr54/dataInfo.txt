@@ -1,0 +1,8 @@
+dataId: sr54
+dataType: efficiencyMap
+observedN: 4.0
+expectedBG: 2.1
+bgError: 1.8788294228055935
+comment: Ntops=2_Nbjets=1_MT2=300-450_pTmiss=450-600
+upperLimit: 0.245*fb
+expectedUpperLimit: 0.167*fb

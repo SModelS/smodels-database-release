@@ -1,0 +1,8 @@
+dataId: SR68
+dataType: efficiencyMap
+observedN: 0
+expectedBG: 0.9
+bgError: 2.6172504656604803
+comment: SR68_Njet45_Nb3_HT1200_MHT600850
+upperLimit: 0.0427*fb
+expectedUpperLimit: 0.0477*fb

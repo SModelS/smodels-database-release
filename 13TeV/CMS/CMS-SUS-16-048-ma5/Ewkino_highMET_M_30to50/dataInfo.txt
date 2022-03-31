@@ -1,0 +1,7 @@
+dataId: Ewkino_highMET_M_30to50
+dataType: efficiencyMap
+observedN: 0.0
+expectedBG: 1.2
+bgError: 0.6
+upperLimit: 0.094*fb
+expectedUpperLimit: 0.114*fb

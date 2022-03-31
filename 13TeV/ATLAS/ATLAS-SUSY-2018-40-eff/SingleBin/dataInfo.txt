@@ -1,0 +1,7 @@
+dataId: SingleBin
+dataType: efficiencyMap
+observedN: 4
+expectedBG: 3.8
+bgError: 1.5
+upperLimit: 0.0493*fb
+expectedUpperLimit: 0.0493*fb

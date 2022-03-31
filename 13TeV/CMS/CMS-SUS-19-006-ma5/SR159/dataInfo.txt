@@ -1,0 +1,8 @@
+dataId: SR159
+dataType: efficiencyMap
+observedN: 15
+expectedBG: 15.5
+bgError: 3.6687872655688283
+comment: SR159_Njet10_Nb2_HT6001200_MHT300350
+upperLimit: 0.0865*fb
+expectedUpperLimit: 0.0963*fb

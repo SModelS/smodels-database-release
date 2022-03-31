@@ -1,0 +1,8 @@
+dataId: SR37
+dataType: efficiencyMap
+observedN: 2028
+expectedBG: 2025.0
+bgError: 99.29753269845128
+comment: SR37_Njet45_Nb0_HT6001200_MHT600850
+upperLimit: 1.68*fb
+expectedUpperLimit: 1.66*fb

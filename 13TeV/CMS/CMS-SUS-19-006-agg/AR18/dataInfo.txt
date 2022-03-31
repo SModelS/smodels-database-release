@@ -1,0 +1,9 @@
+dataId: AR18
+dataType: efficiencyMap
+observedN: 82
+expectedBG: 78.5
+bgError: 8.71952
+comment: SR79_Njet67_Nb0_HT8501700_MHT850;SR89_Njet67_Nb1_HT8501700_MHT850;SR99_Njet67_Nb2_HT8501700_MHT850;SR109_Njet67_Nb3_HT8501700_MHT850
+upperLimit: 0.205422*fb
+expectedUpperLimit: 0.178957*fb
+aggregated: SR79;SR89;SR99;SR109

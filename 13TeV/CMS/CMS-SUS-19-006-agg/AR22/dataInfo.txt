@@ -1,0 +1,9 @@
+dataId: AR22
+dataType: efficiencyMap
+observedN: 188
+expectedBG: 165.0
+bgError: 14.2197
+comment: SR94_Njet67_Nb2_HT350600_MHT350600
+upperLimit: 0.431619*fb
+expectedUpperLimit: 0.278535*fb
+aggregated: SR94

@@ -1,0 +1,8 @@
+dataId: SR166
+dataType: efficiencyMap
+observedN: 0
+expectedBG: 0.1
+bgError: 1.5033296378372907
+comment: SR166_Njet10_Nb2_HT1700_MHT850
+upperLimit: 0.0315*fb
+expectedUpperLimit: 0.0315*fb

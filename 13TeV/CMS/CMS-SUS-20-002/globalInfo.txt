@@ -1,0 +1,9 @@
+id: CMS-SUS-20-002
+sqrts: 13*TeV
+lumi: 137/fb
+url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-002/index.html
+arxiv: https://arxiv.org/abs/2107.10892
+publication: Eur. Phys. J. C 81 (2021) 970
+contact: cms-phys-conveners-sus@cern.ch
+implementedBy: Wolfgang Waltenberger
+lastUpdate: 2022/2/22

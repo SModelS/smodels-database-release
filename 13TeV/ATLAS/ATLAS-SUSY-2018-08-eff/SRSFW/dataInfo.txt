@@ -1,0 +1,7 @@
+dataId: SRSFW
+dataType: efficiencyMap
+observedN: 5
+expectedBG: 4.0
+bgError: 1.0
+upperLimit: 0.0515*fb
+expectedUpperLimit: 0.0437*fb

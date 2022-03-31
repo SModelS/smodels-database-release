@@ -1,0 +1,9 @@
+dataId: AR20
+dataType: efficiencyMap
+observedN: 49
+expectedBG: 50.9
+bgError: 6.37495
+comment: SR88_Njet67_Nb1_HT1200_MHT600850
+upperLimit: 0.130371*fb
+expectedUpperLimit: 0.143283*fb
+aggregated: SR88

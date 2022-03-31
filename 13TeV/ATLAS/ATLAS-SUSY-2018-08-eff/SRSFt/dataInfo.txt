@@ -1,0 +1,7 @@
+dataId: SRSFt
+dataType: efficiencyMap
+observedN: 5
+expectedBG: 5.0
+bgError: 1.1
+upperLimit: 0.0475*fb
+expectedUpperLimit: 0.0475*fb

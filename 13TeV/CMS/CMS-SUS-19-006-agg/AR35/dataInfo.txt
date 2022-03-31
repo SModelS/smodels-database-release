@@ -1,0 +1,9 @@
+dataId: AR35
+dataType: efficiencyMap
+observedN: 2
+expectedBG: 3.6
+bgError: 2.2561
+comment: SR140_Njet89_Nb3_HT1200_MHT600850
+upperLimit: 0.030750*fb
+expectedUpperLimit: 0.047046*fb
+aggregated: SR140

@@ -1,0 +1,9 @@
+dataId: ar2
+dataType: efficiencyMap
+observedN: 39.0
+expectedBG: 27.5
+bgError: 21.82888
+comment: Ntops=1_Nbjets=1_MT2=200-300_pTmiss=500-600;Ntops=1_Nbjets=1_MT2=200-300_pTmiss=600-750;Ntops=1_Nbjets=1_MT2=300-400_pTmiss=600-750;Ntops=2_Nbjets=1_MT2=200-300_pTmiss=450-600
+upperLimit: 1.554396*fb
+expectedUpperLimit: 1.227729*fb
+aggregated: sr2;sr3;sr8;sr50

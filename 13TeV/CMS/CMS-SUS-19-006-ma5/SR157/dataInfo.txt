@@ -1,0 +1,8 @@
+dataId: SR157
+dataType: efficiencyMap
+observedN: 0
+expectedBG: 0.0
+bgError: 3.2
+comment: SR157_Njet10_Nb1_HT8501700_MHT850
+upperLimit: 0.0481*fb
+expectedUpperLimit: 0.0481*fb

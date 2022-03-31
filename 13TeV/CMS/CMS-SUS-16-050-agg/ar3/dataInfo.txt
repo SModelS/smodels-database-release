@@ -1,0 +1,9 @@
+dataId: ar3
+dataType: efficiencyMap
+observedN: 358.0
+expectedBG: 308.26
+bgError: 46.95743
+comment: Ntops=1_Nbjets=1_MT2=200-550_pTmiss>=750;Ntops=1_Nbjets=1_MT2=300-400_pTmiss=400-500;Ntops=1_Nbjets=1_MT2=300-400_pTmiss=500-600;Ntops=1_Nbjets=1_MT2=400-550_pTmiss=500-600;Ntops=1_Nbjets=1_MT2=400-550_pTmiss=600-750;Ntops=1_Nbjets=1_MT2=550-750_pTmiss=500-600;Ntops=1_Nbjets=1_MT2=550-750_pTmiss=600-750;Ntops=1_Nbjets=1_MT2=550-750_pTmiss>=750;Ntops=1_Nbjets=1_MT2>=750_pTmiss>=750;Ntops=1_Nbjets=2_MT2=200-350_pTmiss=500-600;Ntops=1_Nbjets=2_MT2=350-450_pTmiss=250-400;Ntops=1_Nbjets=2_MT2=350-450_pTmiss=400-500;Ntops=1_Nbjets=2_MT2=350-450_pTmiss=500-600;Ntops=1_Nbjets=2_MT2=350-450_pTmiss=600-750;Ntops=1_Nbjets=2_MT2=450-650_pTmiss=400-500;Ntops=1_Nbjets=2_MT2=450-650_pTmiss=500-600;Ntops=1_Nbjets=2_MT2=450-650_pTmiss=600-750;Ntops=1_Nbjets=2_MT2>=650_pTmiss=250-600;Ntops=1_Nbjets=2_MT2>=650_pTmiss=600-750;Ntops=1_Nbjets=2_MT2>=650_pTmiss>=750;Ntops=2_Nbjets=1_MT2>=450_pTmiss=450-600;Ntops=2_Nbjets=1_MT2>=450_pTmiss>=600;Ntops=2_Nbjets=2_MT2>=400_pTmiss>=600;Ntops=2_Nbjets=2_MT2>=500_pTmiss=250-450;Ntops=2_Nbjets=2_MT2>=500_pTmiss=450-600;Ntops>=3_Nbjets=2_HT>=300_pTmiss>=400
+upperLimit: 4.091288*fb
+expectedUpperLimit: 2.741468*fb
+aggregated: sr4;sr6;sr7;sr11;sr12;sr15;sr16;sr17;sr20;sr23;sr26;sr27;sr28;sr29;sr31;sr32;sr33;sr34;sr35;sr36;sr56;sr57;sr67;sr68;sr69;sr81

@@ -1,0 +1,9 @@
+dataId: AR30
+dataType: efficiencyMap
+observedN: 46
+expectedBG: 46.8
+bgError: 6.65582
+comment: SR116_Njet89_Nb0_HT1200_MHT600850;SR124_Njet89_Nb1_HT1200_MHT600850;SR132_Njet89_Nb2_HT1200_MHT600850
+upperLimit: 0.135423*fb
+expectedUpperLimit: 0.143383*fb
+aggregated: SR116;SR124;SR132

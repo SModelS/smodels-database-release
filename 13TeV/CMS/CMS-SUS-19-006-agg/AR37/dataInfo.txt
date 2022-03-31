@@ -1,0 +1,9 @@
+dataId: AR37
+dataType: efficiencyMap
+observedN: 3
+expectedBG: 2.2
+bgError: 1.7088
+comment: SR169_Njet10_Nb3_HT6001200_MHT350600
+upperLimit: 0.044565*fb
+expectedUpperLimit: 0.033289*fb
+aggregated: SR169

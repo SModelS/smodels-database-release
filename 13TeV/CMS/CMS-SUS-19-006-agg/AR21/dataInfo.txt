@@ -1,0 +1,9 @@
+dataId: AR21
+dataType: efficiencyMap
+observedN: 7
+expectedBG: 5.9
+bgError: 2.37697
+comment: SR90_Njet67_Nb1_HT1700_MHT850
+upperLimit: 0.058467*fb
+expectedUpperLimit: 0.051698*fb
+aggregated: SR90

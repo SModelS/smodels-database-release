@@ -1,0 +1,8 @@
+dataId: SR6
+dataType: efficiencyMap
+observedN: 933
+expectedBG: 997.0
+bgError: 51.22499389946279
+comment: SR6_Njet23_Nb0_HT1200_MHT350600
+upperLimit: 0.559*fb
+expectedUpperLimit: 0.921*fb

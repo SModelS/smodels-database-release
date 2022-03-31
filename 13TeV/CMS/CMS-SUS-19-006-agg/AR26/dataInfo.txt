@@ -1,0 +1,9 @@
+dataId: AR26
+dataType: efficiencyMap
+observedN: 1
+expectedBG: 1.7
+bgError: 1.23693
+comment: SR100_Njet67_Nb2_HT1700_MHT850
+upperLimit: 0.022870*fb
+expectedUpperLimit: 0.034395*fb
+aggregated: SR100

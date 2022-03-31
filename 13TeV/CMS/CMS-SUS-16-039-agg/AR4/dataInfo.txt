@@ -1,0 +1,9 @@
+dataId: AR4
+dataType: efficiencyMap
+observedN: 4.0
+expectedBG: 3.1
+bgError: 1.2
+comment: AR4
+upperLimit: 0.170552*fb
+expectedUpperLimit: 0.142248*fb
+aggregated: SRA12_Mll0to75_MT160toInf_MET150to200
