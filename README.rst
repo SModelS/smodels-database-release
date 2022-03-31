@@ -32,6 +32,20 @@ building the binary file from the database folder and avoids possible machine de
 The database URLs can be found in the `releases page <https://github.com/SModelS/smodels-database-release/releases>`_.
 For more information check the `SModelS online manual`_.
 
+Adding Non-Aggregated Results
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+For some efficiency map results with a large number of signal regions, the official SModelS database
+is shipped with a reduced number of (aggregated) signal regions. However, the non-aggregated versions of the results
+are stored as a tarball on the top level of the database folder; for v2.2.0 this is *nonaggregated220.tar.gz*.
+To use them, simply expand this tarball in the directory::
+
+ cd <smodels-database folder>
+ tar -xzvf nonaggregated220.tar.gz
+
+The database will then be re-built accordingly upon first usage and include the non-aggregated results.
+The user has to be aware, however, that both the aggregated and non-aggregated results will be displayed in the output.
+
 
 Adding FastLim data
 ^^^^^^^^^^^^^^^^^^^
@@ -75,4 +89,3 @@ For citing the experimental analyses in the database, you can use
 
 .. _SModelS online manual: https://smodels.readthedocs.io/
 .. _SModelS: https://github.com/SModelS/smodels
-
