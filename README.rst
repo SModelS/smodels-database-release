@@ -28,7 +28,7 @@ correctly set the SModelS database path when running SModelS.
 Alternatively, from `SModelS v1.1.3 <https://github.com/SModelS/smodels/releases>`_ onwards, the database path
 can be specified as an URL, e.g. https://smodels.github.io/database/official123, and the binary
 database file will be automatically downloaded and used. This is often faster than
-building the binary file from the database folder and avoids possible machine dependences.
+building the binary file from the database folder and avoids possible machine dependencies.
 The database URLs can be found in the `releases page <https://github.com/SModelS/smodels-database-release/releases>`_.
 For more information check the `SModelS online manual`_.
 
