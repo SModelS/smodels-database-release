@@ -1,0 +1,7 @@
+dataId: SF_80_1
+dataType: efficiencyMap
+observedN: 22
+expectedBG: 28
+bgError: 8
+upperLimit: 0.1006*fb
+expectedUpperLimit: 0.1384*fb

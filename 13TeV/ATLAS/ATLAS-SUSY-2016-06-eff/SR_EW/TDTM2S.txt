@@ -1,4 +1,5 @@
 txName: TDTM2S
+intermediateState:  [['Hpm'],[]]
 constraint: [['*'],[]]
 condition: None
 conditionDescription: None
@@ -7,7 +8,6 @@ source: Recast by F. Rojas and A. Belyaev
 validated: N/A
 axes: [[(x, y), x - 1.0], [x - 1.0]]; [[(x, y), x], [x]]
 finalState: ['MET', 'MET']
-intermediateState: [['Hpm'], []]
 efficiencyMap: [[[[(1.0000E+02*GeV,6.5820E-14*GeV),1.0000E+02*GeV],[1.0000E+02*GeV]],1.7534e-06],
 [[[(1.0000E+02*GeV,4.3880E-14*GeV),1.0000E+02*GeV],[1.0000E+02*GeV]],7.8342e-06],
 [[[(1.0000E+02*GeV,3.2910E-14*GeV),1.0000E+02*GeV],[1.0000E+02*GeV]],2.1279e-05],

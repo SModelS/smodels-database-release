@@ -1,0 +1,8 @@
+dataId: SR11
+dataType: efficiencyMap
+observedN: 17.0
+expectedBG: 11.9
+bgError: 3.2
+comment: SRA11_Mll0to75_MT160toInf_MET100to150
+upperLimit: 0.471*fb
+expectedUpperLimit: 0.314*fb

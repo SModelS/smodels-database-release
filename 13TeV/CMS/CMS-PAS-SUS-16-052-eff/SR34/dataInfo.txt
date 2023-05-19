@@ -1,0 +1,7 @@
+dataId: SR2MbX
+dataType: efficiencyMap
+observedN: 35
+expectedBG: 26.0
+bgError: 3.5
+upperLimit: 0.667*fb
+expectedUpperLimit: 0.395*fb

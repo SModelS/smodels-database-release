@@ -1,0 +1,563 @@
+{
+    "channels": [
+        {
+            "name": "CRZZ_cuts",
+            "samples": [
+                {
+                    "data": [
+                        189.04761997557642
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    201.47621040894774
+                                ],
+                                "lo_data": [
+                                    176.6190295422051
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "CRtt_cuts",
+            "samples": [
+                {
+                    "data": [
+                        424.0466171987166
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    444.78311093775454
+                                ],
+                                "lo_data": [
+                                    403.31012345967866
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "CRZ_cuts",
+            "samples": [
+                {
+                    "data": [
+                        157.95209868561238
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    170.65843076647192
+                                ],
+                                "lo_data": [
+                                    145.24576660475284
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "CRDY_cuts",
+            "samples": [
+                {
+                    "data": [
+                        90.33466012234216
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    99.80299623338098
+                                ],
+                                "lo_data": [
+                                    80.86632401130333
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SRHigh4_cuts",
+            "samples": [
+                {
+                    "data": [
+                        0.8173050952196743
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    1.1537537653644123
+                                ],
+                                "lo_data": [
+                                    0.4808564250749363
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SRHigh8_1_cuts",
+            "samples": [
+                {
+                    "data": [
+                        1.9788641788846382
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    2.209677999082873
+                                ],
+                                "lo_data": [
+                                    1.7480503586864033
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SRHigh8_2_cuts",
+            "samples": [
+                {
+                    "data": [
+                        1.977602110582826
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    2.316036835638028
+                                ],
+                                "lo_data": [
+                                    1.639167385527624
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SRHigh16_1_cuts",
+            "samples": [
+                {
+                    "data": [
+                        3.8690042940398
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    4.613894034642816
+                                ],
+                                "lo_data": [
+                                    3.124114553436784
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SRHigh16_2_cuts",
+            "samples": [
+                {
+                    "data": [
+                        3.4140687031986046
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    4.432004327634948
+                                ],
+                                "lo_data": [
+                                    2.3961330787622614
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SRllbb_cuts",
+            "samples": [
+                {
+                    "data": [
+                        0.5447746342401943
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    0.7421441641817734
+                                ],
+                                "lo_data": [
+                                    0.34740510429861526
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SRInt_1_cuts",
+            "samples": [
+                {
+                    "data": [
+                        22.843604197860827
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    26.251763681172072
+                                ],
+                                "lo_data": [
+                                    19.435444714549583
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SRInt_2_cuts",
+            "samples": [
+                {
+                    "data": [
+                        10.101565250493957
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    11.115835061660123
+                                ],
+                                "lo_data": [
+                                    9.087295439327791
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SRLow_1_cuts",
+            "samples": [
+                {
+                    "data": [
+                        12.626274991323404
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    16.024401941396704
+                                ],
+                                "lo_data": [
+                                    9.228148041250105
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SRLow_2_cuts",
+            "samples": [
+                {
+                    "data": [
+                        10.496412091453504
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    12.977225670662769
+                                ],
+                                "lo_data": [
+                                    8.015598512244239
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SRLow2_cuts",
+            "samples": [
+                {
+                    "data": [
+                        9.443716622462272
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    12.450149673089285
+                                ],
+                                "lo_data": [
+                                    6.437283571835259
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SROffShell_1_cuts",
+            "samples": [
+                {
+                    "data": [
+                        9.170524269204417
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    10.876571170004917
+                                ],
+                                "lo_data": [
+                                    7.464477368403917
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SROffShell_2_cuts",
+            "samples": [
+                {
+                    "data": [
+                        12.58211157832634
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    14.48757163701032
+                                ],
+                                "lo_data": [
+                                    10.676651519642363
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        }
+    ],
+    "measurements": [
+        {
+            "config": {
+                "parameters": [
+                    {
+                        "auxdata": [
+                            1.0
+                        ],
+                        "bounds": [
+                            [
+                                0.915,
+                                1.085
+                            ]
+                        ],
+                        "fixed": true,
+                        "inits": [
+                            1.0
+                        ],
+                        "name": "lumi",
+                        "sigmas": [
+                            0.017
+                        ]
+                    }
+                ],
+                "poi": "mu_SIG"
+            },
+            "name": "NormalMeasurement"
+        }
+    ],
+    "observations": [
+        {
+            "data": [
+                194.0
+            ],
+            "name": "CRZZ_cuts"
+        },
+        {
+            "data": [
+                424.0
+            ],
+            "name": "CRtt_cuts"
+        },
+        {
+            "data": [
+                159.0
+            ],
+            "name": "CRZ_cuts"
+        },
+        {
+            "data": [
+                90.0
+            ],
+            "name": "CRDY_cuts"
+        },
+        {
+            "data": [
+                1.0
+            ],
+            "name": "SRHigh4_cuts"
+        },
+        {
+            "data": [
+                9.999999747378752e-05
+            ],
+            "name": "SRHigh8_1_cuts"
+        },
+        {
+            "data": [
+                9.999999747378752e-05
+            ],
+            "name": "SRHigh8_2_cuts"
+        },
+        {
+            "data": [
+                4.0
+            ],
+            "name": "SRHigh16_1_cuts"
+        },
+        {
+            "data": [
+                3.0
+            ],
+            "name": "SRHigh16_2_cuts"
+        },
+        {
+            "data": [
+                9.999999747378752e-05
+            ],
+            "name": "SRllbb_cuts"
+        },
+        {
+            "data": [
+                24.0
+            ],
+            "name": "SRInt_1_cuts"
+        },
+        {
+            "data": [
+                14.0
+            ],
+            "name": "SRInt_2_cuts"
+        },
+        {
+            "data": [
+                10.0
+            ],
+            "name": "SRLow_1_cuts"
+        },
+        {
+            "data": [
+                8.0
+            ],
+            "name": "SRLow_2_cuts"
+        },
+        {
+            "data": [
+                8.0
+            ],
+            "name": "SRLow2_cuts"
+        },
+        {
+            "data": [
+                6.0
+            ],
+            "name": "SROffShell_1_cuts"
+        },
+        {
+            "data": [
+                15.0
+            ],
+            "name": "SROffShell_2_cuts"
+        }
+    ],
+    "version": "1.0.0"
+}

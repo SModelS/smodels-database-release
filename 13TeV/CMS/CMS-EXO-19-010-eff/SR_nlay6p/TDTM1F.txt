@@ -1,4 +1,5 @@
 txName: TDTM1F
+intermediateState:  [['C1'],['C1']]
 constraint: [['*'],['*']]
 condition: None
 conditionDescription: None
@@ -7,7 +8,6 @@ source: CMS
 validated: True
 axes: [[(x, y), x - 1.5], [(x, y), x - 1.5]]; [[(x, y), x], [(x, y), x]]
 finalState: ['MET', 'MET']
-intermediateState: [['C1+'], ['C1-']]
 efficiencyMap: [[[[(1.0000E+02*GeV,1.9733E-18*GeV),1.0000E+02*GeV],[(1.0000E+02*GeV,1.9733E-18*GeV),1.0000E+02*GeV]],3.3419e-05],
 [[[(2.0000E+02*GeV,1.9733E-18*GeV),2.0000E+02*GeV],[(2.0000E+02*GeV,1.9733E-18*GeV),2.0000E+02*GeV]],8.436e-05],
 [[[(3.0000E+02*GeV,1.9733E-18*GeV),3.0000E+02*GeV],[(3.0000E+02*GeV,1.9733E-18*GeV),3.0000E+02*GeV]],0.00023769],

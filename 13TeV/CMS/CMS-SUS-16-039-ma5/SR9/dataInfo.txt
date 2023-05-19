@@ -1,0 +1,8 @@
+dataId: SR9
+dataType: efficiencyMap
+observedN: 3.0
+expectedBG: 0.8
+bgError: 0.4
+comment: SRA09_Mll0to75_MT100to160_MET200toInf
+upperLimit: 0.189*fb
+expectedUpperLimit: 0.111*fb

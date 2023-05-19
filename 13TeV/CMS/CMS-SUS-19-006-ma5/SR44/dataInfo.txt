@@ -1,0 +1,8 @@
+dataId: SR44
+dataType: efficiencyMap
+observedN: 4317
+expectedBG: 4460.0
+bgError: 374.83329627982624
+comment: SR44_Njet45_Nb1_HT350600_MHT350600
+upperLimit: 4.75*fb
+expectedUpperLimit: 5.78*fb

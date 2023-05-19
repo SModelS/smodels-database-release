@@ -1,0 +1,11 @@
+id: CMS-SUS-19-010
+sqrts: 13*TeV
+lumi: 137/fb
+url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-010/index.html
+arxiv: https://arxiv.org/abs/2103.01290
+publication: Phys. Rev. D 104 (2021) 052001
+publicationDOI: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.052001
+contact: cms-phys-conveners-sus@cern.ch
+supersedes: CMS-SUS-16-049
+implementedBy: Sahana Narasimha
+lastUpdate: 2023/5/11

@@ -1,0 +1,12 @@
+id: ATLAS-SUSY-2018-05-ewk
+sqrts: 13*TeV
+lumi: 139.0/fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-05/
+arxiv: http://arxiv.org/abs/2204.13072
+contact: atlas-phys-susy-conveners@cern.ch
+implementedBy: Sahana Narasimha
+lastUpdate: 2023/3/9
+datasetOrder:  "SRHigh4_cuts", "SRHigh8_1_cuts", "SRHigh8_2_cuts", "SRHigh16_1_cuts", "SRHigh16_2_cuts", "SRllbb_cuts", "SRInt_1_cuts", "SRInt_2_cuts", "SRLow_1_cuts", "SRLow_2_cuts", "SRLow2_cuts", "SROffShell_1_cuts", "SROffShell_2_cuts"
+jsonFiles: { "simplified.json" : ["SRHigh4_cuts", "SRHigh8_1_cuts", "SRHigh8_2_cuts", "SRHigh16_1_cuts", "SRHigh16_2_cuts", "SRllbb_cuts", "SRInt_1_cuts", "SRInt_2_cuts", "SRLow_1_cuts", "SRLow_2_cuts", "SRLow2_cuts", "SROffShell_1_cuts", "SROffShell_2_cuts"]}
+jsonFiles_FullLikelihood: { "ewk_signal_bkgonly.json" : ["SRHigh4_cuts", "SRHigh8_1_cuts", "SRHigh8_2_cuts", "SRHigh16_1_cuts", "SRHigh16_2_cuts", "SRllbb_cuts", "SRInt_1_cuts", "SRInt_2_cuts", "SRLow_1_cuts", "SRLow_2_cuts", "SRLow2_cuts", "SROffShell_1_cuts", "SROffShell_2_cuts"]}
+

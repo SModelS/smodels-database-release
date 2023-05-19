@@ -1,0 +1,8 @@
+dataId: SR32
+dataType: efficiencyMap
+observedN: 7277
+expectedBG: 7440.0
+bgError: 388.9730067755345
+comment: SR32_Njet45_Nb0_HT6001200_MHT300350
+upperLimit: 4.89*fb
+expectedUpperLimit: 6.05*fb

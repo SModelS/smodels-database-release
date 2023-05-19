@@ -3,7 +3,8 @@ sqrts: 13*TeV
 lumi: 139.0/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-14/
 arxiv: https://arxiv.org/abs/2011.07812
-publication: https://arxiv.org/pdf/2011.07812.pdf
+publication: Phys. Rev. Lett. 127 (2021) 051802
+publicationDOI: https://link.aps.org/doi/10.1103/PhysRevLett.127.051802
 contact: ATLAS collaboration
 implementedBy: GA
 lastUpdate: 2021/5/26

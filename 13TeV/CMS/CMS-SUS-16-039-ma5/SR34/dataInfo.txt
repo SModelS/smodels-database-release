@@ -1,0 +1,8 @@
+dataId: SR34
+dataType: efficiencyMap
+observedN: 4.0
+expectedBG: 11.6
+bgError: 2.6
+comment: SRA34_Mll105toInf_MT0to100_MET150to200
+upperLimit: 0.119*fb
+expectedUpperLimit: 0.301*fb

@@ -1,0 +1,7 @@
+dataId: SRC_Bin_1
+dataType: efficiencyMap
+observedN: 2.0
+expectedBG: 3.4351273442152888
+bgError: 1.7025138841397618
+upperLimit: 0.0349*fb
+expectedUpperLimit: 0.0478*fb

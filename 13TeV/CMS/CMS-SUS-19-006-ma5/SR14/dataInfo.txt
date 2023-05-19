@@ -1,0 +1,8 @@
+dataId: SR14
+dataType: efficiencyMap
+observedN: 11121
+expectedBG: 11900.0
+bgError: 1303.8404810405298
+comment: SR14_Njet23_Nb1_HT350600_MHT350600
+upperLimit: 14.6*fb
+expectedUpperLimit: 19.9*fb

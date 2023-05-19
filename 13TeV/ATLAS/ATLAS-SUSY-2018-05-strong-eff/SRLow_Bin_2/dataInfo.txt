@@ -1,0 +1,7 @@
+dataId: SRLow_Bin_2
+dataType: efficiencyMap
+observedN: 4.0
+expectedBG: 3.518383995629847
+bgError: 1.525256650649721
+upperLimit: 0.0507*fb
+expectedUpperLimit: 0.0465*fb

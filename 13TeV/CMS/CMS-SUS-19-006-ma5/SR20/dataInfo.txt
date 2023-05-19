@@ -1,0 +1,8 @@
+dataId: SR20
+dataType: efficiencyMap
+observedN: 5
+expectedBG: 6.0
+bgError: 3.7643060449437424
+comment: SR20_Njet23_Nb1_HT1700_MHT850
+upperLimit: 0.0668*fb
+expectedUpperLimit: 0.0769*fb

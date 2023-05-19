@@ -1,0 +1,8 @@
+dataId: SR38
+dataType: efficiencyMap
+observedN: 9.0
+expectedBG: 9.6
+bgError: 2.4
+comment: SRA38_Mll105toInf_MT100to160_MET100to150
+upperLimit: 0.242*fb
+expectedUpperLimit: 0.281*fb

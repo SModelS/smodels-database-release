@@ -1,0 +1,7 @@
+dataId: SRZHigh_cuts
+dataType: efficiencyMap
+observedN: 3.0
+expectedBG: 5.682671178132296
+bgError: 0.4098210613449702
+upperLimit: 0.0305*fb
+expectedUpperLimit: 0.0463*fb

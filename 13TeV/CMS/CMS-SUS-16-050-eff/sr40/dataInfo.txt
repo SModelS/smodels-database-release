@@ -1,0 +1,8 @@
+dataId: sr40
+dataType: efficiencyMap
+observedN: 2.0
+expectedBG: 2.4
+bgError: 3.0675723300355937
+comment: Ntops=1_Nbjets>=3_HT=300-1000_pTmiss>=550
+upperLimit: 0.206*fb
+expectedUpperLimit: 0.206*fb

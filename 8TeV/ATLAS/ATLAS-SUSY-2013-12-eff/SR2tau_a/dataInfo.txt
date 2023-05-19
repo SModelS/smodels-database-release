@@ -1,0 +1,7 @@
+dataId: SR2tau_a
+dataType: efficiencyMap
+observedN: 6
+expectedBG: 6.9
+bgError: 0.8
+upperLimit: 0.295*fb
+expectedUpperLimit: 0.335*fb

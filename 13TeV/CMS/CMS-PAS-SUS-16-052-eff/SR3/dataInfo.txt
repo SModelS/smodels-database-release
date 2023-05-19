@@ -1,0 +1,7 @@
+dataId: SR1LaX
+dataType: efficiencyMap
+observedN: 229
+expectedBG: 247.0
+bgError: 21.0
+upperLimit: 1.12*fb
+expectedUpperLimit: 1.55*fb

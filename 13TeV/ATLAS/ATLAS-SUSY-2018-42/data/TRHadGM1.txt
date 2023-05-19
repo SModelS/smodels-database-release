@@ -1,0 +1,25 @@
+txName: TRHadGM1
+constraint: [[],[]]
+condition: None
+figureUrl: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/figaux_26e.png, https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/fig_18a.png
+source: ATLAS
+validated: True
+axes: [[x], [x]]
+finalState: ['RHadronG', 'RHadronG']
+intermediateState: None
+upperLimits: [[[[1.60000E+03*GeV],[1.60000E+03*GeV]],1.08000E-03*pb],
+[[[1.80000E+03*GeV],[1.80000E+03*GeV]],9.18000E-04*pb],
+[[[2.00000E+03*GeV],[2.00000E+03*GeV]],7.07000E-04*pb],
+[[[2.20000E+03*GeV],[2.20000E+03*GeV]],7.16000E-04*pb],
+[[[2.40000E+03*GeV],[2.40000E+03*GeV]],7.30000E-04*pb],
+[[[2.60000E+03*GeV],[2.60000E+03*GeV]],7.66000E-04*pb],
+[[[2.80000E+03*GeV],[2.80000E+03*GeV]],4.88000E-04*pb],
+[[[3.00000E+03*GeV],[3.00000E+03*GeV]],4.98000E-04*pb]]
+expectedUpperLimits: [[[[1.60000E+03*GeV],[1.60000E+03*GeV]],4.26000E-04*pb],
+[[[1.80000E+03*GeV],[1.80000E+03*GeV]],4.26000E-04*pb],
+[[[2.00000E+03*GeV],[2.00000E+03*GeV]],4.25000E-04*pb],
+[[[2.20000E+03*GeV],[2.20000E+03*GeV]],3.94000E-04*pb],
+[[[2.40000E+03*GeV],[2.40000E+03*GeV]],3.98000E-04*pb],
+[[[2.60000E+03*GeV],[2.60000E+03*GeV]],4.22000E-04*pb],
+[[[2.80000E+03*GeV],[2.80000E+03*GeV]],4.84000E-04*pb],
+[[[3.00000E+03*GeV],[3.00000E+03*GeV]],4.88000E-04*pb]]

@@ -1,4 +1,5 @@
 txName: TDTM1S
+intermediateState:  [['Hpm'],['Hpm']]
 constraint: [['*'],['*']]
 condition: None
 conditionDescription: None
@@ -7,7 +8,6 @@ source: Recast by F. Rojas and A. Belyaev
 validated: N/A
 axes: [[(x, y), x - 1.0], [(x, y), x - 1.0]]; [[(x, y), x], [(x, y), x]]
 finalState: ['MET', 'MET']
-intermediateState: [['H+'], ['H-']]
 efficiencyMap: [[[[(1.0000E+02*GeV,6.5820E-14*GeV),1.0000E+02*GeV],[(1.0000E+02*GeV,6.5820E-14*GeV),1.0000E+02*GeV]],1.5294e-06],
 [[[(1.0000E+02*GeV,4.3880E-14*GeV),1.0000E+02*GeV],[(1.0000E+02*GeV,4.3880E-14*GeV),1.0000E+02*GeV]],9.7897e-06],
 [[[(1.0000E+02*GeV,3.2910E-14*GeV),1.0000E+02*GeV],[(1.0000E+02*GeV,3.2910E-14*GeV),1.0000E+02*GeV]],3.1103e-05],

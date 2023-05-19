@@ -1,0 +1,8 @@
+dataId: WH_SR7
+dataType: efficiencyMap
+observedN: 1
+expectedBG: 1.0161
+bgError: 1.09
+comment: WH_SR7
+upperLimit: 0.02806*fb
+expectedUpperLimit: 0.02824*fb

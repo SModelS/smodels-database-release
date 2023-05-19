@@ -2,7 +2,9 @@ id: ATLAS-SUSY-2019-08
 sqrts: 13*TeV
 lumi: 139.0/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/
-arxiv: arXiv:1909.09226
+arxiv: https://arxiv.org/abs/1909.09226
+publication: Eur. Phys. J. C 80 (2020) 691
+publicationDOI: https://doi.org/10.1140/epjc/s10052-020-8050-3
 contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: Wolfgang Waltenberger
 lastUpdate: 2020/1/26

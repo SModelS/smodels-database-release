@@ -1,0 +1,8 @@
+dataId: SR168
+dataType: efficiencyMap
+observedN: 5
+expectedBG: 5.6
+bgError: 2.4041630560342613
+comment: SR168_Njet10_Nb3_HT1200_MHT300350
+upperLimit: 0.0548*fb
+expectedUpperLimit: 0.0655*fb

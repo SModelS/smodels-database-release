@@ -2,7 +2,8 @@ id: ATLAS-SUSY-2018-22
 sqrts: 13*TeV
 lumi: 139.0/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/
-arxiv: arXiv:2010.14293
+arxiv: https://arxiv.org/abs/2010.14293
+publication: JHEP 02 (2021) 143
 contact: ATLAS collaboration
 implementedBy: Gael Alguero
 lastUpdate: 2021/1/28

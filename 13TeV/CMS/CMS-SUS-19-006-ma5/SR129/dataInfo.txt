@@ -1,0 +1,8 @@
+dataId: SR129
+dataType: efficiencyMap
+observedN: 158
+expectedBG: 174.0
+bgError: 14.212670403551895
+comment: SR129_Njet89_Nb2_HT6001200_MHT350600
+upperLimit: 0.207*fb
+expectedUpperLimit: 0.303*fb

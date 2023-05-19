@@ -2,7 +2,7 @@ txName: TChiWZ
 constraint: [[[W]],[[Z]]]
 condition: None
 conditionDescription: None
-figureUrl: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-03/fig_13c.png
+figureUrl: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-03/figaux_18c.png
 source: ATLAS
 validated: True
 axes: [[x, y], [x, y]]

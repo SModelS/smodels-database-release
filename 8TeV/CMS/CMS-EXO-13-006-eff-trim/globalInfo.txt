@@ -3,7 +3,8 @@ sqrts: 8*TeV
 lumi: 18.8/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html
 arxiv: https://arxiv.org/abs/1502.02522
-publication: https://cds.cern.ch/record/1987723/files/arXiv:1502.02522.pdf
+publication: Eur. Phys. J. C 75 (2015) 325
+publicationDOI: https://doi.org/10.1140/epjc/s10052-015-3533-3
 contact: SModelS
 implementedBy: Andre Lessa
 lastUpdate: 2021/1/15

@@ -1,0 +1,9 @@
+id: CMS-SUS-21-002
+sqrts: 13*TeV
+lumi: 137/fb
+url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-002/
+arxiv: https://arxiv.org/abs/2205.09597
+publication: Phys. Lett. B (to appear)
+contact: cms-phys-conveners-sus@cern.ch
+implementedBy: Sahana Narasimha
+lastUpdate: 2023/2/14

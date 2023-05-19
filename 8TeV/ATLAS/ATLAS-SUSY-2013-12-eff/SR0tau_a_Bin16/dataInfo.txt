@@ -1,0 +1,7 @@
+dataId: SR0tau_a_Bin16
+dataType: efficiencyMap
+observedN: 3
+expectedBG: 4.6
+bgError: 1.7
+upperLimit: 0.256*fb
+expectedUpperLimit: 0.291*fb

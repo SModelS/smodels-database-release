@@ -4,5 +4,6 @@ lumi: 35.9/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-001/index.html
 arxiv: http://arxiv.org/abs/1711.00752
 publication: Phys. Rev. D 97 (2018) 032009
+supersededBy: CMS-SUS-19-011
 implementedBy: Juhi Dutta
 lastUpdate: 2017/12/28

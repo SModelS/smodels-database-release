@@ -1,0 +1,7 @@
+dataId: SR1LaY
+dataType: efficiencyMap
+observedN: 68
+expectedBG: 81.2
+bgError: 8.4
+upperLimit: 0.462*fb
+expectedUpperLimit: 0.743*fb

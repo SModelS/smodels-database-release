@@ -3,7 +3,8 @@ sqrts: 13*TeV
 lumi: 35.9/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-039/index.html
 arxiv: https://arxiv.org/abs/1709.05406
-publication: Submitted to J. High Energy Phys.
+publication: JHEP 03 (2018) 166
+publicationDOI: https://doi.org/10.1007/JHEP03(2018)166
 contact: cms-phys-conveners-sus@cern.ch
 implementedBy: Juhi Dutta
 lastUpdate: 2018/1/21

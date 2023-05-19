@@ -1,0 +1,7 @@
+dataId: SF_785_79
+dataType: efficiencyMap
+observedN: 19
+expectedBG: 20.58
+bgError: 6.13
+upperLimit: 0.1003*fb
+expectedUpperLimit: 0.1113*fb

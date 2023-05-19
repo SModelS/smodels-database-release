@@ -1,0 +1,10 @@
+id: CMS-SUS-20-004
+sqrts: 13*TeV
+lumi: 137/fb
+url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/
+arxiv: https://arxiv.org/abs/2201.04206
+publication: JHEP 05 (2022) 014
+publicationDOI: https://doi.org/10.1007/JHEP05(2022)014
+contact: cms-phys-conveners-sus@cern.ch
+implementedBy: Sahana Narasimha
+lastUpdate: 2022/10/27

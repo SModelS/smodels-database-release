@@ -1,0 +1,8 @@
+dataId: sr78
+dataType: efficiencyMap
+observedN: 0.0
+expectedBG: 0.3
+bgError: 2.009975124224178
+comment: Ntops>=3_Nbjets=1_HT>=300_pTmiss=250-350
+upperLimit: 0.138*fb
+expectedUpperLimit: 0.138*fb

@@ -2,7 +2,9 @@ id: ATLAS-SUSY-2018-31
 sqrts: 13*TeV
 lumi: 139.0/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/
-arxiv: arXiv:1908.03122
+arxiv: https://arxiv.org/abs/1908.03122
+publication: JHEP 12 (2019) 060
+publicationDOI: https://doi.org/10.1007/JHEP12(2019)060
 contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: Wolfgang Waltenberger
 lastUpdate: 2019/12/4

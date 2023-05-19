@@ -1,0 +1,8 @@
+dataId: SR31
+dataType: efficiencyMap
+observedN: 23241
+expectedBG: 23280.0
+bgError: 827.3451516749221
+comment: SR31_Njet45_Nb0_HT300600_MHT300350
+upperLimit: 12.5*fb
+expectedUpperLimit: 12.8*fb

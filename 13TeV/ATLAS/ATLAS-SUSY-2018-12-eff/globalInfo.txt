@@ -2,5 +2,8 @@ id: ATLAS-SUSY-2018-12
 sqrts: 13.0*TeV
 lumi: 139./fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-12/
+arxiv: https://arxiv.org/abs/2004.14060
+publication: Eur. Phys. J. C 80 (2020) 737
+publicationDOI: https://doi.org/10.1140/epjc/s10052-020-8102-8
 implementedBy: Wolfgang Waltenberger
 lastUpdate: 2021/4/7

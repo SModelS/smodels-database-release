@@ -1,0 +1,7 @@
+dataId: SR1j_MT2_120_infty
+dataType: efficiencyMap
+observedN: 12
+expectedBG: 16
+bgError: 5
+upperLimit: 0.06847*fb
+expectedUpperLimit: 0.09446*fb

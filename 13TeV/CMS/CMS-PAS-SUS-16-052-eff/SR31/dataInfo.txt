@@ -1,0 +1,7 @@
+dataId: SR2HaY
+dataType: efficiencyMap
+observedN: 23
+expectedBG: 15.2
+bgError: 2.2
+upperLimit: 0.541*fb
+expectedUpperLimit: 0.291*fb

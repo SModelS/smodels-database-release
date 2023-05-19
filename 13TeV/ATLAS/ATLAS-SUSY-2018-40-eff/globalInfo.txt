@@ -3,6 +3,7 @@ sqrts: 13.0*TeV
 lumi: 139/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/
 arxiv: https://arxiv.org/abs/2103.08189
-publication: https://doi.org/10.1103/PhysRevD.104.032014
+publication: Phys. Rev. D 104 (2021) 032014
+publicationDOI: https://doi.org/10.1103/PhysRevD.104.032014
 implementedBy: Wolfgang Waltenberger
 lastUpdate: 2021/8/4

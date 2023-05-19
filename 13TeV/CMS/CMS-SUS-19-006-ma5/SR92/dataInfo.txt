@@ -1,0 +1,8 @@
+dataId: SR92
+dataType: efficiencyMap
+observedN: 797
+expectedBG: 803.0
+bgError: 37.53664875824692
+comment: SR92_Njet67_Nb2_HT6001200_MHT300350
+upperLimit: 0.679*fb
+expectedUpperLimit: 0.722*fb

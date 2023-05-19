@@ -1,0 +1,7 @@
+dataId: SR1MaX
+dataType: efficiencyMap
+observedN: 281
+expectedBG: 288.0
+bgError: 26.0
+upperLimit: 1.64*fb
+expectedUpperLimit: 1.83*fb

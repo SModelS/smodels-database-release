@@ -74,6 +74,10 @@ higgs = Particle(Z2parity=1, label='higgs', pdg=25, mass=125.*GeV, eCharge=0, co
 higgs = MultiParticle('higgs',[higgs,higgs.chargeConjugate('higgs')])
 ##-----------------------------------------------------------------------------------------------------------------------------
 
+#  A dummy particle to represent the primary vertex (production mode)
+pv = Particle(isSM=True, label='PV', pdg=0)
+
+
 ##Pions
 pip = Particle(Z2parity=1, label='pi+', pdg=211, mass=140.*MeV, eCharge=+1, colordim=1, spin=0, totalwidth = 0.*GeV)
 piz = Particle(Z2parity=1, label='pi0', pdg=111, mass=140.*MeV, eCharge=0, colordim=1, spin=0, totalwidth = 0.*GeV)
@@ -84,7 +88,7 @@ leptons = [e,mu,ta,eC,muC,taC,nu]
 gauge = [g,photon,Z,W,WC]
 quarks = [q,c,b,t,tC]
 
-SMList = leptons + gauge + quarks + [higgs,pion]
+SMList = leptons + gauge + quarks + [higgs,pion,pv]
 
 
 

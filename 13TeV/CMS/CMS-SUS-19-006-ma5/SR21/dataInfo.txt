@@ -1,0 +1,8 @@
+dataId: SR21
+dataType: efficiencyMap
+observedN: 1787
+expectedBG: 1710.0
+bgError: 300.83217912982644
+comment: SR21_Njet23_Nb2_HT300600_MHT300350
+upperLimit: 5.25*fb
+expectedUpperLimit: 4.61*fb

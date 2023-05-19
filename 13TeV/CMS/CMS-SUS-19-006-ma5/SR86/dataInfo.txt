@@ -1,0 +1,8 @@
+dataId: SR86
+dataType: efficiencyMap
+observedN: 269
+expectedBG: 268.0
+bgError: 26.248809496813376
+comment: SR86_Njet67_Nb1_HT1200_MHT350600
+upperLimit: 0.486*fb
+expectedUpperLimit: 0.478*fb

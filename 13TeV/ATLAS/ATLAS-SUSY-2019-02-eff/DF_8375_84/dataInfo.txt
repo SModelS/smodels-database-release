@@ -1,0 +1,7 @@
+dataId: DF_8375_84
+dataType: efficiencyMap
+observedN: 20
+expectedBG: 26.33
+bgError: 5.95
+upperLimit: 0.0776*fb
+expectedUpperLimit: 0.1152*fb

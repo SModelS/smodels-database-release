@@ -1,0 +1,7 @@
+dataId: SRHigh_Bin_2
+dataType: efficiencyMap
+observedN: 11.0
+expectedBG: 11.09393750037998
+bgError: 3.040438367861763
+upperLimit: 0.0764*fb
+expectedUpperLimit: 0.0772*fb

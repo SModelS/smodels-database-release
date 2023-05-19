@@ -4,5 +4,7 @@ lumi: 139/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/
 arxiv: https://arxiv.org/abs/1912.08479
 contact: atlas-phys-susy-conveners@cern.ch
+publication: Phys. Rev. D 101 (2020) 072001
+publicationDOI: https://doi.org/10.1103/PhysRevD.101.072001
 implementedBy: Gael Alguero
-lastUpdate: 2020/7/24
+lastUpdate: 2023/3/9

@@ -1,0 +1,8 @@
+dataId: SR7
+dataType: efficiencyMap
+observedN: 6786
+expectedBG: 7520.0
+bgError: 366.742416417845
+comment: SR7_Njet23_Nb0_HT6001200_MHT600850
+upperLimit: 2.36*fb
+expectedUpperLimit: 5.72*fb

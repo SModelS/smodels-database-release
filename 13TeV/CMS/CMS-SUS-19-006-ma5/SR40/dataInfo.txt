@@ -1,0 +1,8 @@
+dataId: SR40
+dataType: efficiencyMap
+observedN: 51
+expectedBG: 44.6
+bgError: 7.043436661176133
+comment: SR40_Njet45_Nb0_HT1700_MHT850
+upperLimit: 0.207*fb
+expectedUpperLimit: 0.16*fb

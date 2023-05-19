@@ -1,0 +1,7 @@
+dataId: SRMed_Bin_2
+dataType: efficiencyMap
+observedN: 27.0
+expectedBG: 27.937604054808617
+bgError: 2.0638126137366473
+upperLimit: 0.0885*fb
+expectedUpperLimit: 0.0946*fb

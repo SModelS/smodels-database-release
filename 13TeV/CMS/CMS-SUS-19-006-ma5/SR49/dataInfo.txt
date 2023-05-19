@@ -1,0 +1,8 @@
+dataId: SR49
+dataType: efficiencyMap
+observedN: 73
+expectedBG: 82.0
+bgError: 13.92838827718412
+comment: SR49_Njet45_Nb1_HT8501700_MHT850
+upperLimit: 0.2*fb
+expectedUpperLimit: 0.261*fb

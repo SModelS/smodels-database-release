@@ -1,0 +1,8 @@
+dataId: SR4
+dataType: efficiencyMap
+observedN: 1.0
+expectedBG: 3.3
+bgError: 1.0
+comment: SRA04_Mll0to75_MT0to100_MET200to250
+upperLimit: 0.0964*fb
+expectedUpperLimit: 0.147*fb

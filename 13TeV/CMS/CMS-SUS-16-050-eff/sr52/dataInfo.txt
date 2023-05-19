@@ -1,0 +1,8 @@
+dataId: sr52
+dataType: efficiencyMap
+observedN: 38.0
+expectedBG: 32.0
+bgError: 5.830951894845301
+comment: Ntops=2_Nbjets=1_MT2=300-450_pTmiss=250-350
+upperLimit: 0.686*fb
+expectedUpperLimit: 0.507*fb

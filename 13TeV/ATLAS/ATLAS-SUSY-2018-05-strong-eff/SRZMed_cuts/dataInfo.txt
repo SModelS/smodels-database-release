@@ -1,0 +1,7 @@
+dataId: SRZMed_cuts
+dataType: efficiencyMap
+observedN: 15.0
+expectedBG: 14.899351075291634
+bgError: 1.0505669385064922
+upperLimit: 0.0704*fb
+expectedUpperLimit: 0.0697*fb

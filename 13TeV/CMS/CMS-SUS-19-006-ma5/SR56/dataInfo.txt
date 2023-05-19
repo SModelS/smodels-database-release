@@ -1,0 +1,8 @@
+dataId: SR56
+dataType: efficiencyMap
+observedN: 78
+expectedBG: 85.0
+bgError: 16.278820596099706
+comment: SR56_Njet45_Nb2_HT1200_MHT350600
+upperLimit: 0.242*fb
+expectedUpperLimit: 0.293*fb

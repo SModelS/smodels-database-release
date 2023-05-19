@@ -1,0 +1,7 @@
+dataId: SRZLow_cuts
+dataType: efficiencyMap
+observedN: 35.0
+expectedBG: 29.663204587996006
+bgError: 1.231685169627945
+upperLimit: 0.131*fb
+expectedUpperLimit: 0.0933*fb

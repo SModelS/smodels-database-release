@@ -1,0 +1,7 @@
+dataId: SR1j_MT2_120_125
+dataType: efficiencyMap
+observedN: 5
+expectedBG: 4.65
+bgError: 1.84
+upperLimit: 0.04945*fb
+expectedUpperLimit: 0.04663*fb

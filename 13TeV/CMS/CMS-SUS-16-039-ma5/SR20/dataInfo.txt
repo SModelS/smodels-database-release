@@ -1,0 +1,8 @@
+dataId: SR20
+dataType: efficiencyMap
+observedN: 5.0
+expectedBG: 8.5
+bgError: 2.9
+comment: SRA20_Mll75to105_MT0to100_MET400to550
+upperLimit: 0.18*fb
+expectedUpperLimit: 0.256*fb
