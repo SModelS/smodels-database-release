@@ -1,8 +1,0 @@
-dataId: SR13
-dataType: efficiencyMap
-observedN: 3.0
-expectedBG: 2.1
-bgError: 0.8
-comment: SRA13_Mll0to75_MT160toInf_MET200to250
-upperLimit: 0.165*fb
-expectedUpperLimit: 0.132*fb

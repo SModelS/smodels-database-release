@@ -1,8 +1,0 @@
-dataId: SR4
-dataType: efficiencyMap
-observedN: 100830
-expectedBG: 104900.0
-bgError: 2353.720459187964
-comment: SR4_Njet23_Nb0_HT350600_MHT350600
-upperLimit: 16.1*fb
-expectedUpperLimit: 36.0*fb

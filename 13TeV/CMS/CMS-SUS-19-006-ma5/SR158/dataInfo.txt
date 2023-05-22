@@ -1,8 +1,0 @@
-dataId: SR158
-dataType: efficiencyMap
-observedN: 1
-expectedBG: 0.9
-bgError: 1.6031219541881399
-comment: SR158_Njet10_Nb1_HT1700_MHT850
-upperLimit: 0.0374*fb
-expectedUpperLimit: 0.0374*fb

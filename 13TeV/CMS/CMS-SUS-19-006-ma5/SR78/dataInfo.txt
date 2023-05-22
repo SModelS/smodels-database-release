@@ -1,8 +1,0 @@
-dataId: SR78
-dataType: efficiencyMap
-observedN: 122
-expectedBG: 104.8
-bgError: 9.402127418834526
-comment: SR78_Njet67_Nb0_HT1200_MHT600850
-upperLimit: 0.35*fb
-expectedUpperLimit: 0.222*fb

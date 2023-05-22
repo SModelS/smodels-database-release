@@ -1,7 +1,0 @@
-dataId: SR2VLaX
-dataType: efficiencyMap
-observedN: 12
-expectedBG: 15.4
-bgError: 3.3
-upperLimit: 0.243*fb
-expectedUpperLimit: 0.322*fb

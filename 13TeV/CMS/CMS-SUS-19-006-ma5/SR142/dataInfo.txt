@@ -1,8 +1,0 @@
-dataId: SR142
-dataType: efficiencyMap
-observedN: 0
-expectedBG: 0.2
-bgError: 1.8027756377319946
-comment: SR142_Njet89_Nb3_HT1700_MHT850
-upperLimit: 0.0344*fb
-expectedUpperLimit: 0.0344*fb

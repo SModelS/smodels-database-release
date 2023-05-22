@@ -1,8 +1,0 @@
-dataId: SR26
-dataType: efficiencyMap
-observedN: 13
-expectedBG: 17.5
-bgError: 5.964059020499379
-comment: SR26_Njet23_Nb2_HT1200_MHT350600
-upperLimit: 0.0855*fb
-expectedUpperLimit: 0.125*fb

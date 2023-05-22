@@ -1,8 +1,0 @@
-dataId: SR108
-dataType: efficiencyMap
-observedN: 2
-expectedBG: 3.0
-bgError: 2.039607805437114
-comment: SR108_Njet67_Nb3_HT1200_MHT600850
-upperLimit: 0.0391*fb
-expectedUpperLimit: 0.0502*fb

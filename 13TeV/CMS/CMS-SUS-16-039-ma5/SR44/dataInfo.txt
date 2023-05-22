@@ -1,8 +1,0 @@
-dataId: SR44
-dataType: efficiencyMap
-observedN: 0.0
-expectedBG: 2.5
-bgError: 0.8
-comment: SRA44_Mll105toInf_MT160toInf_MET200toInf
-upperLimit: 0.0948*fb
-expectedUpperLimit: 0.12*fb

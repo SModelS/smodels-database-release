@@ -1,8 +1,0 @@
-dataId: SR36
-dataType: efficiencyMap
-observedN: 1141
-expectedBG: 1148.0
-bgError: 84.86459803710851
-comment: SR36_Njet45_Nb0_HT1200_MHT350600
-upperLimit: 1.34*fb
-expectedUpperLimit: 1.39*fb

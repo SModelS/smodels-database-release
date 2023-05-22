@@ -1,7 +1,0 @@
-dataId: SR2HbX
-dataType: efficiencyMap
-observedN: 36
-expectedBG: 27.6
-bgError: 3.7
-upperLimit: 0.66*fb
-expectedUpperLimit: 0.392*fb

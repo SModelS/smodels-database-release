@@ -1,8 +1,0 @@
-dataId: SR60
-dataType: efficiencyMap
-observedN: 1
-expectedBG: 1.5
-bgError: 2.6172504656604803
-comment: SR60_Njet45_Nb2_HT1700_MHT850
-upperLimit: 0.044*fb
-expectedUpperLimit: 0.0559*fb

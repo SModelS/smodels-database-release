@@ -1,8 +1,0 @@
-dataId: SR62
-dataType: efficiencyMap
-observedN: 92
-expectedBG: 99.0
-bgError: 16.401219466856727
-comment: SR62_Njet45_Nb3_HT6001200_MHT300350
-upperLimit: 0.25*fb
-expectedUpperLimit: 0.3*fb

@@ -1,8 +1,0 @@
-dataId: SR2
-dataType: efficiencyMap
-observedN: 7820
-expectedBG: 8060.0
-bgError: 297.3213749463701
-comment: SR2_Njet23_Nb0_HT6001200_MHT300350
-upperLimit: 3.2*fb
-expectedUpperLimit: 4.72*fb

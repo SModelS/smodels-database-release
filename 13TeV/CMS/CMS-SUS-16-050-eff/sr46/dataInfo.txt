@@ -1,8 +1,0 @@
-dataId: sr46
-dataType: efficiencyMap
-observedN: 1.0
-expectedBG: 3.4
-bgError: 4.104875150354758
-comment: Ntops=1_Nbjets>=3_HT>=1500_pTmiss=350-550
-upperLimit: 0.196*fb
-expectedUpperLimit: 0.264*fb

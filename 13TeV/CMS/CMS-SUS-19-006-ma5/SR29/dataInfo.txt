@@ -1,8 +1,0 @@
-dataId: SR29
-dataType: efficiencyMap
-observedN: 9
-expectedBG: 12.6
-bgError: 6.020797289396148
-comment: SR29_Njet23_Nb2_HT8501700_MHT850
-upperLimit: 0.0868*fb
-expectedUpperLimit: 0.119*fb

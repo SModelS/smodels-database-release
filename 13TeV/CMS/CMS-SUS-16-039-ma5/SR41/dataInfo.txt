@@ -1,8 +1,0 @@
-dataId: SR41
-dataType: efficiencyMap
-observedN: 9.0
-expectedBG: 9.4
-bgError: 2.4
-comment: SRA41_Mll105toInf_MT160toInf_MET50to100
-upperLimit: 0.248*fb
-expectedUpperLimit: 0.248*fb

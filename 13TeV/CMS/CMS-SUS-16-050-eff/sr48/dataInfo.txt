@@ -1,8 +1,0 @@
-dataId: sr48
-dataType: efficiencyMap
-observedN: 57.0
-expectedBG: 60.0
-bgError: 12.529964086141668
-comment: Ntops=2_Nbjets=1_MT2=200-300_pTmiss=250-350
-upperLimit: 0.801*fb
-expectedUpperLimit: 0.888*fb

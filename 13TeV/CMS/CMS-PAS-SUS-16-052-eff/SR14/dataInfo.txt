@@ -1,7 +1,0 @@
-dataId: SR1VLbY
-dataType: efficiencyMap
-observedN: 15
-expectedBG: 11.9
-bgError: 2.8
-upperLimit: 0.391*fb
-expectedUpperLimit: 0.268*fb

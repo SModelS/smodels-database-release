@@ -1,8 +1,0 @@
-dataId: SR123
-dataType: efficiencyMap
-observedN: 7
-expectedBG: 12.2
-bgError: 3.324154027718932
-comment: SR123_Njet89_Nb1_HT6001200_MHT600850
-upperLimit: 0.047*fb
-expectedUpperLimit: 0.081*fb

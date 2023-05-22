@@ -1,8 +1,0 @@
-dataId: SR16
-dataType: efficiencyMap
-observedN: 429.0
-expectedBG: 440.0
-bgError: 70.0
-comment: SRA16_Mll75to105_MT0to100_MET100to150
-upperLimit: 3.94*fb
-expectedUpperLimit: 4.26*fb

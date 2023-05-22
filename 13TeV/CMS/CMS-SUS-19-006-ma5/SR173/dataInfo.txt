@@ -1,8 +1,0 @@
-dataId: SR173
-dataType: efficiencyMap
-observedN: 0
-expectedBG: 0.0
-bgError: 2.0
-comment: SR173_Njet10_Nb3_HT8501700_MHT850
-upperLimit: 0.0344*fb
-expectedUpperLimit: 0.0344*fb

@@ -1,8 +1,0 @@
-dataId: SR45
-dataType: efficiencyMap
-observedN: 3822
-expectedBG: 3780.0
-bgError: 308.05843601498725
-comment: SR45_Njet45_Nb1_HT6001200_MHT350600
-upperLimit: 5.11*fb
-expectedUpperLimit: 4.77*fb

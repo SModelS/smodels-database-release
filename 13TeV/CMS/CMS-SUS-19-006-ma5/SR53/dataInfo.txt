@@ -1,8 +1,0 @@
-dataId: SR53
-dataType: efficiencyMap
-observedN: 72
-expectedBG: 70.0
-bgError: 26.92582403567252
-comment: SR53_Njet45_Nb2_HT1200_MHT300350
-upperLimit: 0.453*fb
-expectedUpperLimit: 0.436*fb

@@ -1,8 +1,0 @@
-dataId: SR140
-dataType: efficiencyMap
-observedN: 2
-expectedBG: 3.6
-bgError: 2.2561028345356955
-comment: SR140_Njet89_Nb3_HT1200_MHT600850
-upperLimit: 0.0409*fb
-expectedUpperLimit: 0.0589*fb

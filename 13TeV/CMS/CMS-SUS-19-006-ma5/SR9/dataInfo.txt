@@ -1,8 +1,0 @@
-dataId: SR9
-dataType: efficiencyMap
-observedN: 933
-expectedBG: 1205.0
-bgError: 101.92153844992725
-comment: SR9_Njet23_Nb0_HT8501700_MHT850
-upperLimit: 0.554*fb
-expectedUpperLimit: 1.64*fb

@@ -1,8 +1,0 @@
-dataId: SR101
-dataType: efficiencyMap
-observedN: 86
-expectedBG: 78.0
-bgError: 9.394147114027968
-comment: SR101_Njet67_Nb3_HT300600_MHT300350
-upperLimit: 0.265*fb
-expectedUpperLimit: 0.205*fb

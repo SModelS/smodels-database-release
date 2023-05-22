@@ -1,8 +1,0 @@
-dataId: SR136
-dataType: efficiencyMap
-observedN: 17
-expectedBG: 22.2
-bgError: 4.753945729601885
-comment: SR136_Njet89_Nb3_HT1200_MHT300350
-upperLimit: 0.0749*fb
-expectedUpperLimit: 0.109*fb

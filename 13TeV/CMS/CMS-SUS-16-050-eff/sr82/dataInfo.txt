@@ -1,8 +1,0 @@
-dataId: sr82
-dataType: efficiencyMap
-observedN: 0.0
-expectedBG: 0.5
-bgError: 1.5811388300841898
-comment: Ntops>=3_Nbjets>=3_HT>=300_pTmiss=250-350
-upperLimit: 0.117*fb
-expectedUpperLimit: 0.117*fb

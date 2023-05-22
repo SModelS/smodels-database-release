@@ -1,8 +1,0 @@
-dataId: SR109
-dataType: efficiencyMap
-observedN: 1
-expectedBG: 0.5
-bgError: 1.2165525060596438
-comment: SR109_Njet67_Nb3_HT8501700_MHT850
-upperLimit: 0.0373*fb
-expectedUpperLimit: 0.027*fb

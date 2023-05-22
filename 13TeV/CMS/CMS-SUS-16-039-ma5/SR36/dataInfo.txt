@@ -1,8 +1,0 @@
-dataId: SR36
-dataType: efficiencyMap
-observedN: 5.0
-expectedBG: 3.7
-bgError: 1.0
-comment: SRA36_Mll105toInf_MT0to100_MET250toInf
-upperLimit: 0.209*fb
-expectedUpperLimit: 0.179*fb

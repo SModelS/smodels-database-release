@@ -1,8 +1,0 @@
-dataId: SR33
-dataType: efficiencyMap
-observedN: 32.0
-expectedBG: 32.0
-bgError: 5.0
-comment: SRA33_Mll105toInf_MT0to100_MET100to150
-upperLimit: 0.474*fb
-expectedUpperLimit: 0.474*fb

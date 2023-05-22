@@ -1,8 +1,0 @@
-dataId: SR8
-dataType: efficiencyMap
-observedN: 277
-expectedBG: 293.0
-bgError: 21.2602916254693
-comment: SR8_Njet23_Nb0_HT1200_MHT600850
-upperLimit: 0.321*fb
-expectedUpperLimit: 0.423*fb
