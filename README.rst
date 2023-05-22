@@ -8,7 +8,7 @@ layer serving as the access to the database.
 The overall structure of the directory hierarchy and its contents is
 depicted in the scheme below:
 
-.. image:: https://github.com/SModelS/smodels/blob/master/docs/manual/source/images/DatabaseFolders.png
+.. image:: https://github.com/SModelS/smodels/blob/main/docs/manual/source/images/DatabaseFolders.png
    :scale: 30
 
 
