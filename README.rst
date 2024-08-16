@@ -26,7 +26,7 @@ The database can conveniently be updated independently from `SModelS`_ code
 updates. It suffices to download or clone this repository to a local folder and
 correctly set the SModelS database path when running SModelS.
 Alternatively, from `SModelS v1.1.3 <https://github.com/SModelS/smodels/releases>`_ onwards, the database path
-can be specified as an URL, e.g. https://smodels.github.io/database/official123, and the binary
+can be specified as an URL, e.g. https://smodels.github.io/database/official300, and the binary
 database file will be automatically downloaded and used. This is often faster than
 building the binary file from the database folder and avoids possible machine dependencies.
 The database URLs can be found in the `releases page <https://github.com/SModelS/smodels-database-release/releases>`_.
@@ -37,11 +37,11 @@ Adding Non-Aggregated Results
 
 For some efficiency map results with a large number of signal regions, the official SModelS database
 is shipped with a reduced number of (aggregated) signal regions. However, the non-aggregated versions of the results
-are stored as a tarball on the top level of the database folder; for v2.2.0 this is *nonaggregated220.tar.gz*.
+are stored as a tarball on the top level of the database folder; for v3.0.0 this is *nonaggregated300.tar.gz*.
 To use them, simply expand this tarball in the directory::
 
  cd <smodels-database folder>
- tar -xzvf nonaggregated220.tar.gz
+ tar -xzvf nonaggregated300.tar.gz
 
 The database will then be re-built accordingly upon first usage and include the non-aggregated results.
 The user has to be aware, however, that both the aggregated and non-aggregated results will be displayed in the output.
