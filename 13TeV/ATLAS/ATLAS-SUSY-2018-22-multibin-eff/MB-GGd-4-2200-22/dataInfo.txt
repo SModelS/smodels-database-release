@@ -1,0 +1,7 @@
+dataId: MB-GGd-4-2200-22
+dataType: efficiencyMap
+observedN: 15
+expectedBG: 16.4353
+bgError: 1.4234
+upperLimit: 0.06099*fb
+expectedUpperLimit: 0.06836*fb

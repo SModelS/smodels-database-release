@@ -1,0 +1,14 @@
+txName: TRHadGM1
+constraint: [[],[]]
+condition: None
+figureUrl: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/fig_16a.png
+source: ATLAS
+validated: True
+axes: [[(x, y)], [(x, y)]]
+axesMap: [[[(x, y)], [(x, y)]]]
+finalState: ['RHadronG', 'RHadronG']
+intermediateState: None
+efficiencyMap: [[[[(1.600000E+03*GeV,0.000000E+00*GeV)],[(1.600000E+03*GeV,0.000000E+00*GeV)]],0.05383921],
+[[[(1.600000E+03*GeV,6.582000E-20*GeV)],[(1.600000E+03*GeV,6.582000E-20*GeV)]],0.05383921],
+[[[(1.800000E+03*GeV,0.000000E+00*GeV)],[(1.800000E+03*GeV,0.000000E+00*GeV)]],0.05383921],
+[[[(1.800000E+03*GeV,6.582000E-20*GeV)],[(1.800000E+03*GeV,6.582000E-20*GeV)]],0.05383921]]

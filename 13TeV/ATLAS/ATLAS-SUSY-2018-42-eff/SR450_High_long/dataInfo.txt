@@ -1,0 +1,7 @@
+dataId: SR450_High_long
+dataType: efficiencyMap
+observedN: 2
+expectedBG: 3.0
+bgError: 0.23
+upperLimit: 0.030935251798561148*fb
+expectedUpperLimit: 0.03669064748201439*fb

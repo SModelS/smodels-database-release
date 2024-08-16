@@ -2,7 +2,8 @@ id: ATLAS-SUSY-2013-18
 sqrts: 8.0*TeV
 lumi: 20.1/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-18/
-publication: https://link.springer.com/article/10.1007/JHEP10(2014)024
+publication: JHEP 10 (2014) 024
+publicationDOI: https://doi.org/10.1007/JHEP10(2014)024
 supersedes: ATLAS-CONF-2013-061
 implementedBy: Wolfgang Waltenberger
 lastUpdate: 2021/4/12

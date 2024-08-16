@@ -1,0 +1,7 @@
+dataId: SR300_Low_long
+dataType: efficiencyMap
+observedN: 35
+expectedBG: 40.9
+bgError: 2.7
+upperLimit: 0.07913669064748201*fb
+expectedUpperLimit: 0.1079136690647482*fb

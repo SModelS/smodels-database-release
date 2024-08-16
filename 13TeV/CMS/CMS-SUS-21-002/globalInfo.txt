@@ -3,7 +3,8 @@ sqrts: 13*TeV
 lumi: 137/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-002/
 arxiv: https://arxiv.org/abs/2205.09597
-publication: Phys. Lett. B (to appear)
+publication: Phys. Lett. B 842 (2023) 137460
+publicationDOI: https://doi.org/10.1016/j.physletb.2022.137460
 contact: cms-phys-conveners-sus@cern.ch
 implementedBy: Sahana Narasimha
 lastUpdate: 2023/2/14

@@ -1,0 +1,7 @@
+dataId: SR1600_High_long
+dataType: efficiencyMap
+observedN: 5
+expectedBG: 0.54
+bgError: 0.35
+upperLimit: 0.0683453237410072*fb
+expectedUpperLimit: 0.022302158273381296*fb

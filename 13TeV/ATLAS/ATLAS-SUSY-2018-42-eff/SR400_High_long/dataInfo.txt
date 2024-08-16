@@ -1,0 +1,7 @@
+dataId: SR400_High_long
+dataType: efficiencyMap
+observedN: 2
+expectedBG: 3.83
+bgError: 0.26
+upperLimit: 0.030215827338129497*fb
+expectedUpperLimit: 0.03884892086330936*fb

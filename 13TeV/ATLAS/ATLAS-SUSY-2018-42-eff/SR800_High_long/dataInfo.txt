@@ -1,0 +1,7 @@
+dataId: SR800_High_long
+dataType: efficiencyMap
+observedN: 3
+expectedBG: 1.74
+bgError: 0.16
+upperLimit: 0.04172661870503597*fb
+expectedUpperLimit: 0.02949640287769784*fb

@@ -1,0 +1,7 @@
+dataId: SR1100_High_long
+dataType: efficiencyMap
+observedN: 4
+expectedBG: 1.0
+bgError: 0.5
+upperLimit: 0.05467625899280575*fb
+expectedUpperLimit: 0.026618705035971225*fb

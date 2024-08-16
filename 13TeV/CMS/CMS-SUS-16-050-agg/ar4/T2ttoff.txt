@@ -1,0 +1,15 @@
+txName: T2ttoff
+constraint: [[['b','W']],[['b','W']]]
+condition: None
+conditionDescription: None
+figureUrl: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/CMS-SUS-16-050_Figure_008.png
+source: CMS
+validated: False
+axes: [[x, y], [x, y]]
+finalState: ['MET', 'MET']
+intermediateState: None
+efficiencyMap: [[[[3.8750E+02*GeV,2.3750E+02*GeV],[3.8750E+02*GeV,2.3750E+02*GeV]],1.4031e-06],
+[[[4.3750E+02*GeV,2.8750E+02*GeV],[4.3750E+02*GeV,2.8750E+02*GeV]],2.6842e-06],
+[[[4.6250E+02*GeV,3.3750E+02*GeV],[4.6250E+02*GeV,3.3750E+02*GeV]],1.5093e-06],
+[[[4.8750E+02*GeV,3.3750E+02*GeV],[4.8750E+02*GeV,3.3750E+02*GeV]],2.4951e-06],
+[[[4.8750E+02*GeV,3.6250E+02*GeV],[4.8750E+02*GeV,3.6250E+02*GeV]],1.9369e-06]]

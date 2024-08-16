@@ -1,0 +1,7 @@
+dataId: SR600_High_long
+dataType: efficiencyMap
+observedN: 2
+expectedBG: 2.64
+bgError: 0.19
+upperLimit: 0.030215827338129497*fb
+expectedUpperLimit: 0.031654676258992806*fb

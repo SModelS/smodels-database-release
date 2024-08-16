@@ -1,0 +1,7 @@
+dataId: MB-SSd-4-1600-16
+dataType: efficiencyMap
+observedN: 461
+expectedBG: 496.2411
+bgError: 10.0148
+upperLimit: 0.2104*fb
+expectedUpperLimit: 0.3215*fb

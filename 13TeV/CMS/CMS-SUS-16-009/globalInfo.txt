@@ -2,6 +2,8 @@ id: CMS-SUS-16-009
 sqrts: 13*TeV
 lumi: 2.3/fb
 url: https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-009/
+arxiv: https://arxiv.org/abs/1701.01954v2
 publication: Phys. Rev. D 96 (2017), 012004
+publicationDOI: https://doi.org/10.1103/PhysRevD.96.012004
 implementedBy: ck
 lastUpdate: 2020/3/11

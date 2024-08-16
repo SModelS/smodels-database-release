@@ -1,0 +1,7 @@
+dataId: MB-SSd-4-2200-22
+dataType: efficiencyMap
+observedN: 113
+expectedBG: 120.3217
+bgError: 3.8564
+upperLimit: 0.137*fb
+expectedUpperLimit: 0.168*fb

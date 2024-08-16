@@ -1,13 +1,13 @@
 txName: TDTM2F
+constraint: [[[*anySM]],[]]
+finalState: ['MET','MET']
 intermediateState:  [['C1'],[]]
-constraint: [['*'],[]]
 condition: None
 conditionDescription: None
 figureUrl: None
 source: Recast by F. Rojas and A. Belyaev
 validated: True
 axes: [[(x, y), x - 1.0], [x - 1.0]]; [[(x, y), x], [x]]
-finalState: ['MET', 'MET']
 efficiencyMap: [[[[(9.0678E+01*GeV,6.5820E-14*GeV),9.0678E+01*GeV],[9.0678E+01*GeV]],4.2452e-07],
 [[[(9.0678E+01*GeV,4.3880E-14*GeV),9.0678E+01*GeV],[9.0678E+01*GeV]],2.3563e-06],
 [[[(9.0678E+01*GeV,3.2910E-14*GeV),9.0678E+01*GeV],[9.0678E+01*GeV]],7.2902e-06],

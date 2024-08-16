@@ -1,0 +1,10 @@
+id: CMS-EXO-19-012
+sqrts: 13*TeV
+lumi: 137/fb
+url: https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-012/index.html
+arxiv: https://arxiv.org/abs/1911.03947
+publication: JHEP 05 (2020) 033
+publicationDOI: https://doi.org/10.1007/JHEP05(2020)033
+contact: cms-phys-conveners-exo@cern.ch
+implementedBy: Yoxara Villamizar
+lastUpdate: 2024/3/9

@@ -1,0 +1,7 @@
+dataId: SR_Trackless
+dataType: efficiencyMap
+observedN: 0
+expectedBG: 0.83
+bgError: 0.53
+upperLimit: 0.022*fb
+expectedUpperLimit: 0.025*fb

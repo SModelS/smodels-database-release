@@ -1,0 +1,11 @@
+id: ATLAS-EXOT-2013-11
+sqrts: 8*TeV
+lumi: 20.3/fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2013-11
+arxiv: https://arxiv.org/abs/1407.1376
+publication: Phys. Rev. D. 91, 052007 (2015)
+publicationDOI: https://doi.org/10.1103/PhysRevD.91.052007
+contact: atlas-phys-exotics-conveners@cern.ch
+implementedBy: Yoxara Villamizar
+lastUpdate: 2024/2/2
+type: upperLimit

@@ -4,7 +4,8 @@ lumi: 101.0/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-010/
 arxiv: https://arxiv.org/abs/2004.05153
 publication: Phys. Lett. B 806 (2020) 135502
-contact: CMS collaboration
+publicationDOI: https://doi.org/10.1016/j.physletb.2020.135502
+contact: cms-phys-conveners-exo@cern.ch
 implementedBy: Andre Lessa
 lastUpdate: 2021/5/18
 type: displaced

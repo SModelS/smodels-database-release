@@ -4,6 +4,7 @@ lumi: 35.9/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-048/index.html
 arxiv: https://arxiv.org/abs/1801.01846
 publication: Phys. Lett. B 782 (2018) 440
+publicationDOI: https://doi.org/10.1016/j.physletb.2018.05.062
 contact: cms-phys-conveners-sus@cern.ch
 implementedBy: Wolfgang Waltenberger
 lastUpdate: 2021/8/12

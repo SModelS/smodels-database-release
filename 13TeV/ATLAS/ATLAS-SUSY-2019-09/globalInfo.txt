@@ -6,5 +6,5 @@ arxiv: https://arxiv.org/abs/2106.01676
 publication: Eur. Phys. J. C 81 (2021) 1118
 publicationDOI: https://doi.org/10.1140/epjc/s10052-021-09749-7
 contact: atlas-phys-susy-conveners@cern.ch
-implementedBy: Timothee Pascal
-lastUpdate: 2021/12/8
+implementedBy: Gael Alguero, Timothee Pascal
+lastUpdate: 2024/4/30

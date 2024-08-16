@@ -1,0 +1,7 @@
+dataId: SR700_High_long
+dataType: efficiencyMap
+observedN: 2
+expectedBG: 2.4
+bgError: 0.2
+upperLimit: 0.030935251798561148*fb
+expectedUpperLimit: 0.03237410071942446*fb

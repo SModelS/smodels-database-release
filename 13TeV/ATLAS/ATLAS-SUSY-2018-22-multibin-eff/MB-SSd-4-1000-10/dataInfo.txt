@@ -1,0 +1,7 @@
+dataId: MB-SSd-4-1000-10
+dataType: efficiencyMap
+observedN: 7769
+expectedBG: 7793.7288
+bgError: 72.9798
+upperLimit: 1.484*fb
+expectedUpperLimit: 1.563*fb

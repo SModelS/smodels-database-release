@@ -4,6 +4,7 @@ lumi: 35.9/fb
 url: https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-006/
 arxiv: https://arxiv.org/abs/1712.08501
 publication: Phys. Rev. Lett.  120, no. 24, 241801 (2018)
+publicationDOI: https://doi.org/10.1103/PhysRevLett.120.241801
 contact: cms-phys-conveners-sus@cern.ch
 implementedBy: ck
 lastUpdate: 2020/3/24

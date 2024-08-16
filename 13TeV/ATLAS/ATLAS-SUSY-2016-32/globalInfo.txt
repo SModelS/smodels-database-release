@@ -1,9 +1,10 @@
 id: ATLAS-SUSY-2016-32
 sqrts: 13*TeV
 lumi: 31.6/fb
-url: http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-32/index.html
+url: http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-32/
 arxiv: https://arxiv.org/abs/1902.01636
-publication: https://arxiv.org/pdf/1902.01636.pdf
+publication: Phys. Rev. D 99 (2019) 092007
+publicationDOI: https://doi.org/10.1103/PhysRevD.99.092007
 contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: Andre Lessa
 lastUpdate: 2021/1/15

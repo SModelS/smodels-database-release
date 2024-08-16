@@ -1,0 +1,7 @@
+dataId: MB-C-2-1600-22
+dataType: efficiencyMap
+observedN: 2108
+expectedBG: 2072.7708
+bgError: 35.2661
+upperLimit: 1.028*fb
+expectedUpperLimit: 0.8946*fb

@@ -1,0 +1,7 @@
+dataId: MB-C-4-2800-22
+dataType: efficiencyMap
+observedN: 25
+expectedBG: 30.9677
+bgError: 2.085
+upperLimit: 0.06328*fb
+expectedUpperLimit: 0.08797*fb

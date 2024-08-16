@@ -1,0 +1,7 @@
+dataId: MB-SSd-2-1600-10
+dataType: efficiencyMap
+observedN: 926
+expectedBG: 896.679
+bgError: 16.784
+upperLimit: 0.6635*fb
+expectedUpperLimit: 0.53*fb

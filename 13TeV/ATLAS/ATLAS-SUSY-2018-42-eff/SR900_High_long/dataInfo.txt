@@ -1,0 +1,7 @@
+dataId: SR900_High_long
+dataType: efficiencyMap
+observedN: 3
+expectedBG: 1.5
+bgError: 0.4
+upperLimit: 0.04316546762589928*fb
+expectedUpperLimit: 0.02805755395683453*fb

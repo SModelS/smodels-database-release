@@ -1,0 +1,7 @@
+dataId: SR650_Low_long
+dataType: efficiencyMap
+observedN: 19
+expectedBG: 15
+bgError: 1
+upperLimit: 0.09640287769784173*fb
+expectedUpperLimit: 0.06546762589928057*fb

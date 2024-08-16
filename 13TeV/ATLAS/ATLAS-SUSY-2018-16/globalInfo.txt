@@ -1,0 +1,10 @@
+id: ATLAS-SUSY-2018-16
+sqrts: 13*TeV
+lumi: 139/fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/
+arxiv: https://arxiv.org/abs/1911.12606
+publication: Phys. Rev. D 101 (2020) 052005
+publicationDOI: https://doi.org/10.1103/PhysRevD.101.052005
+contact: atlas-phys-susy-conveners@cern.ch
+implementedBy: Rola Monzer, Wolfgang Waltenberger, Timothee Pascal
+lastUpdate: 2024/3/28

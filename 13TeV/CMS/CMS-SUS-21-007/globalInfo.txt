@@ -1,0 +1,10 @@
+id: CMS-SUS-21-007
+sqrts: 13*TeV
+lumi: 138/fb
+url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-007/index.html
+arxiv: https://arxiv.org/abs/2211.08476
+publication: JHEP 09 (2023) 149
+publicationDOI: https://doi.org/10.1007/JHEP09(2023)149
+contact: cms-phys-conveners-sus@cern.ch
+implementedBy: Wolfgang Waltenberger
+lastUpdate: 2024/4/21

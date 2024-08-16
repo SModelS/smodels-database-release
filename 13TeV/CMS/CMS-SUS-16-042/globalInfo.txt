@@ -2,7 +2,7 @@ id: CMS-SUS-16-042
 sqrts: 13*TeV
 lumi: 35.9/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-042/index.html
-arxiv: http://arxiv.org/abs/1709.09814
+arxiv: https://arxiv.org/abs/1709.09814
 publication: Phys. Lett. B 780 (2018) 384
 publicationDOI: https://doi.org/10.1016/j.physletb.2018.03.028
 contact: cms-phys-conveners-sus@cern.ch

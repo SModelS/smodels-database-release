@@ -4,6 +4,6 @@ lumi: 36.1/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-03/
 arxiv: https://arxiv.org/abs/1806.02293
 publication: Phys. Rev. D 98 (2018) 092012
-contact: ATLAS collaboration
+contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: neuphi
 lastUpdate: 2018/8/13

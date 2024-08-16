@@ -1,0 +1,7 @@
+dataId: MB-SSd-2-3400-28
+dataType: efficiencyMap
+observedN: 6
+expectedBG: 10.5836
+bgError: 1.1423
+upperLimit: 0.03443*fb
+expectedUpperLimit: 0.05416*fb

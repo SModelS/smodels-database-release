@@ -1,0 +1,14 @@
+txName: THSCPM2
+constraint: [[],[]]
+condition: None
+figureUrl: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/fig_17a.png
+source: Recast by A. Lessa
+validated: True
+axes: [[(x, y)], [x - 0.16]]
+axesMap: [[[(x, y)], [x - 0.16]]]
+finalState: ['HSCP', 'MET']
+intermediateState: None
+efficiencyMap: [[[[(7.000000E+02*GeV,0.000000E+00*GeV)],[6.998400E+02*GeV]],0.004907443],
+[[[(7.000000E+02*GeV,6.582000E-18*GeV)],[6.998400E+02*GeV]],0.004907443],
+[[[(8.000000E+02*GeV,0.000000E+00*GeV)],[7.998400E+02*GeV]],0.004907443],
+[[[(8.000000E+02*GeV,6.582000E-18*GeV)],[7.998400E+02*GeV]],0.004907443]]

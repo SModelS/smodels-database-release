@@ -3,7 +3,8 @@ sqrts: 13.0*TeV
 lumi: 77.5/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-007/index.html
 arxiv: https://arxiv.org/abs/1908.08500
-publication: http://dx.doi.org/10.1007/JHEP11(2019)109
+publication: JHEP 11 (2019) 109
+publicationDOI: https://doi.org/10.1007/JHEP11(2019)109
 contact: cms-phys-conveners-sus@cern.ch
 implementedBy: Wolfgang Waltenberger
 lastUpdate: 2022/1/7

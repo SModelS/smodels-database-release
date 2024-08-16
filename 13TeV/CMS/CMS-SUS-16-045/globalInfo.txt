@@ -2,7 +2,7 @@ id: CMS-SUS-16-045
 sqrts: 13*TeV
 lumi: 35.9/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-045/index.html
-arxiv: http://arxiv.org/abs/1709.00384
+arxiv: https://arxiv.org/abs/1709.00384
 publication: Phys. Lett. B 779 (2018) 166
 publicationDOI: https://doi.org/10.1016/j.physletb.2017.12.069
 implementedBy: Juhi Dutta

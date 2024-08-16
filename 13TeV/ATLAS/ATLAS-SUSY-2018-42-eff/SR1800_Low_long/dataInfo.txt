@@ -1,0 +1,7 @@
+dataId: SR1800_Low_long
+dataType: efficiencyMap
+observedN: 4
+expectedBG: 3
+bgError: 4.0
+upperLimit: 0.05971223021582734*fb
+expectedUpperLimit: 0.051798561151079135*fb

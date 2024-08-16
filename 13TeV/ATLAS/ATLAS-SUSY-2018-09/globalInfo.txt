@@ -1,0 +1,9 @@
+id: ATLAS-SUSY-2018-09
+sqrts: 13.0*TeV
+lumi: 139/fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-09/
+arxiv: https://arxiv.org/abs/1909.08457
+publication: JHEP 06 (2020) 46
+publicationDOI: https://doi.org/10.1007/JHEP06(2020)046
+implementedBy: Wolfgang Waltenberger
+lastUpdate: 2024/4/23

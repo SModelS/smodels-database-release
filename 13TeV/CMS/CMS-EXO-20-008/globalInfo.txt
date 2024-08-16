@@ -1,0 +1,10 @@
+id: CMS-EXO-20-008
+sqrts: 13*TeV
+lumi: 138/fb
+url: https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-008/index.html
+arxiv: https://arxiv.org/abs/2205.01835
+publication: Phys. Rev. D 108 (2023) 012009
+publicationDOI: https://doi.org/10.1103/PhysRevD.108.012009
+contact: cms-phys-conveners-exo@cern.ch
+implementedBy: Yoxara Villamizar
+lastUpdate: 2024/1/25

@@ -4,7 +4,6 @@ lumi: 139.0/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/
 arxiv: https://arxiv.org/abs/2205.06013
 contact: atlas-phys-susy-conveners@cern.ch
-implementedBy: Andre Lessa
-lastUpdate: 2023/5/11
+implementedBy: MMA
+lastUpdate: 2024/7/16
 type: displaced
-

@@ -1,0 +1,7 @@
+dataId: SR550_High_long
+dataType: efficiencyMap
+observedN: 2
+expectedBG: 3.06
+bgError: 0.32
+upperLimit: 0.030215827338129497*fb
+expectedUpperLimit: 0.03597122302158273*fb

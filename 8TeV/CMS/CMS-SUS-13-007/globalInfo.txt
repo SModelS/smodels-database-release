@@ -3,7 +3,8 @@ sqrts: 8*TeV
 lumi: 19.3/fb
 url: https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13007
 arxiv: https://arxiv.org/abs/1311.4937
-publication: http://www.sciencedirect.com/science/article/pii/S037026931400255X
+publication: Phys. Lett. B 733 (2014) 328
+publicationDOI: https://doi.org/10.1016/j.physletb.2014.04.023
 contact: Loukas Gouskos <loukas.gouskos@cern.ch>, Markus Stoye <Markus.Stoye@cern.ch>
 implementedBy: Andre Lessa
 lastUpdate: 2016/10/11

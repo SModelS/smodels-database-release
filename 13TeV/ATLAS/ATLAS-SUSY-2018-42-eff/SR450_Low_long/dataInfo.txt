@@ -1,0 +1,7 @@
+dataId: SR450_Low_long
+dataType: efficiencyMap
+observedN: 30
+expectedBG: 21.5
+bgError: 1.6
+upperLimit: 0.139568345323741*fb
+expectedUpperLimit: 0.07913669064748201*fb

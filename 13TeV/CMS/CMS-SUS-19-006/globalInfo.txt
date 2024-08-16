@@ -4,6 +4,7 @@ lumi: 137/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html
 arxiv: https://arxiv.org/abs/1908.04722
 publication: JHEP 10 (2019) 244
+publicationDOI: https://doi.org/10.1007/JHEP10(2019)244
 contact: cms-phys-conveners-sus@cern.ch
 implementedBy: Sabine Kraml
 lastUpdate: 2020/3/22

@@ -4,7 +4,7 @@ lumi: 36.1/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-06/
 arxiv: https://arxiv.org/abs/1712.02118
 publication: JHEP 06 (2018) 022
-contact: ATLAS collaboration
+contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: Andre Lessa
 lastUpdate: 2021/2/4
 source: Based on the recasting implemented by A. Belyaev, S. Prestel, F. Rojas-Abbate and J. Zurita (arxiv 2008.08581)

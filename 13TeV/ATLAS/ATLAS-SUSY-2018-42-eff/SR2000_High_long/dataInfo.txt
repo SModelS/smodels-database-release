@@ -1,0 +1,7 @@
+dataId: SR2000_High_long
+dataType: efficiencyMap
+observedN: 3
+expectedBG: 0.36
+bgError: 0.25
+upperLimit: 0.04892086330935252*fb
+expectedUpperLimit: 0.022302158273381296*fb

@@ -4,6 +4,7 @@ lumi: 139.0/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/
 arxiv: https://arxiv.org/abs/2010.14293
 publication: JHEP 02 (2021) 143
-contact: ATLAS collaboration
+publicationDOI: https://doi.org/10.1007/JHEP02(2021)143
+contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: Wolfgang Waltenberger
 lastUpdate: 2021/6/4

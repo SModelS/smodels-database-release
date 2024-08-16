@@ -1,0 +1,11 @@
+id: CMS-EXO-16-057
+sqrts: 8*TeV
+lumi: 19.7/fb
+url: https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-16-057/index.html
+arxiv: https://arxiv.org/abs/1802.06149
+publication: Phys. Rev. Lett. 120 (2018) 201801
+publicationDOI: https://doi.org/10.1103/PhysRevLett.120.201801
+contact: cms-phys-conveners-exo@cern.ch
+implementedBy: Yoxara Villamizar
+lastUpdate: 2024/1/25
+type: upperLimit

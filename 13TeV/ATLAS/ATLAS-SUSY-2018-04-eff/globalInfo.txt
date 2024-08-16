@@ -8,4 +8,12 @@ publicationDOI: https://doi.org/10.1103/PhysRevD.101.032009
 contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: Wolfgang Waltenberger
 lastUpdate: 2020/1/26
-jsonFiles: {"SRcombined.json": ["SRlow", "SRhigh"]}
+jsonFiles: {
+  'SRcombined.json': [
+    {'pyhf': 'QCR1cut_cuts', 'type': 'CR'},
+    {'pyhf': 'QCR2cut_cuts', 'type': 'CR'},
+    {'smodels': 'SRlow', 'pyhf': 'SR1cut_cuts'},
+    {'smodels': 'SRhigh', 'pyhf': 'SR2cut_cuts'},
+    {'pyhf': 'WCRcut_cuts', 'type': 'CR'}]
+  }
+includeCRs: False

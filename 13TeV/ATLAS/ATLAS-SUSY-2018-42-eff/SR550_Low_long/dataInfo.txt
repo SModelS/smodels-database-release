@@ -1,0 +1,7 @@
+dataId: SR550_Low_long
+dataType: efficiencyMap
+observedN: 29
+expectedBG: 21.8
+bgError: 1.5
+upperLimit: 0.12805755395683455*fb
+expectedUpperLimit: 0.07913669064748201*fb

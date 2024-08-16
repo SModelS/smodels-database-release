@@ -3,7 +3,8 @@ sqrts: 13*TeV
 lumi: 36.1/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-33/
 arxiv: https://arxiv.org/abs/1805.11381
-publication: in process of being published
-contact: ATLAS collaboration
+publication: Eur. Phys. J. C 78 (2018) 625
+publicationDOI: https://doi.org/10.1140/epjc/s10052-018-6081-9
+contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: Wolfgang Waltenberger
 lastUpdate: 2018/10/29

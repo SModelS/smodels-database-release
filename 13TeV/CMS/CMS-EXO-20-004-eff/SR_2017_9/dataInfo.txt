@@ -1,0 +1,7 @@
+dataId: SR_2017_9
+dataType: efficiencyMap
+observedN: 3955
+expectedBG: 3903.657227
+bgError: 84.54743300656739
+upperLimit: 1.842*fb
+expectedUpperLimit: 1.723*fb

@@ -1,0 +1,7 @@
+dataId: SR200_Low_long
+dataType: efficiencyMap
+observedN: 54
+expectedBG: 63
+bgError: 4
+upperLimit: 0.09352517985611511*fb
+expectedUpperLimit: 0.12949640287769784*fb

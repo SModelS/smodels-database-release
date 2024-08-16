@@ -1,0 +1,10 @@
+id: ATLAS-EXOT-2018-06
+sqrts: 13*TeV
+lumi: 139.0/fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-06/
+arxiv: https://arxiv.org/abs/2102.10874
+publication: Phys. Rev. D 103 (2021) 112006
+publicationDOI: https://doi.org/10.1103/PhysRevD.103.112006
+contact: atlas-phys-exotics-conveners@cern.ch
+implementedBy: Yoxara
+lastUpdate: 2024/8/7

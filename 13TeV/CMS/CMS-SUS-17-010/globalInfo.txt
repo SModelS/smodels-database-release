@@ -4,6 +4,7 @@ lumi: 35.9/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-010
 arxiv: https://arxiv.org/abs/1807.07799
 publication: JHEP 1811 (2018) 079
+publicationDOI: https://doi.org/10.1007/JHEP11(2018)079
 contact: cms-phys-conveners-sus@cern.ch
 implementedBy: ck
 lastUpdate: 2020/3/21

@@ -1,0 +1,7 @@
+dataId: SR2800_Low_long
+dataType: efficiencyMap
+observedN: 1
+expectedBG: 1.5
+bgError: 3.1
+upperLimit: 0.030215827338129497*fb
+expectedUpperLimit: 0.03237410071942446*fb

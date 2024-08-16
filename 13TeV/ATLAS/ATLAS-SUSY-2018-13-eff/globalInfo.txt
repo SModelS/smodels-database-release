@@ -1,0 +1,14 @@
+id: ATLAS-SUSY-2018-13
+sqrts: 13*TeV
+lumi: 139.0/fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-13/
+arxiv: https://arxiv.org/abs/2301.13866
+publication: JHEP 06 (2023) 200
+publicationDOI: https://doi.org/10.1007/JHEP06(2023)200
+contact: atlas-phys-susy-conveners@cern.ch
+implementedBy: Andre Lessa
+lastUpdate: 2024/4/24
+source: Based on the recasting implemented by A. Lessa (see https://github.com/llprecasting/recastingCodes/tree/efficiencyMaps)
+type: displaced
+datasetOrder: "SR_HighPT", "SR_Trackless"
+covariance: [[ 9.000e-02, 0. ], [ 0., 2.809e-01 ] ]

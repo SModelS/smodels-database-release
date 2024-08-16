@@ -1,0 +1,10 @@
+id: ATLAS-EXOT-2018-48
+sqrts: 13*TeV
+lumi: 139.0/fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-48/
+arxiv: https://arxiv.org/abs/2005.05138
+publication: JHEP 10 (2020) 61
+publicationDOI: https://doi.org/10.1007/JHEP10(2020)061
+contact: atlas-phys-exotics-conveners@cern.ch
+implementedBy: Yoxara Villamizar
+lastUpdate: 2024/1/24

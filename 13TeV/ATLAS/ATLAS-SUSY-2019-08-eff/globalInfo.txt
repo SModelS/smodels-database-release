@@ -3,9 +3,25 @@ sqrts: 13*TeV
 lumi: 139.0/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/
 arxiv: https://arxiv.org/abs/1909.09226
-publication: Eur. Phys. J. C 80 (2020) 691
 publicationDOI: https://doi.org/10.1140/epjc/s10052-020-8050-3
 contact: atlas-phys-susy-conveners@cern.ch
-implementedBy: Gael Alguero
-lastUpdate: 2020/8/25
-jsonFiles: {"BkgOnly.json" : ["SR_HM_Low_MCT", "SR_HM_Med_MCT", "SR_HM_High_MCT", "SR_MM_Low_MCT", "SR_MM_Med_MCT", "SR_MM_High_MCT", "SR_LM_Low_MCT", "SR_LM_Med_MCT", "SR_LM_High_MCT"]}
+implementedBy: Wolfgang Waltenberger
+lastUpdate: 2024/7/30
+jsonFiles: {
+  'BkgOnly.json': [
+    {'pyhf': 'STCREM_cuts', 'smodels': None, 'type': 'CR'},
+    {'pyhf': 'WREM_cuts', 'smodels': None, 'type': 'CR'},
+    {'pyhf': 'TRHMEM_cuts', 'smodels': None, 'type': 'CR'},
+    {'pyhf': 'TRMMEM_cuts', 'smodels': None, 'type': 'CR'},
+    {'pyhf': 'TRLMEM_cuts', 'smodels': None, 'type': 'CR'},
+    {'pyhf': 'SRHMEM_mct2[0]', 'smodels': 'SR_HM_Low_MCT'},
+    {'pyhf': 'SRHMEM_mct2[1]', 'smodels': 'SR_HM_Med_MCT'},
+    {'pyhf': 'SRHMEM_mct2[2]', 'smodels': 'SR_HM_High_MCT'},
+    {'pyhf': 'SRMMEM_mct2[0]', 'smodels': 'SR_MM_Low_MCT'},
+    {'pyhf': 'SRMMEM_mct2[1]', 'smodels': 'SR_MM_Med_MCT'},
+    {'pyhf': 'SRMMEM_mct2[2]', 'smodels': 'SR_MM_High_MCT'},
+    {'pyhf': 'SRLMEM_mct2[0]', 'smodels': 'SR_LM_Low_MCT'},
+    {'pyhf': 'SRLMEM_mct2[1]', 'smodels': 'SR_LM_Med_MCT'},
+    {'pyhf': 'SRLMEM_mct2[2]', 'smodels': 'SR_LM_High_MCT'}]
+  }
+includeCRs: True

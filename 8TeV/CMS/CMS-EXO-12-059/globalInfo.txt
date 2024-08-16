@@ -1,0 +1,11 @@
+id: CMS-EXO-12-059
+sqrts: 8*TeV
+lumi: 19.7/fb
+url: https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-12-059
+arxiv: https://arxiv.org/abs/1501.04198
+publication: Phys. Rev. D 91 (2015) 052009
+publicationDOI: https://doi.org/10.1103/PhysRevD.91.052009
+contact: cms-phys-conveners-exo@cern.ch
+implementedBy: Yoxara Villamizar
+lastUpdate: 2024/1/25
+type: upperLimit

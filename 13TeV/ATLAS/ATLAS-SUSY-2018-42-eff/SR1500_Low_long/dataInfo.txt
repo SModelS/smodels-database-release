@@ -1,0 +1,7 @@
+dataId: SR1500_Low_long
+dataType: efficiencyMap
+observedN: 7
+expectedBG: 4.9
+bgError: 2.4
+upperLimit: 0.06690647482014389*fb
+expectedUpperLimit: 0.04748201438848921*fb

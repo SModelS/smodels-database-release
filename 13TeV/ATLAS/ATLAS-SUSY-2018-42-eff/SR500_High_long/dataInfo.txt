@@ -1,0 +1,7 @@
+dataId: SR500_High_long
+dataType: efficiencyMap
+observedN: 1
+expectedBG: 2.73
+bgError: 0.22
+upperLimit: 0.02805755395683453*fb
+expectedUpperLimit: 0.03381294964028777*fb

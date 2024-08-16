@@ -1,0 +1,11 @@
+id: ATLAS-SUSY-2018-14
+sqrts: 13*TeV
+lumi: 139.0/fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-14/
+arxiv: https://arxiv.org/abs/2011.07812
+publication: Phys. Rev. Lett. 127 (2021) 051802
+publicationDOI: https://link.aps.org/doi/10.1103/PhysRevLett.127.051802
+contact: atlas-phys-susy-conveners@cern.ch
+implementedBy: GA
+lastUpdate: 2021/5/6
+type: displaced

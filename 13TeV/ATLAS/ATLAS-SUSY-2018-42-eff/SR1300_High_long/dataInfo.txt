@@ -1,0 +1,7 @@
+dataId: SR1300_High_long
+dataType: efficiencyMap
+observedN: 6
+expectedBG: 0.8
+bgError: 0.4
+upperLimit: 0.07410071942446043*fb
+expectedUpperLimit: 0.025179856115107913*fb

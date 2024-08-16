@@ -1,0 +1,7 @@
+dataId: MB-SSd-2-4000-28
+dataType: efficiencyMap
+observedN: 5
+expectedBG: 4.0338
+bgError: 0.6731
+upperLimit: 0.0464*fb
+expectedUpperLimit: 0.03981*fb

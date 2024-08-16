@@ -2,8 +2,9 @@ id: CMS-SUS-19-013
 sqrts: 13*TeV
 lumi: 137/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-013/index.html
-arxiv: https://arxiv.org/pdf/2008.04422.pdf
+arxiv: https://arxiv.org/abs/2008.04422
 publication: JHEP 09 (2020), 149
+publicationDOI: https://doi.org/10.1007/JHEP09(2020)149
 contact: cms-phys-conveners-sus@cern.ch
 implementedBy: ck
 lastUpdate: 2021/7/1

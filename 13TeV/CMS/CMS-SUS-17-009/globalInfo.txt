@@ -4,6 +4,7 @@ lumi: 35.9/fb
 url: https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-009/
 arxiv: https://arxiv.org/abs/1806.05264
 publication: Phys. Lett.B 790 (2019) 140
+publicationDOI: https://doi.org/10.1016/j.physletb.2019.01.005
 contact: cms-phys-conveners-sus@cern.ch
 implementedBy: ck
 lastUpdate: 2020/3/16

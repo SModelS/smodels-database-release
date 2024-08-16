@@ -1,0 +1,7 @@
+dataId: SR3000_Low_long
+dataType: efficiencyMap
+observedN: 1
+expectedBG: 1.4
+bgError: 3.1
+upperLimit: 0.030935251798561148*fb
+expectedUpperLimit: 0.031654676258992806*fb

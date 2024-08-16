@@ -2,7 +2,7 @@ id: ATLAS-SUSY-2018-05-ewk
 sqrts: 13*TeV
 lumi: 139.0/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-05/
-arxiv: http://arxiv.org/abs/2204.13072
+arxiv: https://arxiv.org/abs/2204.13072
 contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: Sahana Narasimha
 lastUpdate: 2023/3/9
