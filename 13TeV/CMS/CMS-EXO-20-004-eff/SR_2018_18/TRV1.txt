@@ -3,7 +3,7 @@ constraint: {(PV > Zprime(1)), (Zprime(1) > MET(2),MET(3))}
 condition: None
 conditionDescription: None
 figureUrl: https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-004/CMS-EXO-20-004_Figure_007-b.png
-source: CMS
+source: https://doi.org/10.5281/zenodo.13324003
 validated: True
 axesMap: [{0: 'x', 1: 'y', 2: 'y'}]
 dataMap: {0: (1, 'mass', GeV), 1: (2, 'mass', GeV), 2: (3, 'mass', GeV)}
