@@ -2,7 +2,7 @@ txName: TChiWZoff
 constraint: [[['mu+','mu-']],[['l','nu']]] + [[['e+','e-']],[['l','nu']]]
 condition: None
 conditionDescription: None
-figureUrl: n/a;n/a
+figureUrl: n/a
 source: ATLAS
 validated: True
 axes: [[x, x - y], [x, x - y]]; [[x, x - y], [x - y/2, x - y]]
