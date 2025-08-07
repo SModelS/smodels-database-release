@@ -3,6 +3,6 @@ dataType: efficiencyMap
 observedN: 12
 expectedBG: 8.4
 bgError: 1.7
-upperLimit: 0.089*fb
-expectedUpperLimit: 0.0561*fb
+upperLimit: 0.08171*fb
+expectedUpperLimit: 0.06127*fb
 jsonfile: BkgOnly.json

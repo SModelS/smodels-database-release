@@ -1,0 +1,7 @@
+dataId: IM9
+dataType: efficiencyMap
+observedN: 1545.0
+expectedBG: 1560.0
+bgError: 80.0
+upperLimit: 1.162*fb
+expectedUpperLimit: 1.18*fb

@@ -1,0 +1,7 @@
+dataId: IM4
+dataType: efficiencyMap
+observedN: 149743.0
+expectedBG: 146400.0
+bgError: 2300.0
+upperLimit: 62.3*fb
+expectedUpperLimit: 61.36*fb

@@ -7,4 +7,4 @@ publication: JHEP 05 (2022) 014
 publicationDOI: https://doi.org/10.1007/JHEP05(2022)014
 contact: cms-phys-conveners-sus@cern.ch
 implementedBy: Wolfgang Waltenberger
-lastUpdate: 2023/5/22
+lastUpdate: 2025/6/28

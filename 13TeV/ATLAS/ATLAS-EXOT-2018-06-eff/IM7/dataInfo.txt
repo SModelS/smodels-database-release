@@ -1,0 +1,7 @@
+dataId: IM7
+dataType: efficiencyMap
+observedN: 7194.0
+expectedBG: 7070.0
+bgError: 240.0
+upperLimit: 4.463*fb
+expectedUpperLimit: 4.365*fb

@@ -4,6 +4,7 @@ lumi: 32.8/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-08/
 arxiv: https://arxiv.org/abs/1710.04901
 publication: Phys. Rev. D 97 (2018) 052012
+publicationDOI: https://doi.org/10.1103/PhysRevD.97.052012
 contact: atlas-phys-susy-conveners@cern.ch
 type: displaced
 implementedBy: Andre Lessa

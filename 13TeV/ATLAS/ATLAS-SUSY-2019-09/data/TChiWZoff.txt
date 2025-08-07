@@ -6,7 +6,6 @@ figureUrl: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/fi
 source: ATLAS
 validated: True
 axes: [[x, x - y], [x, x - y]]; [[x, x - y], [x - y/2, x - y]]
-axesMap: [[[x, x - y], [x, x - y]], [[x, x - y], [x - y/2, x - y]]]
 finalState: ['MET', 'MET']
 intermediateState: None
 upperLimits: [[[[1.000000E+02*GeV,9.500000E+01*GeV],[1.000000E+02*GeV,9.500000E+01*GeV]],1.460000E+00*pb],

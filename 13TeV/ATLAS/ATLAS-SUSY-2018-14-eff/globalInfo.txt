@@ -4,9 +4,13 @@ lumi: 139.0/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-14/
 arxiv: https://arxiv.org/abs/2011.07812
 publication: Phys. Rev. Lett. 127 (2021) 051802
-publicationDOI: https://link.aps.org/doi/10.1103/PhysRevLett.127.051802
+publicationDOI: https://doi.org/10.1103/PhysRevLett.127.051802
 contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: GA
 lastUpdate: 2021/5/26
-jsonFiles: {'SRee_bkgonly.json': ['SRee'], 'SRmm_bkgonly.json': ['SRmm'], 'Comb_bkgonly.json': ['SRee', 'SRmm', 'SRem']}
+jsonFiles: {'SRee_bkgonly.json': [{ 'smodels': 'SRee', 'pyhf': 'SRee_cuts' }],
+            'SRmm_bkgonly.json': [{ 'smodels': 'SRmm', 'pyhf': 'SRmm_cuts' }],
+            'Comb_bkgonly.json': [{ 'smodels': 'SRee', 'pyhf': 'SRee_cuts' },
+                                  { 'smodels': 'SRmm', 'pyhf': 'SRmm_cuts' },
+                                  { 'smodels': 'SRem', 'pyhf': 'SRem_cuts' }]}
 type: displaced

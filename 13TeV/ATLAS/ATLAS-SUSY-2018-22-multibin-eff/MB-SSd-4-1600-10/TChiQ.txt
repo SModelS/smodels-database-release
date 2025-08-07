@@ -6,7 +6,6 @@ figureUrl: None
 source: Recast by CM2
 validated: True
 axes: [[x, y], [y]]
-axesMap: [[[x, y], [y]]]
 finalState: ['MET', 'MET']
 intermediateState: None
 efficiencyMap: [[[[7.000000E+02*GeV,1.500000E+02*GeV],[1.500000E+02*GeV]],0.001200004],

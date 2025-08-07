@@ -1,0 +1,7 @@
+dataId: IM10
+dataType: efficiencyMap
+observedN: 807.0
+expectedBG: 720.0
+bgError: 60.0
+upperLimit: 1.528*fb
+expectedUpperLimit: 1.42*fb

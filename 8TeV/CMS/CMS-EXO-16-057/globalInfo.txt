@@ -8,4 +8,3 @@ publicationDOI: https://doi.org/10.1103/PhysRevLett.120.201801
 contact: cms-phys-conveners-exo@cern.ch
 implementedBy: Yoxara Villamizar
 lastUpdate: 2024/1/25
-type: upperLimit

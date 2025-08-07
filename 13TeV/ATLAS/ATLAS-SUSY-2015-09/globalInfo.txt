@@ -2,6 +2,8 @@ id: ATLAS-SUSY-2015-09
 sqrts: 13*TeV
 lumi: 3.2/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-09/
+publication: Eur. Phys. J. C 76 (2016) 259
+publicationDOI: https://doi.org/10.1140/epjc/s10052-016-4095-8
 arxiv: https://arxiv.org/abs/1602.09058
 implementedBy: Federico A
 lastUpdate: 2016/9/29

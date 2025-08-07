@@ -1,0 +1,7 @@
+dataId: IM5
+dataType: efficiencyMap
+observedN: 46855.0
+expectedBG: 45550.0
+bgError: 1000.0
+upperLimit: 25.21*fb
+expectedUpperLimit: 24.67*fb

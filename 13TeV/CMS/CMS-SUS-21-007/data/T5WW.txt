@@ -6,7 +6,6 @@ figureUrl: https://cms-results.web.cern.ch/cms-results/public-results/publicatio
 source: CMS
 validated: True
 axes: [[x, 0.5*x + 0.5*y, y], [x, 0.5*x + 0.5*y, y]]
-axesMap: [[[x, 0.5*x + 0.5*y, y], [x, 0.5*x + 0.5*y, y]]]
 finalState: ['MET', 'MET']
 intermediateState: None
 upperLimits: [[[[6.062500E+02*GeV,3.062500E+02*GeV,6.250000E+00*GeV],[6.062500E+02*GeV,3.062500E+02*GeV,6.250000E+00*GeV]],4.215000E-02*pb],

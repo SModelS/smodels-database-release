@@ -4,6 +4,7 @@ lumi: 36.1/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/
 arxiv: https://arxiv.org/abs/1711.11520
 publication: JHEP 06 (2018) 108
+publicationDOI: https://doi.org/10.1007/JHEP06(2018)108
 contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: Philipp Neuhuber
 lastUpdate: 2020/1/16

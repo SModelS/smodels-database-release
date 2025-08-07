@@ -3,6 +3,8 @@ sqrts: 8*TeV
 lumi: 18.8/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-12-026/index.html
 arxiv: https://arxiv.org/abs/1305.0491
+publication: J. High Energy Phys. 07 (2013) 122
+publicationDOI: https://doi.org/10.1007/JHEP07(2013)122
 contact: cms-pag-conveners-exotica@cern.ch
 implementedBy: Andre Lessa
 lastUpdate: 2021/1/15

@@ -1,0 +1,7 @@
+dataId: IM3
+dataType: efficiencyMap
+observedN: 290779.0
+expectedBG: 286000.0
+bgError: 4000.0
+upperLimit: 98.77*fb
+expectedUpperLimit: 97.9*fb

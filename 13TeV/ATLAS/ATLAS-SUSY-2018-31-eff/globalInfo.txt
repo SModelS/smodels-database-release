@@ -7,6 +7,30 @@ publication: JHEP 12 (2019) 060
 publicationDOI: https://doi.org/10.1007/JHEP12(2019)060
 contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: Gael Alguero
-lastUpdate: 2020/8/25
-jsonFiles: {'simplifiedA.json': ['SRA_L', 'SRA_M', 'SRA_H'], 'simplifiedB.json': ['SRB'], 'simplifiedC.json': ['SRC_22', 'SRC_24', 'SRC_26', 'SRC_28']}
-jsonFiles_FullLikelihood: {'BkgOnlyA.json': ['SRA_L', 'SRA_M', 'SRA_H'], 'BkgOnlyB.json': ['SRB'], 'BkgOnlyC.json': ['SRC_22', 'SRC_24', 'SRC_26', 'SRC_28']}
+lastUpdate: 2025/6/23
+jsonFiles: {
+  'simplifiedA.json': [
+    {'smodels': 'SRA_L', 'pyhf': 'SR_meff[0]'},
+    {'smodels': 'SRA_M', 'pyhf': 'SR_meff[1]'},
+    {'smodels': 'SRA_H', 'pyhf': 'SR_meff[2]'}],
+  'simplifiedB.json': [
+    {'smodels': 'SRB', 'pyhf': 'SR_cuts'}],
+  'simplifiedC.json': [
+    {'smodels': 'SRC_22', 'pyhf': 'SR_metsigST[0]'},
+    {'smodels': 'SRC_24', 'pyhf': 'SR_metsigST[1]'},
+    {'smodels': 'SRC_26', 'pyhf': 'SR_metsigST[2]'},
+    {'smodels': 'SRC_28', 'pyhf': 'SR_metsigST[3]'}]
+  }
+jsonFiles_FullLikelihood: {
+  'BkgOnlyA.json': [
+    {'smodels': 'SRA_L', 'pyhf': 'SR_meff[0]'},
+    {'smodels': 'SRA_M', 'pyhf': 'SR_meff[1]'},
+    {'smodels': 'SRA_H', 'pyhf': 'SR_meff[2]'}],
+  'BkgOnlyB.json': [
+    {'smodels': 'SRB', 'pyhf': 'SR_cuts'}],
+  'BkgOnlyC.json': [
+    {'smodels': 'SRC_22', 'pyhf': 'SR_metsigST[0]'},
+    {'smodels': 'SRC_24', 'pyhf': 'SR_metsigST[1]'},
+    {'smodels': 'SRC_26', 'pyhf': 'SR_metsigST[2]'},
+    {'smodels': 'SRC_28', 'pyhf': 'SR_metsigST[3]'}]
+  }
