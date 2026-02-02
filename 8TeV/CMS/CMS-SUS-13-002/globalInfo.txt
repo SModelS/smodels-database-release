@@ -1,7 +1,7 @@
 id: CMS-SUS-13-002
 sqrts: 8*TeV
 lumi: 19.5/fb
-url: https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13002
+url: https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-13-002/index.html
 arxiv: https://arxiv.org/abs/1404.5801v2
 publication: Phys. Rev. D 90, 032006
 publicationDOI: https://doi.org/10.1103/PhysRevD.90.032006

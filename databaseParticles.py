@@ -137,6 +137,20 @@ Zprime = Particle(label='Zprime', isSM=False, eCharge = 0, colordim = 1, spin = 
 Vprime = Particle(label='Vprime', isSM=False, colordim = 1, spin = 1)
 H0 = Particle(label='H0', isSM=False, eCharge = 0, colordim = 1, spin = 0)
 
+
+N = Particle(label='N', isSM=False, eCharge=0, colordim=1, spin=1./2.)
+Nb = Particle(label='Nb', isSM=False, eCharge=0, colordim=1, spin=1./2.)
+Lp = Particle(label='Lp', isSM=False, eCharge=+1, colordim=1, spin=1./2.)
+Lm = Particle(label='Lm', isSM=False, eCharge=-1, colordim=1, spin=1./2.)
+
+VLneutral = MultiParticle('VLN', [N, Nb])
+VLcharged = MultiParticle('VLC', [Lp, Lm])
+
+VLdoublet = MultiParticle('VL', [N, Nb, Lp, Lm])
+
+
+
+
 #Define list of inclusive final states:
 SMfinalStates = [eList,muList,taList,lpList,lmList,lList,WList,
                tList,LpList,LmList,LList,jetList,jetbList,anySM]
@@ -144,7 +158,7 @@ SMfinalStates = [eList,muList,taList,lpList,lmList,lList,WList,
 SMfinalStates +=  SMList
 #Define list of BSM final states:
 BSMfinalStates = [MET,HSCP,RHadronU,RHadronD,RHadronG,RHadronQ,anyBSM,
-                  gluino,chargino,charginoBar,C1,Hp,Hm,Hpm,Zprime,H0]
+                  gluino,chargino,charginoBar,C1,Hp,Hm,Hpm,Zprime,H0,N,Nb,Lp,Lm]
 
 
 # Avoid double counting:

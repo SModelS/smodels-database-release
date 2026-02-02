@@ -1,7 +1,7 @@
 txName: TRHadGM1
 constraint: [[],[]]
 condition: None
-figureUrl: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/figaux_26e.png, https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/fig_18a.png
+figureUrl: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/figaux_26e.png; https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/fig_18a.png
 source: ATLAS
 validated: True
 axes: [[x], [x]]

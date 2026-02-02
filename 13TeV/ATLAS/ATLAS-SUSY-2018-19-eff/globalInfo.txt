@@ -1,0 +1,12 @@
+id: ATLAS-SUSY-2018-19
+sqrts: 13*TeV
+lumi: 136.0/fb
+url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-19/
+arxiv: https://arxiv.org/abs/2201.02472
+publication: Eur. Phys. J C 82 (2022) 606
+publicationDOI: https://link.springer.com/article/10.1140/epjc/s10052-022-10489-5
+contact: atlas-phys-susy-conveners@cern.ch
+implementedBy: Andre Lessa
+lastUpdate: 2026/1/21
+source: Based on the recasting implemented by Lucas Ramos and Andre Lessa, https://github.com/llprecasting/recastingCodes/tree/v1.0/DisappearingTracks/ATLAS-SUSY-2018-19
+type: displaced

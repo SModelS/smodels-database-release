@@ -8,7 +8,6 @@ validated: True
 axesMap: [{0: 'x', 1: 'y', 2: 'x', 3: 'y'}]
 dataMap: {0: (1, 'mass', GeV), 1: (2, 'mass', GeV), 2: (3, 'mass', GeV), 3: (4, 'mass', GeV)}
 finalState: ['MET', 'MET']
-intermediateState: None
 efficiencyMap: [[[11.0,10.0,11.0,10.0],7.089609e-07],
 [[13.0,10.0,13.0,10.0],2.99462e-07],
 [[15.0,10.0,15.0,10.0],2.540473e-08],

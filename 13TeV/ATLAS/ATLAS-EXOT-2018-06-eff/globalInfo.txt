@@ -6,5 +6,5 @@ arxiv: https://arxiv.org/abs/2102.10874
 publication: Phys. Rev. D 103 (2021) 112006
 publicationDOI: https://doi.org/10.1103/PhysRevD.103.112006
 contact: atlas-phys-exotics-conveners@cern.ch
-implementedBy: MMA
-lastUpdate: 2025/7/22
+implementedBy: Andre Lessa
+lastUpdate: 2025/9/11

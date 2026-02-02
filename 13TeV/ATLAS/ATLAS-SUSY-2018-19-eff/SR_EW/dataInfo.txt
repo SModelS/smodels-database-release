@@ -1,0 +1,7 @@
+dataId: SR_EW
+dataType: efficiencyMap
+observedN: 3
+expectedBG: 3.0
+bgError: 0.7
+upperLimit: 0.037*fb
+expectedUpperLimit: 0.038*fb

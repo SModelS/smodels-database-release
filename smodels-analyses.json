@@ -1,27 +1,43 @@
 {
+  "schema_version": "1.0.0",
   "tool": "SModelS",
-  "version": "3.1.0",
-  "date_created": "2025-06-24T14:39:42.597758+00:00",
+  "version": "3.1.1",
+  "date_created": "2026-01-23T12:27:58.505616+01:00",
   "implementations_description": "SModelS analysis",
   "link_types": [ "main_url", "val_url", "publication", "arXiv" ],
   "url_templates": {
-    "main_url": "https://github.com/SModelS/smodels-database-release/tree/main/{main_path}",
-    "val_url": "https://smodels.github.io/docs/Validation#{val_name}",
+    "main_url": "https://github.com/SModelS/smodels-database-release/tree/main/{path}",
+    "val_url": "https://smodels.github.io/docs/Validation#{name}",
     "publication": "https://doi.org/{publication_doi}",
     "arXiv": "https://arxiv.org/abs/{arXiv_id}"
   },
   "analyses" : [
     {
+      "inspire_id": 1305096,
+      "ana_id": "ATLAS-EXOT-2013-11",
+      "implementations": [
+        {
+          "name": "ATLAS-EXOT-2013-11_ul",
+          "path": "8TeV/ATLAS/ATLAS-EXOT-2013-11/"
+        }
+      ],
+      "pretty_name": "dijets",
+      "publication_doi": "10.1103/PhysRevD.91.052007",
+      "arXiv_id": "1407.1376",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2013-11"
+    },
+    {
       "inspire_id": 1847779,
       "ana_id": "ATLAS-EXOT-2018-06",
       "implementations": [
         {
-          "val_name": "ATLAS-EXOT-2018-06_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-EXOT-2018-06/"
+          "name": "ATLAS-EXOT-2018-06_em",
+          "path": "13TeV/ATLAS/ATLAS-EXOT-2018-06-eff/"
         },
         {
-          "val_name": "ATLAS-EXOT-2018-06_em",
-          "main_path": "13TeV/ATLAS/ATLAS-EXOT-2018-06-eff/"
+          "name": "ATLAS-EXOT-2018-06_ul",
+          "path": "13TeV/ATLAS/ATLAS-EXOT-2018-06/"
         }
       ],
       "pretty_name": "monojet",
@@ -35,8 +51,8 @@
       "ana_id": "ATLAS-EXOT-2018-48",
       "implementations": [
         {
-          "val_name": "ATLAS-EXOT-2018-48_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-EXOT-2018-48/"
+          "name": "ATLAS-EXOT-2018-48_ul",
+          "path": "13TeV/ATLAS/ATLAS-EXOT-2018-48/"
         }
       ],
       "pretty_name": "di-top resonance",
@@ -50,8 +66,8 @@
       "ana_id": "ATLAS-EXOT-2019-03",
       "implementations": [
         {
-          "val_name": "ATLAS-EXOT-2019-03_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-EXOT-2019-03/"
+          "name": "ATLAS-EXOT-2019-03_ul",
+          "path": "13TeV/ATLAS/ATLAS-EXOT-2019-03/"
         }
       ],
       "pretty_name": "dijet resonance",
@@ -61,12 +77,270 @@
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2019-03/"
     },
     {
+      "inspire_id": 1298722,
+      "ana_id": "ATLAS-SUSY-2013-02",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-02_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-02-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2013-02_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-02/"
+        }
+      ],
+      "pretty_name": "0 l + 2-6 jets",
+      "publication_doi": "10.1007/JHEP09(2014)176",
+      "arXiv_id": "1405.7875",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-02/"
+    },
+    {
+      "inspire_id": 1247060,
+      "ana_id": "ATLAS-SUSY-2013-04",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-04_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-04-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2013-04_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-04/"
+        }
+      ],
+      "pretty_name": "0 l + 7-10 jets",
+      "publication_doi": "10.1007/JHEP10(2013)130",
+      "arXiv_id": "1308.1841",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-04/"
+    },
+    {
+      "inspire_id": 1247462,
+      "ana_id": "ATLAS-SUSY-2013-05",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-05_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-05-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2013-05_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-05/"
+        }
+      ],
+      "pretty_name": "0 l + 2 b-jets",
+      "publication_doi": "10.1007/JHEP10(2013)189",
+      "arXiv_id": "1308.2631",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-05/"
+    },
+    {
+      "inspire_id": 1286622,
+      "ana_id": "ATLAS-SUSY-2013-08",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-08_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-08/"
+        }
+      ],
+      "pretty_name": "Z(l l) + b-jets",
+      "publication_doi": "10.1140/epjc/s10052-014-2883-6",
+      "arXiv_id": "1403.5222",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-08/"
+    },
+    {
+      "inspire_id": 1289225,
+      "ana_id": "ATLAS-SUSY-2013-09",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-09_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-09-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2013-09_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-09/"
+        }
+      ],
+      "pretty_name": "2 SS l + 0-3 b-jets",
+      "publication_doi": "10.1007/JHEP06(2014)035",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-09/"
+    },
+    {
+      "inspire_id": 1286761,
+      "ana_id": "ATLAS-SUSY-2013-11",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-11_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-11-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2013-11_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-11/"
+        }
+      ],
+      "pretty_name": "2 l (e,mu), EWK",
+      "publication_doi": "10.1007/JHEP05(2014)071",
+      "arXiv_id": "1403.5294",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-11/"
+    },
+    {
+      "inspire_id": 1282905,
+      "ana_id": "ATLAS-SUSY-2013-12",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-12_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-12-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2013-12_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-12/"
+        }
+      ],
+      "pretty_name": "3 l (e,mu,tau), EWK",
+      "publication_doi": "10.1007/JHEP04(2014)169",
+      "arXiv_id": "1402.7029",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-12/"
+    },
+    {
+      "inspire_id": 1304456,
+      "ana_id": "ATLAS-SUSY-2013-15",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-15_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-15-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2013-15_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-15/"
+        }
+      ],
+      "pretty_name": "1 l + 4 (1 b-)jets",
+      "publication_doi": "10.1007/JHEP11(2014)118",
+      "arXiv_id": "1407.0583",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-15/"
+    },
+    {
+      "inspire_id": 1299143,
+      "ana_id": "ATLAS-SUSY-2013-16",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-16_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-16-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2013-16_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-16/"
+        }
+      ],
+      "pretty_name": "0 l + 6 (2 b-)jets",
+      "publication_doi": "10.1007/JHEP09(2014)015",
+      "arXiv_id": "1406.1122",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-16/"
+    },
+    {
+      "inspire_id": 1304457,
+      "ana_id": "ATLAS-SUSY-2013-18",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-18_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-18-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2013-18_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-18/"
+        }
+      ],
+      "pretty_name": "jets + >= 3 b-jets",
+      "publication_doi": "10.1007/JHEP10(2014)024",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-18/"
+    },
+    {
+      "inspire_id": 1286444,
+      "ana_id": "ATLAS-SUSY-2013-19",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-19_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-19/"
+        }
+      ],
+      "pretty_name": "2 OS l + (b-)jets",
+      "publication_doi": "10.1007/JHEP06(2014)124",
+      "arXiv_id": "1403.4853",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-19/"
+    },
+    {
+      "inspire_id": 1339376,
+      "ana_id": "ATLAS-SUSY-2013-20",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-20_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-20/"
+        }
+      ],
+      "pretty_name": "2 l (e,mu) + jets",
+      "publication_doi": "10.1007/JHEP04(2015)116",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-20/"
+    },
+    {
+      "inspire_id": 1304459,
+      "ana_id": "ATLAS-SUSY-2013-21",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-21_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-21-eff/"
+        }
+      ],
+      "pretty_name": "monojet or c-jet",
+      "publication_doi": "10.1103/PhysRevD.90.052008",
+      "arXiv_id": "1407.0608v2",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-21/"
+    },
+    {
+      "inspire_id": 1341609,
+      "ana_id": "ATLAS-SUSY-2013-23",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-23_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-23/"
+        }
+      ],
+      "pretty_name": "1 l + 2 b-jets (or 2 gamma)",
+      "publication_doi": "10.1140/epjc/s10052-015-3408-7",
+      "arXiv_id": "1501.07110",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-23/"
+    },
+    {
+      "inspire_id": 1337472,
+      "ana_id": "ATLAS-SUSY-2014-03",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2014-03_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2014-03-eff/"
+        }
+      ],
+      "pretty_name": ">= 2 (c-)jets",
+      "publication_doi": "10.1103/PhysRevLett.114.161801",
+      "arXiv_id": "1501.01325",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2014-03/"
+    },
+    {
       "inspire_id": 1472822,
       "ana_id": "ATLAS-SUSY-2015-01",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2015-01_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2015-01/"
+          "name": "ATLAS-SUSY-2015-01_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2015-01/"
         }
       ],
       "pretty_name": "2 b-jets",
@@ -80,12 +354,12 @@
       "ana_id": "ATLAS-SUSY-2015-02",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2015-02_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2015-02/"
+          "name": "ATLAS-SUSY-2015-02_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2015-02-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2015-02_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2015-02-eff/"
+          "name": "ATLAS-SUSY-2015-02_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2015-02/"
         }
       ],
       "pretty_name": "1 l stop",
@@ -99,8 +373,8 @@
       "ana_id": "ATLAS-SUSY-2015-06",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2015-06_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2015-06-eff/"
+          "name": "ATLAS-SUSY-2015-06_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2015-06-eff/"
         }
       ],
       "pretty_name": "0 l + 2-6 jets",
@@ -114,8 +388,8 @@
       "ana_id": "ATLAS-SUSY-2015-09",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2015-09_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2015-09/"
+          "name": "ATLAS-SUSY-2015-09_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2015-09/"
         }
       ],
       "pretty_name": "jets + 2 SS or >= 3 l",
@@ -129,8 +403,8 @@
       "ana_id": "ATLAS-SUSY-2016-06",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-06_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-06-eff/"
+          "name": "ATLAS-SUSY-2016-06_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-06-eff/"
         }
       ],
       "pretty_name": "disappearing track",
@@ -144,12 +418,12 @@
       "ana_id": "ATLAS-SUSY-2016-07",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-07_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-07/"
+          "name": "ATLAS-SUSY-2016-07_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2016-07_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/"
+          "name": "ATLAS-SUSY-2016-07_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-07/"
         }
       ],
       "pretty_name": "0 l + jets",
@@ -163,8 +437,8 @@
       "ana_id": "ATLAS-SUSY-2016-08",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-08_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-08/"
+          "name": "ATLAS-SUSY-2016-08_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-08/"
         }
       ],
       "pretty_name": "displaced vertices",
@@ -178,8 +452,8 @@
       "ana_id": "ATLAS-SUSY-2016-14",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-14_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-14/"
+          "name": "ATLAS-SUSY-2016-14_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-14/"
         }
       ],
       "pretty_name": "2 SS or 3 l + jets",
@@ -193,8 +467,8 @@
       "ana_id": "ATLAS-SUSY-2016-15",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-15_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-15/"
+          "name": "ATLAS-SUSY-2016-15_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-15/"
         }
       ],
       "pretty_name": "0 l stop",
@@ -208,12 +482,12 @@
       "ana_id": "ATLAS-SUSY-2016-16",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-16_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-16/"
+          "name": "ATLAS-SUSY-2016-16_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-16-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2016-16_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-16-eff/"
+          "name": "ATLAS-SUSY-2016-16_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-16/"
         }
       ],
       "pretty_name": "1 l stop",
@@ -227,8 +501,8 @@
       "ana_id": "ATLAS-SUSY-2016-17",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-17_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-17/"
+          "name": "ATLAS-SUSY-2016-17_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-17/"
         }
       ],
       "pretty_name": "2 OS l",
@@ -242,8 +516,8 @@
       "ana_id": "ATLAS-SUSY-2016-19",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-19_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-19/"
+          "name": "ATLAS-SUSY-2016-19_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-19/"
         }
       ],
       "pretty_name": "2 b-jets + taus",
@@ -257,12 +531,12 @@
       "ana_id": "ATLAS-SUSY-2016-24",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-24_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-24/"
+          "name": "ATLAS-SUSY-2016-24_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2016-24_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/"
+          "name": "ATLAS-SUSY-2016-24_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-24/"
         }
       ],
       "pretty_name": "2-3 l, EWK",
@@ -276,8 +550,8 @@
       "ana_id": "ATLAS-SUSY-2016-26",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-26_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-26/"
+          "name": "ATLAS-SUSY-2016-26_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-26/"
         }
       ],
       "pretty_name": ">= 2 c-jets",
@@ -291,12 +565,12 @@
       "ana_id": "ATLAS-SUSY-2016-27",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-27_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-27/"
+          "name": "ATLAS-SUSY-2016-27_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-27-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2016-27_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-27-eff/"
+          "name": "ATLAS-SUSY-2016-27_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-27/"
         }
       ],
       "pretty_name": "jets + gamma",
@@ -310,8 +584,8 @@
       "ana_id": "ATLAS-SUSY-2016-28",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-28_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-28/"
+          "name": "ATLAS-SUSY-2016-28_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-28/"
         }
       ],
       "pretty_name": "2 b-jets",
@@ -325,12 +599,12 @@
       "ana_id": "ATLAS-SUSY-2016-32",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-32_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-32/"
+          "name": "ATLAS-SUSY-2016-32_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-32-eff-trim/"
         },
         {
-          "val_name": "ATLAS-SUSY-2016-32_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-32-eff-trim/"
+          "name": "ATLAS-SUSY-2016-32_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-32/"
         }
       ],
       "pretty_name": "HSCP",
@@ -344,8 +618,8 @@
       "ana_id": "ATLAS-SUSY-2016-33",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2016-33_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2016-33/"
+          "name": "ATLAS-SUSY-2016-33_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-33/"
         }
       ],
       "pretty_name": "2 SFOS l",
@@ -359,8 +633,8 @@
       "ana_id": "ATLAS-SUSY-2017-01",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2017-01_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2017-01/"
+          "name": "ATLAS-SUSY-2017-01_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2017-01/"
         }
       ],
       "pretty_name": "W h(b b), EWK",
@@ -374,8 +648,8 @@
       "ana_id": "ATLAS-SUSY-2017-02",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2017-02_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2017-02/"
+          "name": "ATLAS-SUSY-2017-02_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2017-02/"
         }
       ],
       "pretty_name": "0 l + jets",
@@ -389,12 +663,12 @@
       "ana_id": "ATLAS-SUSY-2017-03",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2017-03_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2017-03/"
+          "name": "ATLAS-SUSY-2017-03_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2017-03-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2017-03_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2017-03-eff/"
+          "name": "ATLAS-SUSY-2017-03_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2017-03/"
         }
       ],
       "pretty_name": "multi-l EWK",
@@ -408,12 +682,12 @@
       "ana_id": "ATLAS-SUSY-2018-04",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-04_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-04/"
+          "name": "ATLAS-SUSY-2018-04_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-04-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2018-04_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-04-eff/"
+          "name": "ATLAS-SUSY-2018-04_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-04/"
         }
       ],
       "pretty_name": "2 hadronic taus",
@@ -424,16 +698,40 @@
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-04/"
     },
     {
+      "inspire_id": 2072870,
+      "ana_id": "ATLAS-SUSY-2018-05",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2018-05_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-05-ewk-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2018-05_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-05-strong-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2018-05_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-05/"
+        }
+      ],
+      "pretty_name": "2 l + jets, EWK",
+      "publication_doi": "10.1140/epjc/s10052-023-11434-w",
+      "arXiv_id": "2204.13072",
+      "SRcomb": "pyhf",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-05/"
+    },
+    {
       "inspire_id": 1771533,
       "ana_id": "ATLAS-SUSY-2018-06",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-06_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-06/"
+          "name": "ATLAS-SUSY-2018-06_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-06-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2018-06_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-06-eff/"
+          "name": "ATLAS-SUSY-2018-06_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-06/"
         }
       ],
       "pretty_name": "3 l, EWK",
@@ -447,12 +745,12 @@
       "ana_id": "ATLAS-SUSY-2018-08",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-08_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-08/"
+          "name": "ATLAS-SUSY-2018-08_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-08-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2018-08_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-08-eff/"
+          "name": "ATLAS-SUSY-2018-08_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-08/"
         }
       ],
       "pretty_name": "2 OS l",
@@ -466,8 +764,8 @@
       "ana_id": "ATLAS-SUSY-2018-09",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-09_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-09/"
+          "name": "ATLAS-SUSY-2018-09_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-09/"
         }
       ],
       "pretty_name": "2 SS l",
@@ -481,12 +779,12 @@
       "ana_id": "ATLAS-SUSY-2018-10",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-10_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-10/"
+          "name": "ATLAS-SUSY-2018-10_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-10-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2018-10_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-10-eff/"
+          "name": "ATLAS-SUSY-2018-10_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-10/"
         }
       ],
       "pretty_name": "1 l + jets",
@@ -500,12 +798,12 @@
       "ana_id": "ATLAS-SUSY-2018-12",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-12_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-12/"
+          "name": "ATLAS-SUSY-2018-12_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-12-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2018-12_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-12-eff/"
+          "name": "ATLAS-SUSY-2018-12_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-12/"
         }
       ],
       "pretty_name": "0 l + jets",
@@ -515,12 +813,28 @@
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-12/"
     },
     {
+      "inspire_id": 2628398,
+      "ana_id": "ATLAS-SUSY-2018-13",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2018-13_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-13-eff/"
+        }
+      ],
+      "pretty_name": "displaced jets",
+      "publication_doi": "10.1007/JHEP06(2023)200",
+      "arXiv_id": "2301.13866",
+      "SRcomb": "SLv1",
+      "signature_type": "displaced",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-13/"
+    },
+    {
       "inspire_id": 1831504,
       "ana_id": "ATLAS-SUSY-2018-14",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-14_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-14-eff/"
+          "name": "ATLAS-SUSY-2018-14_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-14-eff/"
         }
       ],
       "pretty_name": "displaced vertices",
@@ -535,15 +849,19 @@
       "ana_id": "ATLAS-SUSY-2018-16",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-16_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-16/"
+          "name": "ATLAS-SUSY-2018-16_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-16-hino-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2018-16_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-16-eff/"
+          "name": "ATLAS-SUSY-2018-16_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-16-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2018-16_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-16/"
         }
       ],
-      "pretty_name": "2 soft l + jets, EWK",
+      "pretty_name": "2 soft l + jets, EWK (hino)",
       "publication_doi": "10.1103/PhysRevD.101.052005",
       "arXiv_id": "1911.12606",
       "SRcomb": "pyhf",
@@ -551,16 +869,35 @@
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/"
     },
     {
+      "inspire_id": 2005658,
+      "ana_id": "ATLAS-SUSY-2018-19",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2018-19_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-19-eff/"
+        }
+      ],
+      "pretty_name": "disappearing track",
+      "publication_doi": "https://link.springer.com/article/10.1140/epjc/s10052-022-10489-5",
+      "arXiv_id": "2201.02472",
+      "signature_type": "displaced",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-19/"
+    },
+    {
       "inspire_id": 1827025,
       "ana_id": "ATLAS-SUSY-2018-22",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-22_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-22/"
+          "name": "ATLAS-SUSY-2018-22_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-22-multibin-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2018-22_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-22-eff/"
+          "name": "ATLAS-SUSY-2018-22_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-22-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2018-22_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-22/"
         }
       ],
       "pretty_name": "multi-jets",
@@ -575,8 +912,8 @@
       "ana_id": "ATLAS-SUSY-2018-23",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-23_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-23/"
+          "name": "ATLAS-SUSY-2018-23_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-23/"
         }
       ],
       "pretty_name": "W h(gamma gamma), EWK",
@@ -589,12 +926,12 @@
       "ana_id": "ATLAS-SUSY-2018-31",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-31_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-31/"
+          "name": "ATLAS-SUSY-2018-31_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-31-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2018-31_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-31-eff/"
+          "name": "ATLAS-SUSY-2018-31_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-31/"
         }
       ],
       "pretty_name": "2 b-jets + 2 h(tau tau)",
@@ -609,12 +946,12 @@
       "ana_id": "ATLAS-SUSY-2018-32",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-32_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-32/"
+          "name": "ATLAS-SUSY-2018-32_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-32-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2018-32_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-32-eff/"
+          "name": "ATLAS-SUSY-2018-32_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-32/"
         }
       ],
       "pretty_name": "2 OS l",
@@ -629,8 +966,8 @@
       "ana_id": "ATLAS-SUSY-2018-33",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-33_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-33-eff/"
+          "name": "ATLAS-SUSY-2018-33_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-33-eff/"
         }
       ],
       "pretty_name": "DV with >= 1 muon",
@@ -644,12 +981,12 @@
       "ana_id": "ATLAS-SUSY-2018-40",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-40_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-40/"
+          "name": "ATLAS-SUSY-2018-40_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-40-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2018-40_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-40-eff/"
+          "name": "ATLAS-SUSY-2018-40_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-40/"
         }
       ],
       "pretty_name": "2 b-jets + 2 h(tau tau)",
@@ -663,12 +1000,12 @@
       "ana_id": "ATLAS-SUSY-2018-41",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-41_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-41/"
+          "name": "ATLAS-SUSY-2018-41_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-41-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2018-41_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-41-eff/"
+          "name": "ATLAS-SUSY-2018-41_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-41/"
         }
       ],
       "pretty_name": "hadr. EWK",
@@ -683,12 +1020,12 @@
       "ana_id": "ATLAS-SUSY-2018-42",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2018-42_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-42/"
+          "name": "ATLAS-SUSY-2018-42_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-42-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2018-42_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2018-42-eff/"
+          "name": "ATLAS-SUSY-2018-42_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-42/"
         }
       ],
       "pretty_name": "charged LLPs, dE/dx",
@@ -702,12 +1039,12 @@
       "ana_id": "ATLAS-SUSY-2019-02",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2019-02_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2019-02/"
+          "name": "ATLAS-SUSY-2019-02_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2019-02-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2019-02_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2019-02-eff/"
+          "name": "ATLAS-SUSY-2019-02_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2019-02/"
         }
       ],
       "pretty_name": "2 soft l, EWK",
@@ -718,16 +1055,31 @@
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-02/"
     },
     {
+      "inspire_id": 1869040,
+      "ana_id": "ATLAS-SUSY-2019-04",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2019-04_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2019-04/"
+        }
+      ],
+      "pretty_name": "1 l or 2 SS l + multi-jets",
+      "publication_doi": "http://dx.doi.org/10.1140/epjc/s10052-021-09761-x",
+      "arXiv_id": "2106.09609",
+      "signature_type": "prompt",
+      "wiki": "http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-04"
+    },
+    {
       "inspire_id": 1755298,
       "ana_id": "ATLAS-SUSY-2019-08",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2019-08_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2019-08/"
+          "name": "ATLAS-SUSY-2019-08_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2019-08-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2019-08_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2019-08-eff/"
+          "name": "ATLAS-SUSY-2019-08_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2019-08/"
         }
       ],
       "pretty_name": "1 l + h(b b), EWK",
@@ -742,12 +1094,12 @@
       "ana_id": "ATLAS-SUSY-2019-09",
       "implementations": [
         {
-          "val_name": "ATLAS-SUSY-2019-09_ul",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2019-09/"
+          "name": "ATLAS-SUSY-2019-09_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2019-09-eff/"
         },
         {
-          "val_name": "ATLAS-SUSY-2019-09_em",
-          "main_path": "13TeV/ATLAS/ATLAS-SUSY-2019-09-eff/"
+          "name": "ATLAS-SUSY-2019-09_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2019-09/"
         }
       ],
       "pretty_name": "3 l, EWK",
@@ -758,12 +1110,72 @@
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/"
     },
     {
+      "inspire_id": 1231738,
+      "ana_id": "CMS-EXO-12-026",
+      "implementations": [
+        {
+          "name": "CMS-EXO-12-026_ul",
+          "path": "8TeV/CMS/CMS-EXO-12-026/"
+        }
+      ],
+      "pretty_name": "HSCP",
+      "publication_doi": "10.1007/JHEP07(2013)122",
+      "arXiv_id": "1305.0491",
+      "signature_type": "prompt",
+      "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-12-026/index.html"
+    },
+    {
+      "inspire_id": 1340084,
+      "ana_id": "CMS-EXO-12-059",
+      "implementations": [
+        {
+          "name": "CMS-EXO-12-059_ul",
+          "path": "8TeV/CMS/CMS-EXO-12-059/"
+        }
+      ],
+      "pretty_name": "dijet resonance",
+      "publication_doi": "10.1103/PhysRevD.91.052009",
+      "arXiv_id": "1501.04198",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-12-059"
+    },
+    {
+      "inspire_id": 1343509,
+      "ana_id": "CMS-EXO-13-006",
+      "implementations": [
+        {
+          "name": "CMS-EXO-13-006_em",
+          "path": "8TeV/CMS/CMS-EXO-13-006-eff-trim/"
+        }
+      ],
+      "pretty_name": "HSCP",
+      "publication_doi": "10.1140/epjc/s10052-015-3533-3",
+      "arXiv_id": "1502.02522",
+      "signature_type": "prompt",
+      "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html"
+    },
+    {
+      "inspire_id": 1655968,
+      "ana_id": "CMS-EXO-16-057",
+      "implementations": [
+        {
+          "name": "CMS-EXO-16-057_ul",
+          "path": "8TeV/CMS/CMS-EXO-16-057/"
+        }
+      ],
+      "pretty_name": "di b-jet resonance",
+      "publication_doi": "10.1103/PhysRevLett.120.201801",
+      "arXiv_id": "1802.06149",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-16-057/index.html"
+    },
+    {
       "inspire_id": 1740108,
       "ana_id": "CMS-EXO-19-001",
       "implementations": [
         {
-          "val_name": "CMS-EXO-19-001_em",
-          "main_path": "13TeV/CMS/CMS-EXO-19-001-eff/"
+          "name": "CMS-EXO-19-001_em",
+          "path": "13TeV/CMS/CMS-EXO-19-001-eff/"
         }
       ],
       "pretty_name": "non-prompt jets",
@@ -777,8 +1189,8 @@
       "ana_id": "CMS-EXO-19-010",
       "implementations": [
         {
-          "val_name": "CMS-EXO-19-010_em",
-          "main_path": "13TeV/CMS/CMS-EXO-19-010-eff/"
+          "name": "CMS-EXO-19-010_em",
+          "path": "13TeV/CMS/CMS-EXO-19-010-eff/"
         }
       ],
       "pretty_name": "disappearing track",
@@ -792,8 +1204,8 @@
       "ana_id": "CMS-EXO-19-012",
       "implementations": [
         {
-          "val_name": "CMS-EXO-19-012_ul",
-          "main_path": "13TeV/CMS/CMS-EXO-19-012/"
+          "name": "CMS-EXO-19-012_ul",
+          "path": "13TeV/CMS/CMS-EXO-19-012/"
         }
       ],
       "pretty_name": "dijet resonance",
@@ -807,8 +1219,8 @@
       "ana_id": "CMS-EXO-20-004",
       "implementations": [
         {
-          "val_name": "CMS-EXO-20-004_em",
-          "main_path": "13TeV/CMS/CMS-EXO-20-004-eff/"
+          "name": "CMS-EXO-20-004_em",
+          "path": "13TeV/CMS/CMS-EXO-20-004-eff/"
         }
       ],
       "pretty_name": "monojet",
@@ -823,8 +1235,8 @@
       "ana_id": "CMS-EXO-20-008",
       "implementations": [
         {
-          "val_name": "CMS-EXO-20-008_ul",
-          "main_path": "13TeV/CMS/CMS-EXO-20-008/"
+          "name": "CMS-EXO-20-008_ul",
+          "path": "13TeV/CMS/CMS-EXO-20-008/"
         }
       ],
       "pretty_name": "di-b resonance",
@@ -838,8 +1250,8 @@
       "ana_id": "CMS-PAS-EXO-16-036",
       "implementations": [
         {
-          "val_name": "CMS-PAS-EXO-16-036_ul",
-          "main_path": "13TeV/CMS/CMS-PAS-EXO-16-036/"
+          "name": "CMS-PAS-EXO-16-036_ul",
+          "path": "13TeV/CMS/CMS-PAS-EXO-16-036/"
         }
       ],
       "pretty_name": "HSCP",
@@ -851,8 +1263,8 @@
       "ana_id": "CMS-PAS-SUS-16-014",
       "implementations": [
         {
-          "val_name": "CMS-PAS-SUS-16-014_ul",
-          "main_path": "13TeV/CMS/CMS-PAS-SUS-16-014/"
+          "name": "CMS-PAS-SUS-16-014_ul",
+          "path": "13TeV/CMS/CMS-PAS-SUS-16-014/"
         }
       ],
       "pretty_name": "jets + Etmiss, HT",
@@ -864,8 +1276,8 @@
       "ana_id": "CMS-PAS-SUS-16-015",
       "implementations": [
         {
-          "val_name": "CMS-PAS-SUS-16-015_ul",
-          "main_path": "13TeV/CMS/CMS-PAS-SUS-16-015/"
+          "name": "CMS-PAS-SUS-16-015_ul",
+          "path": "13TeV/CMS/CMS-PAS-SUS-16-015/"
         }
       ],
       "pretty_name": "jets + Etmiss, MT2",
@@ -877,8 +1289,8 @@
       "ana_id": "CMS-PAS-SUS-16-019",
       "implementations": [
         {
-          "val_name": "CMS-PAS-SUS-16-019_ul",
-          "main_path": "13TeV/CMS/CMS-PAS-SUS-16-019/"
+          "name": "CMS-PAS-SUS-16-019_ul",
+          "path": "13TeV/CMS/CMS-PAS-SUS-16-019/"
         }
       ],
       "pretty_name": "jets + 1 lepton",
@@ -890,8 +1302,8 @@
       "ana_id": "CMS-PAS-SUS-16-022",
       "implementations": [
         {
-          "val_name": "CMS-PAS-SUS-16-022_ul",
-          "main_path": "13TeV/CMS/CMS-PAS-SUS-16-022/"
+          "name": "CMS-PAS-SUS-16-022_ul",
+          "path": "13TeV/CMS/CMS-PAS-SUS-16-022/"
         }
       ],
       "pretty_name": ">= 3 leptons + Etmiss",
@@ -903,12 +1315,16 @@
       "ana_id": "CMS-PAS-SUS-16-052",
       "implementations": [
         {
-          "val_name": "CMS-PAS-SUS-16-052_ul",
-          "main_path": "13TeV/CMS/CMS-PAS-SUS-16-052/"
+          "name": "CMS-PAS-SUS-16-052_em",
+          "path": "13TeV/CMS/CMS-PAS-SUS-16-052-agg/"
         },
         {
-          "val_name": "CMS-PAS-SUS-16-052_em",
-          "main_path": "13TeV/CMS/CMS-PAS-SUS-16-052-agg/"
+          "name": "CMS-PAS-SUS-16-052_em",
+          "path": "13TeV/CMS/CMS-PAS-SUS-16-052-eff/"
+        },
+        {
+          "name": "CMS-PAS-SUS-16-052_ul",
+          "path": "13TeV/CMS/CMS-PAS-SUS-16-052/"
         }
       ],
       "pretty_name": "ISR jet + soft l",
@@ -921,8 +1337,8 @@
       "ana_id": "CMS-PAS-SUS-17-004",
       "implementations": [
         {
-          "val_name": "CMS-PAS-SUS-17-004_ul",
-          "main_path": "13TeV/CMS/CMS-PAS-SUS-17-004/"
+          "name": "CMS-PAS-SUS-17-004_ul",
+          "path": "13TeV/CMS/CMS-PAS-SUS-17-004/"
         }
       ],
       "pretty_name": "Multilepton EWK searches",
@@ -930,12 +1346,215 @@
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-17-004/index.html"
     },
     {
+      "inspire_id": 1232968,
+      "ana_id": "CMS-SUS-12-024",
+      "implementations": [
+        {
+          "name": "CMS-SUS-12-024_em",
+          "path": "8TeV/CMS/CMS-SUS-12-024-eff/"
+        },
+        {
+          "name": "CMS-SUS-12-024_ul",
+          "path": "8TeV/CMS/CMS-SUS-12-024/"
+        }
+      ],
+      "pretty_name": "0 l + >= 3 (1 b-)jets",
+      "publication_doi": "10.1016/j.physletb.2013.06.058",
+      "arXiv_id": "1305.2390",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-12-024/index.html"
+    },
+    {
+      "inspire_id": 1230267,
+      "ana_id": "CMS-SUS-12-028",
+      "implementations": [
+        {
+          "name": "CMS-SUS-12-028_ul",
+          "path": "8TeV/CMS/CMS-SUS-12-028/"
+        }
+      ],
+      "pretty_name": "multi (b-)jets, alphaT",
+      "arXiv_id": "1303.2985",
+      "signature_type": "prompt",
+      "wiki": "https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS12028"
+    },
+    {
+      "inspire_id": 1291940,
+      "ana_id": "CMS-SUS-13-002",
+      "implementations": [
+        {
+          "name": "CMS-SUS-13-002_ul",
+          "path": "8TeV/CMS/CMS-SUS-13-002/"
+        }
+      ],
+      "pretty_name": ">= 3 l (+ jets)",
+      "publication_doi": "10.1103/PhysRevD.90.032006",
+      "arXiv_id": "1404.5801v2",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-13-002/index.html"
+    },
+    {
+      "inspire_id": 1342447,
+      "ana_id": "CMS-SUS-13-004",
+      "implementations": [
+        {
+          "name": "CMS-SUS-13-004_ul",
+          "path": "8TeV/CMS/CMS-SUS-13-004/"
+        }
+      ],
+      "pretty_name": ">= 1 b-jet, Razor",
+      "publication_doi": "10.1103/PhysRevD.91.052018",
+      "arXiv_id": "1502.00300v2",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-13-004/index.html"
+    },
+    {
+      "inspire_id": 1298508,
+      "ana_id": "CMS-SUS-13-006",
+      "implementations": [
+        {
+          "name": "CMS-SUS-13-006_ul",
+          "path": "8TeV/CMS/CMS-SUS-13-006/"
+        }
+      ],
+      "pretty_name": "multi-l, EWK",
+      "publication_doi": "10.1140/epjc/s10052-014-3036-7",
+      "arXiv_id": "1405.7570",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-13-006/index.html"
+    },
+    {
+      "inspire_id": 1265220,
+      "ana_id": "CMS-SUS-13-007",
+      "implementations": [
+        {
+          "name": "CMS-SUS-13-007_em",
+          "path": "8TeV/CMS/CMS-SUS-13-007-eff/"
+        },
+        {
+          "name": "CMS-SUS-13-007_ul",
+          "path": "8TeV/CMS/CMS-SUS-13-007/"
+        }
+      ],
+      "pretty_name": "1 l + >= 2 b-jets",
+      "publication_doi": "10.1016/j.physletb.2014.04.023",
+      "arXiv_id": "1311.4937",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-13-007/index.html"
+    },
+    {
+      "inspire_id": 1246905,
+      "ana_id": "CMS-SUS-13-011",
+      "implementations": [
+        {
+          "name": "CMS-SUS-13-011_em",
+          "path": "8TeV/CMS/CMS-SUS-13-011-eff/"
+        },
+        {
+          "name": "CMS-SUS-13-011_ul",
+          "path": "8TeV/CMS/CMS-SUS-13-011/"
+        }
+      ],
+      "pretty_name": "1 l + >= 4 (1 b-)jets",
+      "publication_doi": "10.1140/epjc/s10052-013-2677-2",
+      "arXiv_id": "1308.1586v2",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-13-011/index.html"
+    },
+    {
+      "inspire_id": 1281837,
+      "ana_id": "CMS-SUS-13-012",
+      "implementations": [
+        {
+          "name": "CMS-SUS-13-012_em",
+          "path": "8TeV/CMS/CMS-SUS-13-012-eff/"
+        },
+        {
+          "name": "CMS-SUS-13-012_ul",
+          "path": "8TeV/CMS/CMS-SUS-13-012/"
+        }
+      ],
+      "pretty_name": "jets + MHT",
+      "publication_doi": "10.1007/JHEP04(2014)169",
+      "arXiv_id": "1402.4770",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-13-012/index.html"
+    },
+    {
+      "inspire_id": 1266257,
+      "ana_id": "CMS-SUS-13-013",
+      "implementations": [
+        {
+          "name": "CMS-SUS-13-013_em",
+          "path": "8TeV/CMS/CMS-SUS-13-013-eff/"
+        },
+        {
+          "name": "CMS-SUS-13-013_ul",
+          "path": "8TeV/CMS/CMS-SUS-13-013/"
+        }
+      ],
+      "pretty_name": "2 SS l + (b-)jets",
+      "publication_doi": "10.1007/JHEP01(2014)163",
+      "arXiv_id": "1311.6736v2",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-13-013/index.html"
+    },
+    {
+      "inspire_id": 1345027,
+      "ana_id": "CMS-SUS-13-019",
+      "implementations": [
+        {
+          "name": "CMS-SUS-13-019_ul",
+          "path": "8TeV/CMS/CMS-SUS-13-019/"
+        }
+      ],
+      "pretty_name": ">= 2 jets, MT2",
+      "publication_doi": "10.1007/JHEP05(2015)078",
+      "arXiv_id": "1502.04358",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-13-019/index.html"
+    },
+    {
+      "inspire_id": 1334141,
+      "ana_id": "CMS-SUS-14-010",
+      "implementations": [
+        {
+          "name": "CMS-SUS-14-010_ul",
+          "path": "8TeV/CMS/CMS-SUS-14-010/"
+        }
+      ],
+      "pretty_name": "b-jets + 4 W",
+      "publication_doi": "10.1016/j.physletb.2015.04.002",
+      "arXiv_id": "1412.4109",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-14-010/index.html"
+    },
+    {
+      "inspire_id": 1411443,
+      "ana_id": "CMS-SUS-14-021",
+      "implementations": [
+        {
+          "name": "CMS-SUS-14-021_em",
+          "path": "8TeV/CMS/CMS-SUS-14-021-eff/"
+        },
+        {
+          "name": "CMS-SUS-14-021_ul",
+          "path": "8TeV/CMS/CMS-SUS-14-021/"
+        }
+      ],
+      "pretty_name": "soft l, low jet mult.",
+      "publication_doi": "10.1016/j.physletb.2016.05.033",
+      "arXiv_id": "1512.08002",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-14-021/index.html"
+    },
+    {
       "inspire_id": 1422778,
       "ana_id": "CMS-SUS-15-002",
       "implementations": [
         {
-          "val_name": "CMS-SUS-15-002_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-15-002/"
+          "name": "CMS-SUS-15-002_ul",
+          "path": "13TeV/CMS/CMS-SUS-15-002/"
         }
       ],
       "pretty_name": "multijets + Etmiss, HT",
@@ -949,8 +1568,8 @@
       "ana_id": "CMS-SUS-15-008",
       "implementations": [
         {
-          "val_name": "CMS-SUS-15-008_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-15-008/"
+          "name": "CMS-SUS-15-008_ul",
+          "path": "13TeV/CMS/CMS-SUS-15-008/"
         }
       ],
       "pretty_name": "same-sign dilepton",
@@ -964,8 +1583,8 @@
       "ana_id": "CMS-SUS-16-009",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-009_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-009/"
+          "name": "CMS-SUS-16-009_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-009/"
         }
       ],
       "pretty_name": "0 l + jets, top tag",
@@ -979,8 +1598,8 @@
       "ana_id": "CMS-SUS-16-032",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-032_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-032/"
+          "name": "CMS-SUS-16-032_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-032/"
         }
       ],
       "pretty_name": "2 b- or 2 c-jets",
@@ -994,12 +1613,12 @@
       "ana_id": "CMS-SUS-16-033",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-033_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-033/"
+          "name": "CMS-SUS-16-033_em",
+          "path": "13TeV/CMS/CMS-SUS-16-033-eff/"
         },
         {
-          "val_name": "CMS-SUS-16-033_em",
-          "main_path": "13TeV/CMS/CMS-SUS-16-033-eff/"
+          "name": "CMS-SUS-16-033_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-033/"
         }
       ],
       "pretty_name": "0 l + jets",
@@ -1013,8 +1632,8 @@
       "ana_id": "CMS-SUS-16-034",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-034_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-034/"
+          "name": "CMS-SUS-16-034_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-034/"
         }
       ],
       "pretty_name": "2 SFOS l",
@@ -1028,8 +1647,8 @@
       "ana_id": "CMS-SUS-16-035",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-035_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-035/"
+          "name": "CMS-SUS-16-035_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-035/"
         }
       ],
       "pretty_name": "2 SS l",
@@ -1043,8 +1662,8 @@
       "ana_id": "CMS-SUS-16-036",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-036_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-036/"
+          "name": "CMS-SUS-16-036_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-036/"
         }
       ],
       "pretty_name": "0 l + jets",
@@ -1058,8 +1677,8 @@
       "ana_id": "CMS-SUS-16-037",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-037_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-037/"
+          "name": "CMS-SUS-16-037_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-037/"
         }
       ],
       "pretty_name": "1 l + jets with MJ",
@@ -1073,12 +1692,16 @@
       "ana_id": "CMS-SUS-16-039",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-039_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-039/"
+          "name": "CMS-SUS-16-039_em",
+          "path": "13TeV/CMS/CMS-SUS-16-039-agg/"
         },
         {
-          "val_name": "CMS-SUS-16-039_em",
-          "main_path": "13TeV/CMS/CMS-SUS-16-039-agg/"
+          "name": "CMS-SUS-16-039_em",
+          "path": "13TeV/CMS/CMS-SUS-16-039-ma5/"
+        },
+        {
+          "name": "CMS-SUS-16-039_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-039/"
         }
       ],
       "pretty_name": "multi-l, EWK",
@@ -1093,8 +1716,8 @@
       "ana_id": "CMS-SUS-16-041",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-041_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-041/"
+          "name": "CMS-SUS-16-041_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-041/"
         }
       ],
       "pretty_name": "multi-l + jets",
@@ -1108,8 +1731,8 @@
       "ana_id": "CMS-SUS-16-042",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-042_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-042/"
+          "name": "CMS-SUS-16-042_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-042/"
         }
       ],
       "pretty_name": "1 l + jets",
@@ -1123,8 +1746,8 @@
       "ana_id": "CMS-SUS-16-043",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-043_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-043/"
+          "name": "CMS-SUS-16-043_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-043/"
         }
       ],
       "pretty_name": "W h(b b), EWK",
@@ -1138,8 +1761,8 @@
       "ana_id": "CMS-SUS-16-045",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-045_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-045/"
+          "name": "CMS-SUS-16-045_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-045/"
         }
       ],
       "pretty_name": "2 b-jets + 2 h(gamma gamma)",
@@ -1153,8 +1776,8 @@
       "ana_id": "CMS-SUS-16-046",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-046_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-046/"
+          "name": "CMS-SUS-16-046_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-046/"
         }
       ],
       "pretty_name": "high-pT gamma",
@@ -1168,8 +1791,8 @@
       "ana_id": "CMS-SUS-16-047",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-047_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-047/"
+          "name": "CMS-SUS-16-047_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-047/"
         }
       ],
       "pretty_name": "gamma + jets, high HT",
@@ -1183,8 +1806,8 @@
       "ana_id": "CMS-SUS-16-048",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-048_em",
-          "main_path": "13TeV/CMS/CMS-SUS-16-048-ma5/"
+          "name": "CMS-SUS-16-048_em",
+          "path": "13TeV/CMS/CMS-SUS-16-048-ma5/"
         }
       ],
       "pretty_name": "soft OS l",
@@ -1199,8 +1822,8 @@
       "ana_id": "CMS-SUS-16-049",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-049_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-049/"
+          "name": "CMS-SUS-16-049_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-049/"
         }
       ],
       "pretty_name": "All hadronic stop",
@@ -1214,12 +1837,16 @@
       "ana_id": "CMS-SUS-16-050",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-050_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-050/"
+          "name": "CMS-SUS-16-050_em",
+          "path": "13TeV/CMS/CMS-SUS-16-050-agg/"
         },
         {
-          "val_name": "CMS-SUS-16-050_em",
-          "main_path": "13TeV/CMS/CMS-SUS-16-050-agg/"
+          "name": "CMS-SUS-16-050_em",
+          "path": "13TeV/CMS/CMS-SUS-16-050-eff/"
+        },
+        {
+          "name": "CMS-SUS-16-050_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-050/"
         }
       ],
       "pretty_name": "0 l + top tag",
@@ -1234,8 +1861,8 @@
       "ana_id": "CMS-SUS-16-051",
       "implementations": [
         {
-          "val_name": "CMS-SUS-16-051_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-16-051/"
+          "name": "CMS-SUS-16-051_ul",
+          "path": "13TeV/CMS/CMS-SUS-16-051/"
         }
       ],
       "pretty_name": "1 l stop",
@@ -1249,8 +1876,8 @@
       "ana_id": "CMS-SUS-17-001",
       "implementations": [
         {
-          "val_name": "CMS-SUS-17-001_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-17-001/"
+          "name": "CMS-SUS-17-001_ul",
+          "path": "13TeV/CMS/CMS-SUS-17-001/"
         }
       ],
       "pretty_name": "Stop search in dilepton + jets + Etmiss final state",
@@ -1264,8 +1891,8 @@
       "ana_id": "CMS-SUS-17-003",
       "implementations": [
         {
-          "val_name": "CMS-SUS-17-003_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-17-003/"
+          "name": "CMS-SUS-17-003_ul",
+          "path": "13TeV/CMS/CMS-SUS-17-003/"
         }
       ],
       "pretty_name": "2 tau",
@@ -1279,8 +1906,8 @@
       "ana_id": "CMS-SUS-17-004",
       "implementations": [
         {
-          "val_name": "CMS-SUS-17-004_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-17-004/"
+          "name": "CMS-SUS-17-004_ul",
+          "path": "13TeV/CMS/CMS-SUS-17-004/"
         }
       ],
       "pretty_name": "EWK comb.",
@@ -1294,8 +1921,8 @@
       "ana_id": "CMS-SUS-17-005",
       "implementations": [
         {
-          "val_name": "CMS-SUS-17-005_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-17-005/"
+          "name": "CMS-SUS-17-005_ul",
+          "path": "13TeV/CMS/CMS-SUS-17-005/"
         }
       ],
       "pretty_name": "1 l + jets, top tag",
@@ -1309,8 +1936,8 @@
       "ana_id": "CMS-SUS-17-006",
       "implementations": [
         {
-          "val_name": "CMS-SUS-17-006_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-17-006/"
+          "name": "CMS-SUS-17-006_ul",
+          "path": "13TeV/CMS/CMS-SUS-17-006/"
         }
       ],
       "pretty_name": "jets + boosted h(b b)",
@@ -1324,8 +1951,8 @@
       "ana_id": "CMS-SUS-17-009",
       "implementations": [
         {
-          "val_name": "CMS-SUS-17-009_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-17-009/"
+          "name": "CMS-SUS-17-009_ul",
+          "path": "13TeV/CMS/CMS-SUS-17-009/"
         }
       ],
       "pretty_name": "SFOS l",
@@ -1339,8 +1966,8 @@
       "ana_id": "CMS-SUS-17-010",
       "implementations": [
         {
-          "val_name": "CMS-SUS-17-010_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-17-010/"
+          "name": "CMS-SUS-17-010_ul",
+          "path": "13TeV/CMS/CMS-SUS-17-010/"
         }
       ],
       "pretty_name": "2 l stop",
@@ -1354,8 +1981,8 @@
       "ana_id": "CMS-SUS-18-002",
       "implementations": [
         {
-          "val_name": "CMS-SUS-18-002_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-18-002/"
+          "name": "CMS-SUS-18-002_ul",
+          "path": "13TeV/CMS/CMS-SUS-18-002/"
         }
       ],
       "pretty_name": "gamma + (b-)jets, top tag",
@@ -1369,8 +1996,8 @@
       "ana_id": "CMS-SUS-18-004",
       "implementations": [
         {
-          "val_name": "CMS-SUS-18-004_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-18-004/"
+          "name": "CMS-SUS-18-004_ul",
+          "path": "13TeV/CMS/CMS-SUS-18-004/"
         }
       ],
       "pretty_name": "2-3 soft l",
@@ -1384,8 +2011,8 @@
       "ana_id": "CMS-SUS-18-007",
       "implementations": [
         {
-          "val_name": "CMS-SUS-18-007_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-18-007/"
+          "name": "CMS-SUS-18-007_ul",
+          "path": "13TeV/CMS/CMS-SUS-18-007/"
         }
       ],
       "pretty_name": "2 h(gamma gamma), EWK",
@@ -1399,12 +2026,16 @@
       "ana_id": "CMS-SUS-19-006",
       "implementations": [
         {
-          "val_name": "CMS-SUS-19-006_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-19-006/"
+          "name": "CMS-SUS-19-006_em",
+          "path": "13TeV/CMS/CMS-SUS-19-006-agg/"
         },
         {
-          "val_name": "CMS-SUS-19-006_em",
-          "main_path": "13TeV/CMS/CMS-SUS-19-006-agg/"
+          "name": "CMS-SUS-19-006_em",
+          "path": "13TeV/CMS/CMS-SUS-19-006-ma5/"
+        },
+        {
+          "name": "CMS-SUS-19-006_ul",
+          "path": "13TeV/CMS/CMS-SUS-19-006/"
         }
       ],
       "pretty_name": "0 l + jets, MHT",
@@ -1419,8 +2050,8 @@
       "ana_id": "CMS-SUS-19-008",
       "implementations": [
         {
-          "val_name": "CMS-SUS-19-008_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-19-008/"
+          "name": "CMS-SUS-19-008_ul",
+          "path": "13TeV/CMS/CMS-SUS-19-008/"
         }
       ],
       "pretty_name": "2-3 l + jets",
@@ -1434,8 +2065,8 @@
       "ana_id": "CMS-SUS-19-009",
       "implementations": [
         {
-          "val_name": "CMS-SUS-19-009_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-19-009/"
+          "name": "CMS-SUS-19-009_ul",
+          "path": "13TeV/CMS/CMS-SUS-19-009/"
         }
       ],
       "pretty_name": "1 l + jets, MHT",
@@ -1449,8 +2080,8 @@
       "ana_id": "CMS-SUS-19-010",
       "implementations": [
         {
-          "val_name": "CMS-SUS-19-010_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-19-010/"
+          "name": "CMS-SUS-19-010_ul",
+          "path": "13TeV/CMS/CMS-SUS-19-010/"
         }
       ],
       "pretty_name": "jets + top- and W-tag",
@@ -1464,8 +2095,8 @@
       "ana_id": "CMS-SUS-19-011",
       "implementations": [
         {
-          "val_name": "CMS-SUS-19-011_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-19-011/"
+          "name": "CMS-SUS-19-011_ul",
+          "path": "13TeV/CMS/CMS-SUS-19-011/"
         }
       ],
       "pretty_name": "2 l stop",
@@ -1479,8 +2110,8 @@
       "ana_id": "CMS-SUS-19-013",
       "implementations": [
         {
-          "val_name": "CMS-SUS-19-013_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-19-013/"
+          "name": "CMS-SUS-19-013_ul",
+          "path": "13TeV/CMS/CMS-SUS-19-013/"
         }
       ],
       "pretty_name": "jets + boosted Z",
@@ -1494,8 +2125,8 @@
       "ana_id": "CMS-SUS-20-001",
       "implementations": [
         {
-          "val_name": "CMS-SUS-20-001_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-20-001/"
+          "name": "CMS-SUS-20-001_ul",
+          "path": "13TeV/CMS/CMS-SUS-20-001/"
         }
       ],
       "pretty_name": "SFOS l",
@@ -1509,8 +2140,8 @@
       "ana_id": "CMS-SUS-20-002",
       "implementations": [
         {
-          "val_name": "CMS-SUS-20-002_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-20-002/"
+          "name": "CMS-SUS-20-002_ul",
+          "path": "13TeV/CMS/CMS-SUS-20-002/"
         }
       ],
       "pretty_name": "stop combination",
@@ -1524,12 +2155,12 @@
       "ana_id": "CMS-SUS-20-004",
       "implementations": [
         {
-          "val_name": "CMS-SUS-20-004_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-20-004/"
+          "name": "CMS-SUS-20-004_em",
+          "path": "13TeV/CMS/CMS-SUS-20-004-eff/"
         },
         {
-          "val_name": "CMS-SUS-20-004_em",
-          "main_path": "13TeV/CMS/CMS-SUS-20-004-eff/"
+          "name": "CMS-SUS-20-004_ul",
+          "path": "13TeV/CMS/CMS-SUS-20-004/"
         }
       ],
       "pretty_name": "2 h(b b), EWK",
@@ -1544,12 +2175,12 @@
       "ana_id": "CMS-SUS-21-002",
       "implementations": [
         {
-          "val_name": "CMS-SUS-21-002_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-21-002/"
+          "name": "CMS-SUS-21-002_em",
+          "path": "13TeV/CMS/CMS-SUS-21-002-eff/"
         },
         {
-          "val_name": "CMS-SUS-21-002_em",
-          "main_path": "13TeV/CMS/CMS-SUS-21-002-eff/"
+          "name": "CMS-SUS-21-002_ul",
+          "path": "13TeV/CMS/CMS-SUS-21-002/"
         }
       ],
       "pretty_name": "hadr. EWK",
@@ -1564,8 +2195,8 @@
       "ana_id": "CMS-SUS-21-007",
       "implementations": [
         {
-          "val_name": "CMS-SUS-21-007_ul",
-          "main_path": "13TeV/CMS/CMS-SUS-21-007/"
+          "name": "CMS-SUS-21-007_ul",
+          "path": "13TeV/CMS/CMS-SUS-21-007/"
         }
       ],
       "pretty_name": "1 l + top- or W-tag",
@@ -1573,339 +2204,6 @@
       "arXiv_id": "2211.08476",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-007/index.html"
-    },
-    {
-      "inspire_id": 1305096,
-      "ana_id": "ATLAS-EXOT-2013-11",
-      "implementations": [
-        {
-          "val_name": "ATLAS-EXOT-2013-11_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-EXOT-2013-11/"
-        }
-      ],
-      "pretty_name": "dijets",
-      "publication_doi": "10.1103/PhysRevD.91.052007",
-      "arXiv_id": "1407.1376",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2013-11"
-    },
-    {
-      "inspire_id": 1298722,
-      "ana_id": "ATLAS-SUSY-2013-02",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-02_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-02/"
-        },
-        {
-          "val_name": "ATLAS-SUSY-2013-02_em",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-02-eff/"
-        }
-      ],
-      "pretty_name": "0 l + 2-6 jets",
-      "publication_doi": "10.1007/JHEP09(2014)176",
-      "arXiv_id": "1405.7875",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-02/"
-    },
-    {
-      "inspire_id": 1247060,
-      "ana_id": "ATLAS-SUSY-2013-04",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-04_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-04/"
-        },
-        {
-          "val_name": "ATLAS-SUSY-2013-04_em",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-04-eff/"
-        }
-      ],
-      "pretty_name": "0 l + 7-10 jets",
-      "publication_doi": "10.1007/JHEP10(2013)130",
-      "arXiv_id": "1308.1841",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-04/"
-    },
-    {
-      "inspire_id": 1247462,
-      "ana_id": "ATLAS-SUSY-2013-05",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-05_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-05/"
-        },
-        {
-          "val_name": "ATLAS-SUSY-2013-05_em",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-05-eff/"
-        }
-      ],
-      "pretty_name": "0 l + 2 b-jets",
-      "publication_doi": "10.1007/JHEP10(2013)189",
-      "arXiv_id": "1308.2631",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-05/"
-    },
-    {
-      "inspire_id": 1286622,
-      "ana_id": "ATLAS-SUSY-2013-08",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-08_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-08/"
-        }
-      ],
-      "pretty_name": "Z(l l) + b-jets",
-      "publication_doi": "10.1140/epjc/s10052-014-2883-6",
-      "arXiv_id": "1403.5222",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-08/"
-    },
-    {
-      "inspire_id": 1289225,
-      "ana_id": "ATLAS-SUSY-2013-09",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-09_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-09/"
-        },
-        {
-          "val_name": "ATLAS-SUSY-2013-09_em",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-09-eff/"
-        }
-      ],
-      "pretty_name": "2 SS l + 0-3 b-jets",
-      "publication_doi": "10.1007/JHEP06(2014)035",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-09/"
-    },
-    {
-      "inspire_id": 1286761,
-      "ana_id": "ATLAS-SUSY-2013-11",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-11_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-11/"
-        },
-        {
-          "val_name": "ATLAS-SUSY-2013-11_em",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-11-eff/"
-        }
-      ],
-      "pretty_name": "2 l (e,mu), EWK",
-      "publication_doi": "10.1007/JHEP05(2014)071",
-      "arXiv_id": "1403.5294",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-11/"
-    },
-    {
-      "inspire_id": 1282905,
-      "ana_id": "ATLAS-SUSY-2013-12",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-12_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-12/"
-        },
-        {
-          "val_name": "ATLAS-SUSY-2013-12_em",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-12-eff/"
-        }
-      ],
-      "pretty_name": "3 l (e,mu,tau), EWK",
-      "publication_doi": "10.1007/JHEP04(2014)169",
-      "arXiv_id": "1402.7029",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-12/"
-    },
-    {
-      "inspire_id": 1304456,
-      "ana_id": "ATLAS-SUSY-2013-15",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-15_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-15/"
-        },
-        {
-          "val_name": "ATLAS-SUSY-2013-15_em",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-15-eff/"
-        }
-      ],
-      "pretty_name": "1 l + 4 (1 b-)jets",
-      "publication_doi": "10.1007/JHEP11(2014)118",
-      "arXiv_id": "1407.0583",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-15/"
-    },
-    {
-      "inspire_id": 1299143,
-      "ana_id": "ATLAS-SUSY-2013-16",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-16_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-16/"
-        },
-        {
-          "val_name": "ATLAS-SUSY-2013-16_em",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-16-eff/"
-        }
-      ],
-      "pretty_name": "0 l + 6 (2 b-)jets",
-      "publication_doi": "10.1007/JHEP09(2014)015",
-      "arXiv_id": "1406.1122",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-16/"
-    },
-    {
-      "inspire_id": 1304457,
-      "ana_id": "ATLAS-SUSY-2013-18",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-18_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-18/"
-        },
-        {
-          "val_name": "ATLAS-SUSY-2013-18_em",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-18-eff/"
-        }
-      ],
-      "pretty_name": "jets + >= 3 b-jets",
-      "publication_doi": "10.1007/JHEP10(2014)024",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-18/"
-    },
-    {
-      "inspire_id": 1286444,
-      "ana_id": "ATLAS-SUSY-2013-19",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-19_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-19/"
-        }
-      ],
-      "pretty_name": "2 OS l + (b-)jets",
-      "publication_doi": "10.1007/JHEP06(2014)124",
-      "arXiv_id": "1403.4853",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-19/"
-    },
-    {
-      "inspire_id": 1339376,
-      "ana_id": "ATLAS-SUSY-2013-20",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-20_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-20/"
-        }
-      ],
-      "pretty_name": "2 l (e,mu) + jets",
-      "publication_doi": "10.1007/JHEP04(2015)116",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-20/"
-    },
-    {
-      "inspire_id": 1304459,
-      "ana_id": "ATLAS-SUSY-2013-21",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-21_em",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-21-eff/"
-        }
-      ],
-      "pretty_name": "monojet or c-jet",
-      "publication_doi": "10.1103/PhysRevD.90.052008",
-      "arXiv_id": "1407.0608v2",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-21/"
-    },
-    {
-      "inspire_id": 1341609,
-      "ana_id": "ATLAS-SUSY-2013-23",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2013-23_ul",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2013-23/"
-        }
-      ],
-      "pretty_name": "1 l + 2 b-jets (or 2 gamma)",
-      "publication_doi": "10.1140/epjc/s10052-015-3408-7",
-      "arXiv_id": "1501.07110",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-23/"
-    },
-    {
-      "inspire_id": 1337472,
-      "ana_id": "ATLAS-SUSY-2014-03",
-      "implementations": [
-        {
-          "val_name": "ATLAS-SUSY-2014-03_em",
-          "main_path": "8TeV/ATLAS/ATLAS-SUSY-2014-03-eff/"
-        }
-      ],
-      "pretty_name": ">= 2 (c-)jets",
-      "publication_doi": "10.1103/PhysRevLett.114.161801",
-      "arXiv_id": "1501.01325",
-      "signature_type": "prompt",
-      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2014-03/"
-    },
-    {
-      "inspire_id": 1231738,
-      "ana_id": "CMS-EXO-12-026",
-      "implementations": [
-        {
-          "val_name": "CMS-EXO-12-026_ul",
-          "main_path": "8TeV/CMS/CMS-EXO-12-026/"
-        }
-      ],
-      "pretty_name": "HSCP",
-      "publication_doi": "10.1007/JHEP07(2013)122",
-      "arXiv_id": "1305.0491",
-      "signature_type": "prompt",
-      "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-12-026/index.html"
-    },
-    {
-      "inspire_id": 1340084,
-      "ana_id": "CMS-EXO-12-059",
-      "implementations": [
-        {
-          "val_name": "CMS-EXO-12-059_ul",
-          "main_path": "8TeV/CMS/CMS-EXO-12-059/"
-        }
-      ],
-      "pretty_name": "dijet resonance",
-      "publication_doi": "10.1103/PhysRevD.91.052009",
-      "arXiv_id": "1501.04198",
-      "signature_type": "prompt",
-      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-12-059"
-    },
-    {
-      "inspire_id": 1343509,
-      "ana_id": "CMS-EXO-13-006",
-      "implementations": [
-        {
-          "val_name": "CMS-EXO-13-006_em",
-          "main_path": "8TeV/CMS/CMS-EXO-13-006-eff-trim/"
-        }
-      ],
-      "pretty_name": "HSCP",
-      "publication_doi": "10.1140/epjc/s10052-015-3533-3",
-      "arXiv_id": "1502.02522",
-      "signature_type": "prompt",
-      "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html"
-    },
-    {
-      "inspire_id": 1655968,
-      "ana_id": "CMS-EXO-16-057",
-      "implementations": [
-        {
-          "val_name": "CMS-EXO-16-057_ul",
-          "main_path": "8TeV/CMS/CMS-EXO-16-057/"
-        }
-      ],
-      "pretty_name": "di b-jet resonance",
-      "publication_doi": "10.1103/PhysRevLett.120.201801",
-      "arXiv_id": "1802.06149",
-      "signature_type": "prompt",
-      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-16-057/index.html"
     }
   ],
   "implementations_license": {

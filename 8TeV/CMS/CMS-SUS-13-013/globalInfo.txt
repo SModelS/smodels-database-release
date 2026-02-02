@@ -1,7 +1,7 @@
 id: CMS-SUS-13-013
 sqrts: 8*TeV
 lumi: 19.5/fb
-url: https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13013
+url: https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-13-013/index.html
 arxiv: https://arxiv.org/abs/1311.6736v2
 publication: JHEP 01 (2014) 163
 publicationDOI: https://doi.org/10.1007/JHEP01(2014)163

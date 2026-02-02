@@ -1,0 +1,22 @@
+txName: TRV1nunu
+constraint: {(PV > Zprime(1)), (Zprime(1) > nu, nu)}
+condition: None
+conditionDescription: None
+figureUrl: None
+source: ATLAS
+validated: N/A
+axesMap: [{0: 'x'}]
+dataMap: {0: (1, 'mass', GeV)}
+finalState: ['MET', 'MET']
+upperLimits: [[[55.0],1.179250E+03*pb],
+[[200.0],2.910240E+01*pb],
+[[300.0],1.599790E+01*pb],
+[[400.0],1.218380E+01*pb],
+[[500.0],6.911830E+00*pb],
+[[700.0],2.817000E+00*pb],
+[[1000.0],1.304520E+00*pb],
+[[1200.0],8.934130E-01*pb],
+[[1500.0],5.917440E-01*pb],
+[[1750.0],4.585510E-01*pb],
+[[2000.0],3.560850E-01*pb],
+[[2250.0],3.165080E-01*pb]]
