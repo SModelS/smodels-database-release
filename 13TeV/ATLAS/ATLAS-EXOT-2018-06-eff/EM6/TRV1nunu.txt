@@ -3,7 +3,7 @@ constraint: {(PV > Zprime(1)), (Zprime(1) > nu, nu)}
 condition: None
 conditionDescription: None
 figureUrl: None
-source: CMS
+source: MA5
 validated: N/A
 axesMap: [{0: 'x'}]
 dataMap: {0: (1, 'mass', GeV)}

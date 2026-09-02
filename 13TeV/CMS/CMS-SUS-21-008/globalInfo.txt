@@ -1,0 +1,10 @@
+id: CMS-SUS-21-008
+sqrts: 13*TeV
+lumi: 137/fb
+url: https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-008/
+arxiv: http://arxiv.org/abs/2402.01888
+publication: Phys. Rev. D 109 (2024) 112001
+publicationDOI: http://dx.doi.org/10.1103/PhysRevD.109.112001
+contact: cms-phys-conveners-sus@cern.ch
+implementedBy: Axel S / Lucas H
+lastUpdate: 2026/7/16

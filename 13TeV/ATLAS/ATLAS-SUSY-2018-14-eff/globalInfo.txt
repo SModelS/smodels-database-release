@@ -6,11 +6,16 @@ arxiv: https://arxiv.org/abs/2011.07812
 publication: Phys. Rev. Lett. 127 (2021) 051802
 publicationDOI: https://doi.org/10.1103/PhysRevLett.127.051802
 contact: atlas-phys-susy-conveners@cern.ch
-implementedBy: GA
-lastUpdate: 2021/5/26
-jsonFiles: {'SRee_bkgonly.json': [{ 'smodels': 'SRee', 'pyhf': 'SRee_cuts' }],
-            'SRmm_bkgonly.json': [{ 'smodels': 'SRmm', 'pyhf': 'SRmm_cuts' }],
-            'Comb_bkgonly.json': [{ 'smodels': 'SRee', 'pyhf': 'SRee_cuts' },
-                                  { 'smodels': 'SRmm', 'pyhf': 'SRmm_cuts' },
-                                  { 'smodels': 'SRem', 'pyhf': 'SRem_cuts' }]}
+implementedBy: Wolfgang Waltenberger
+lastUpdate: 2026/5/12
 type: displaced
+regionMappings: {
+    'SRee': {'smodels': 'SRee', 'pyhf': 'SRee_cuts'},
+    'SRmm': {'smodels': 'SRmm', 'pyhf': 'SRmm_cuts'},
+    'SRem': {'smodels': 'SRem', 'pyhf': 'SRem_cuts'} }
+regionSets: { 'sree': ['SRee' ],
+    'srmm': ['SRmm' ],
+    'comb': ['SRee', 'SRmm', 'SRem', ]}
+statModels: { 'sree': [ ( 'pyhf', 'SRee_bkgonly.json' )],
+     'srmm': [ ( 'pyhf', 'SRmm_bkgonly.json' ) ],
+     'comb': [ ( 'pyhf', 'Comb_bkgonly.json' ) ]}

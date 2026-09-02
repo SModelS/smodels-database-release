@@ -1,0 +1,8 @@
+dataId: 2l_6j100_3b
+dataType: efficiencyMap
+observedN: 1
+expectedBG: 0.52
+bgError: 0.22
+comment: 2l_6j100_3b
+upperLimit: 0.02611*fb
+expectedUpperLimit: 0.02143*fb

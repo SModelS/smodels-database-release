@@ -1,0 +1,10 @@
+id: CMS-SUS-23-003
+sqrts: 13*TeV
+lumi: 138/fb
+url: https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-23-003/index.html
+arxiv: https://arxiv.org/abs/2508.13900
+publication: Phys. Rev. D 112 (2025) 112023
+publicationDOI: https://doi.org/10.1103/b26z-zmpy
+contact: cms-phys-conveners-sus@cern.ch
+implementedBy: Axel S / Lucas H
+lastUpdate: 2026/6/30

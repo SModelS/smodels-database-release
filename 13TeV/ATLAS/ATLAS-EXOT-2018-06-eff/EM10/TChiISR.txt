@@ -3,7 +3,7 @@ constraint: {(PV > MET(1), MET(2))}
 condition: None
 conditionDescription: None
 figureUrl: None
-source: Recast by MA5
+source: MA5
 validated: True
 axesMap: [{0: 'x', 1: 'y'}]
 dataMap: {0: (1, 'mass', GeV), 1: (2, 'mass', GeV)}

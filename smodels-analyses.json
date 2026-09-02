@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "tool": "SModelS",
-  "version": "3.1.1",
-  "date_created": "2026-01-23T12:27:58.505616+01:00",
+  "version": "3.2.0",
+  "date_created": "2026-09-02T11:57:02.304411+02:00",
   "implementations_description": "SModelS analysis",
   "link_types": [ "main_url", "val_url", "publication", "arXiv" ],
   "url_templates": {
@@ -693,7 +693,7 @@
       "pretty_name": "2 hadronic taus",
       "publication_doi": "10.1103/PhysRevD.101.032009",
       "arXiv_id": "1911.06660",
-      "SRcomb": "pyhf",
+      "SRcomb": "onnx, pyhf",
       "signature_type": "prompt",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-04/"
     },
@@ -764,12 +764,16 @@
       "ana_id": "ATLAS-SUSY-2018-09",
       "implementations": [
         {
+          "name": "ATLAS-SUSY-2018-09_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-09-eff/"
+        },
+        {
           "name": "ATLAS-SUSY-2018-09_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2018-09/"
         }
       ],
-      "pretty_name": "2 SS l",
-      "publication_doi": "10.1007/JHEP06(2020)046",
+      "pretty_name": "SS leptons + jets",
+      "publication_doi": "10.48550/arXiv.1909.08457",
       "arXiv_id": "1909.08457",
       "signature_type": "prompt",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-09/"
@@ -824,7 +828,7 @@
       "pretty_name": "displaced jets",
       "publication_doi": "10.1007/JHEP06(2023)200",
       "arXiv_id": "2301.13866",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "displaced",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-13/"
     },
@@ -864,7 +868,7 @@
       "pretty_name": "2 soft l + jets, EWK (hino)",
       "publication_doi": "10.1103/PhysRevD.101.052005",
       "arXiv_id": "1911.12606",
-      "SRcomb": "pyhf",
+      "SRcomb": "onnx, pyhf",
       "signature_type": "prompt",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/"
     },
@@ -957,7 +961,7 @@
       "pretty_name": "2 OS l",
       "publication_doi": "10.1140/epjc/s10052-019-7594-6",
       "arXiv_id": "1908.08215",
-      "SRcomb": "pyhf",
+      "SRcomb": "onnx, pyhf",
       "signature_type": "prompt",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-32/"
     },
@@ -1011,7 +1015,7 @@
       "pretty_name": "hadr. EWK",
       "publication_doi": "10.1103/PhysRevD.104.112010",
       "arXiv_id": "2108.07586",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/"
     },
@@ -1050,7 +1054,7 @@
       "pretty_name": "2 soft l, EWK",
       "publication_doi": "10.1007/JHEP06(2023)031",
       "arXiv_id": "2209.13935",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-02/"
     },
@@ -1059,11 +1063,15 @@
       "ana_id": "ATLAS-SUSY-2019-04",
       "implementations": [
         {
+          "name": "ATLAS-SUSY-2019-04_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2019-04-eff/"
+        },
+        {
           "name": "ATLAS-SUSY-2019-04_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2019-04/"
         }
       ],
-      "pretty_name": "1 l or 2 SS l + multi-jets",
+      "pretty_name": "jets + >= 1 l, RPV",
       "publication_doi": "http://dx.doi.org/10.1140/epjc/s10052-021-09761-x",
       "arXiv_id": "2106.09609",
       "signature_type": "prompt",
@@ -1085,7 +1093,7 @@
       "pretty_name": "1 l + h(b b), EWK",
       "publication_doi": "10.1140/epjc/s10052-020-8050-3",
       "arXiv_id": "1909.09226",
-      "SRcomb": "pyhf",
+      "SRcomb": "onnx, pyhf",
       "signature_type": "prompt",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/"
     },
@@ -1105,9 +1113,28 @@
       "pretty_name": "3 l, EWK",
       "publication_doi": "10.1140/epjc/s10052-021-09749-7",
       "arXiv_id": "2106.01676",
-      "SRcomb": "pyhf",
+      "SRcomb": "onnx, pyhf",
       "signature_type": "prompt",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/"
+    },
+    {
+      "inspire_id": 2673888,
+      "ana_id": "ATLAS-SUSY-2020-27",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2020-27_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2020-27-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2020-27_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2020-27/"
+        }
+      ],
+      "pretty_name": "jets + >= 1 l, RPV",
+      "publication_doi": "https://link.springer.com/article/10.1007/JHEP02(2024)107",
+      "arXiv_id": "2307.01094",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2020-27/"
     },
     {
       "inspire_id": 1231738,
@@ -1215,6 +1242,21 @@
       "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-012/index.html"
     },
     {
+      "inspire_id": 1849964,
+      "ana_id": "CMS-EXO-19-019",
+      "implementations": [
+        {
+          "name": "CMS-EXO-19-019_ul",
+          "path": "13TeV/CMS/CMS-EXO-19-019/"
+        }
+      ],
+      "pretty_name": "di-lepton resonance",
+      "publication_doi": "http://dx.doi.org/10.1007/JHEP07(2021)208",
+      "arXiv_id": "2103.02708",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-019/"
+    },
+    {
       "inspire_id": 1894408,
       "ana_id": "CMS-EXO-20-004",
       "implementations": [
@@ -1226,7 +1268,7 @@
       "pretty_name": "monojet",
       "publication_doi": "10.1007/JHEP11(2021)153",
       "arXiv_id": "2107.13021",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-004/"
     },
@@ -1328,7 +1370,7 @@
         }
       ],
       "pretty_name": "ISR jet + soft l",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html"
     },
@@ -1707,7 +1749,7 @@
       "pretty_name": "multi-l, EWK",
       "publication_doi": "10.1007/JHEP03(2018)166",
       "arXiv_id": "1709.05406",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-039/index.html"
     },
@@ -1813,7 +1855,7 @@
       "pretty_name": "soft OS l",
       "publication_doi": "10.1016/j.physletb.2018.05.062",
       "arXiv_id": "1801.01846",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-048/index.html"
     },
@@ -1852,7 +1894,7 @@
       "pretty_name": "0 l + top tag",
       "publication_doi": "10.1103/PhysRevD.97.012007",
       "arXiv_id": "1710.11188",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/index.html"
     },
@@ -1993,6 +2035,22 @@
     },
     {
       "inspire_id": 1966342,
+      "ana_id": "CMS-SUS-18-004-wbplus",
+      "implementations": [
+        {
+          "name": "CMS-SUS-18-004-wbplus_em",
+          "path": "13TeV/CMS/CMS-SUS-18-004-wbplus-agg/"
+        }
+      ],
+      "pretty_name": "2-3 soft l",
+      "publication_doi": "10.1007/JHEP04%282022%29091",
+      "arXiv_id": "2111.06296",
+      "SRcomb": "slv1",
+      "signature_type": "prompt",
+      "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-004/index.html"
+    },
+    {
+      "inspire_id": 1966342,
       "ana_id": "CMS-SUS-18-004",
       "implementations": [
         {
@@ -2041,7 +2099,7 @@
       "pretty_name": "0 l + jets, MHT",
       "publication_doi": "10.1007/JHEP10(2019)244",
       "arXiv_id": "1908.04722",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html"
     },
@@ -2144,7 +2202,7 @@
           "path": "13TeV/CMS/CMS-SUS-20-002/"
         }
       ],
-      "pretty_name": "stop combination",
+      "pretty_name": "stop comb.",
       "publication_doi": "10.1140/epjc/s10052-021-09721-5",
       "arXiv_id": "2107.10892",
       "signature_type": "prompt",
@@ -2166,7 +2224,7 @@
       "pretty_name": "2 h(b b), EWK",
       "publication_doi": "10.1007/JHEP05(2022)014",
       "arXiv_id": "2201.04206",
-      "SRcomb": "SLv2",
+      "SRcomb": "slv2",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/"
     },
@@ -2186,7 +2244,7 @@
       "pretty_name": "hadr. EWK",
       "publication_doi": "10.1016/j.physletb.2022.137460",
       "arXiv_id": "2205.09597",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-002/"
     },
@@ -2204,6 +2262,36 @@
       "arXiv_id": "2211.08476",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-007/index.html"
+    },
+    {
+      "inspire_id": 2755433,
+      "ana_id": "CMS-SUS-21-008",
+      "implementations": [
+        {
+          "name": "CMS-SUS-21-008_ul",
+          "path": "13TeV/CMS/CMS-SUS-21-008/"
+        }
+      ],
+      "pretty_name": "EWK comb.",
+      "publication_doi": "http://dx.doi.org/10.1103/PhysRevD.109.112001",
+      "arXiv_id": "2402.01888",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-008/"
+    },
+    {
+      "inspire_id": 2962374,
+      "ana_id": "CMS-SUS-23-003",
+      "implementations": [
+        {
+          "name": "CMS-SUS-23-003_ul",
+          "path": "13TeV/CMS/CMS-SUS-23-003/"
+        }
+      ],
+      "pretty_name": "high-pT ISR, multi-l + multi-jets",
+      "publication_doi": "10.1103/b26z-zmpy",
+      "arXiv_id": "2508.13900",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-23-003/index.html"
     }
   ],
   "implementations_license": {

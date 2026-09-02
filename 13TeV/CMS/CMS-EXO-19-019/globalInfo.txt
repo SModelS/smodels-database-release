@@ -1,0 +1,10 @@
+id: CMS-EXO-19-019
+sqrts: 13*TeV
+lumi: 137/fb
+url: https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-019/
+arxiv: https://arxiv.org/abs/2103.02708
+publication: JHEP 07 (2021) 208
+publicationDOI: http://dx.doi.org/10.1007/JHEP07(2021)208
+contact: cms-phys-conveners-exo@cern.ch
+implementedBy: AM
+lastUpdate: 2026/8/6

@@ -1,0 +1,7 @@
+dataId: Rpv2L
+dataType: efficiencyMap
+observedN: 5
+expectedBG: 5.5
+bgError: 1.8
+upperLimit: 0.048*fb
+expectedUpperLimit: 0.05*fb

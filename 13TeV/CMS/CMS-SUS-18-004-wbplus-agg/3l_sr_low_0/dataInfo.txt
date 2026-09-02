@@ -1,0 +1,8 @@
+dataId: 3l_sr_low_0
+dataType: efficiencyMap
+observedN: 3
+expectedBG: 5.7045
+bgError: 2.1948
+comment: 3l_sr_low_0
+upperLimit: 0.03359*fb
+expectedUpperLimit: 0.04194*fb

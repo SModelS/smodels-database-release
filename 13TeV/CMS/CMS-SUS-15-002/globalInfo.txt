@@ -2,6 +2,9 @@ id: CMS-SUS-15-002
 sqrts: 13*TeV
 lumi: 2.2/fb
 url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-15-002/
+arxiv: https://arxiv.org/abs/1602.06581
+publication: Phys. Lett. B 758 (2016) 152
+publicationDOI: https://doi.org/10.1016/j.physletb.2016.05.002
 supersededBy: CMS-SUS-16-033
 supersedes: CMS-SUS-PAS-15-002
 implementedBy: Federico Ambrogi

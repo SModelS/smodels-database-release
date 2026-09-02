@@ -1,0 +1,7 @@
+dataId: Rpc2L2b
+dataType: efficiencyMap
+observedN: 12
+expectedBG: 7.8
+bgError: 2.2
+upperLimit: 0.089*fb
+expectedUpperLimit: 0.063*fb

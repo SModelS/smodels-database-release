@@ -1,0 +1,72 @@
+id: CMS-SUS-18-004-wbplus-agg
+sqrts: 13*TeV
+lumi: 137/fb
+url: http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-004/index.html
+arxiv: https://arxiv.org/abs/2111.06296
+publication: JHEP 04 (2022) 091
+publicationDOI: https://doi.org/10.1007/JHEP04%282022%29091
+contact: cms-phys-conveners-sus@cern.ch
+regionMappings: {
+    '2los_cr_dy_low_0': {'smodels': '2los_cr_dy_low_0', 'type': 'CR'},
+    '2los_cr_dy_low_1': {'smodels': '2los_cr_dy_low_1', 'type': 'CR'},
+    '2los_cr_dy_low_2': {'smodels': '2los_cr_dy_low_2', 'type': 'CR'},
+    '2los_cr_dy_low_3': {'smodels': '2los_cr_dy_low_3', 'type': 'CR'},
+    '2los_cr_dy_med_0': {'smodels': '2los_cr_dy_med_0', 'type': 'CR'},
+    '2los_cr_dy_med_1': {'smodels': '2los_cr_dy_med_1', 'type': 'CR'},
+    '2los_cr_dy_med_2': {'smodels': '2los_cr_dy_med_2', 'type': 'CR'},
+    '2los_cr_dy_med_3': {'smodels': '2los_cr_dy_med_3', 'type': 'CR'},
+    '2los_cr_dy_med_4': {'smodels': '2los_cr_dy_med_4', 'type': 'CR'},
+    '2los_cr_ss_med_0': {'smodels': '2los_cr_ss_med_0', 'type': 'CR'},
+    '2los_cr_ss_med_1': {'smodels': '2los_cr_ss_med_1', 'type': 'CR'},
+    '2los_cr_ss_med_2': {'smodels': '2los_cr_ss_med_2', 'type': 'CR'},
+    '2los_cr_ss_med_3': {'smodels': '2los_cr_ss_med_3', 'type': 'CR'},
+    '2los_cr_ss_med_4': {'smodels': '2los_cr_ss_med_4', 'type': 'CR'},
+    '2los_cr_tt_low_0': {'smodels': '2los_cr_tt_low_0', 'type': 'CR'},
+    '2los_cr_tt_low_1': {'smodels': '2los_cr_tt_low_1', 'type': 'CR'},
+    '2los_cr_tt_low_2': {'smodels': '2los_cr_tt_low_2', 'type': 'CR'},
+    '2los_cr_tt_low_3': {'smodels': '2los_cr_tt_low_3', 'type': 'CR'},
+    '2los_cr_tt_med_0': {'smodels': '2los_cr_tt_med_0', 'type': 'CR'},
+    '2los_cr_tt_med_1': {'smodels': '2los_cr_tt_med_1', 'type': 'CR'},
+    '2los_cr_tt_med_2': {'smodels': '2los_cr_tt_med_2', 'type': 'CR'},
+    '2los_cr_tt_med_3': {'smodels': '2los_cr_tt_med_3', 'type': 'CR'},
+    '2los_cr_tt_med_4': {'smodels': '2los_cr_tt_med_4', 'type': 'CR'},
+    '2los_sr_high_0': {'smodels': '2los_sr_high_0', 'type': 'SR'},
+    '2los_sr_ultra_high_1': {'smodels': '2los_sr_ultra_high_1', 'type': 'SR'},
+    '2los_sr_high_2': {'smodels': '2los_sr_high_2', 'type': 'SR'},
+    '2los_sr_high_3': {'smodels': '2los_sr_high_3', 'type': 'SR'},
+    '2los_sr_high_4': {'smodels': '2los_sr_high_4', 'type': 'SR'},
+    '2los_sr_low_0': {'smodels': '2los_sr_low_0', 'type': 'SR'},
+    '2los_sr_low_1': {'smodels': '2los_sr_low_1', 'type': 'SR'},
+    '2los_sr_low_2': {'smodels': '2los_sr_low_2', 'type': 'SR'},
+    '2los_sr_low_3': {'smodels': '2los_sr_low_3', 'type': 'SR'},
+    '2los_sr_med_0': {'smodels': '2los_sr_med_0', 'type': 'SR'},
+    '2los_sr_med_1': {'smodels': '2los_sr_med_1', 'type': 'SR'},
+    '2los_sr_med_2': {'smodels': '2los_sr_med_2', 'type': 'SR'},
+    '2los_sr_med_3': {'smodels': '2los_sr_med_3', 'type': 'SR'},
+    '2los_sr_med_4': {'smodels': '2los_sr_med_4', 'type': 'SR'},
+    '2los_sr_ultra_0': {'smodels': '2los_sr_ultra_0', 'type': 'SR'},
+    '2los_sr_ultra_2': {'smodels': '2los_sr_ultra_2', 'type': 'SR'},
+    '2los_sr_ultra_3': {'smodels': '2los_sr_ultra_3', 'type': 'SR'},
+    '2los_sr_ultra_4': {'smodels': '2los_sr_ultra_4', 'type': 'SR'},
+    '3l_cr_wz_low_0': {'smodels': '3l_cr_wz_low_0', 'type': 'CR'},
+    '3l_cr_wz_low_1': {'smodels': '3l_cr_wz_low_1', 'type': 'CR'},
+    '3l_cr_wz_low_2': {'smodels': '3l_cr_wz_low_2', 'type': 'CR'},
+    '3l_cr_wz_low_3': {'smodels': '3l_cr_wz_low_3', 'type': 'CR'},
+    '3l_cr_wz_med_0': {'smodels': '3l_cr_wz_med_0', 'type': 'CR'},
+    '3l_cr_wz_med_1': {'smodels': '3l_cr_wz_med_1', 'type': 'CR'},
+    '3l_cr_wz_med_2': {'smodels': '3l_cr_wz_med_2', 'type': 'CR'},
+    '3l_cr_wz_med_3': {'smodels': '3l_cr_wz_med_3', 'type': 'CR'},
+    '3l_cr_wz_med_4': {'smodels': '3l_cr_wz_med_4', 'type': 'CR'},
+    '3l_sr_low_0': {'smodels': '3l_sr_low_0', 'type': 'SR'},
+    '3l_sr_low_1': {'smodels': '3l_sr_low_1', 'type': 'SR'},
+    '3l_sr_low_2': {'smodels': '3l_sr_low_2', 'type': 'SR'},
+    '3l_sr_low_3': {'smodels': '3l_sr_low_3', 'type': 'SR'},
+    '3l_sr_med_0_1': {'smodels': '3l_sr_med_0_1', 'type': 'SR'},
+    '3l_sr_med_2': {'smodels': '3l_sr_med_2', 'type': 'SR'},
+    '3l_sr_med_3': {'smodels': '3l_sr_med_3', 'type': 'SR'},
+    '3l_sr_med_4': {'smodels': '3l_sr_med_4', 'type': 'SR'}
+}
+regionSets: { 'all': [ '2los_cr_dy_low_0', '2los_cr_dy_low_1', '2los_cr_dy_low_2', '2los_cr_dy_low_3', '2los_cr_dy_med_0', '2los_cr_dy_med_1', '2los_cr_dy_med_2', '2los_cr_dy_med_3', '2los_cr_dy_med_4', '2los_cr_ss_med_0', '2los_cr_ss_med_1', '2los_cr_ss_med_2', '2los_cr_ss_med_3', '2los_cr_ss_med_4', '2los_cr_tt_low_0', '2los_cr_tt_low_1', '2los_cr_tt_low_2', '2los_cr_tt_low_3', '2los_cr_tt_med_0', '2los_cr_tt_med_1', '2los_cr_tt_med_2', '2los_cr_tt_med_3', '2los_cr_tt_med_4', '2los_sr_high_0', '2los_sr_ultra_high_1', '2los_sr_high_2', '2los_sr_high_3', '2los_sr_high_4', '2los_sr_low_0', '2los_sr_low_1', '2los_sr_low_2', '2los_sr_low_3', '2los_sr_med_0', '2los_sr_med_1', '2los_sr_med_2', '2los_sr_med_3', '2los_sr_med_4', '2los_sr_ultra_0', '2los_sr_ultra_2', '2los_sr_ultra_3', '2los_sr_ultra_4', '3l_cr_wz_low_0', '3l_cr_wz_low_1', '3l_cr_wz_low_2', '3l_cr_wz_low_3', '3l_cr_wz_med_0', '3l_cr_wz_med_1', '3l_cr_wz_med_2', '3l_cr_wz_med_3', '3l_cr_wz_med_4', '3l_sr_low_0', '3l_sr_low_1', '3l_sr_low_2', '3l_sr_low_3', '3l_sr_med_0_1', '3l_sr_med_2', '3l_sr_med_3', '3l_sr_med_4' ] }
+statModels: { 'all': [ ('sl', 'matrix_agg_all.cov') ] }
+implementedBy: AM, TP
+lastUpdate: 2026/7/25

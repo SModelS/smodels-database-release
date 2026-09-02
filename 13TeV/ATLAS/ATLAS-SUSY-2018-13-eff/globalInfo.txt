@@ -10,5 +10,5 @@ implementedBy: Andre Lessa
 lastUpdate: 2024/4/24
 source: Based on the recasting implemented by A. Lessa (see https://github.com/llprecasting/recastingCodes/tree/efficiencyMaps)
 type: displaced
-datasetOrder: "SR_HighPT", "SR_Trackless"
-covariance: [[ 9.000e-02, 0. ], [ 0., 2.809e-01 ] ]
+regionSets: { 'all': [ "SR_HighPT", "SR_Trackless" ] }
+statModels: { 'all': [ ( 'sl', 'matrix.cov' ) ] }

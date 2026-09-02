@@ -1,0 +1,8 @@
+dataId: 2los_sr_high_4
+dataType: efficiencyMap
+observedN: 10
+expectedBG: 11.595
+bgError: 5.8417
+comment: 2los_sr_high_4
+upperLimit: 0.08766*fb
+expectedUpperLimit: 0.09034*fb

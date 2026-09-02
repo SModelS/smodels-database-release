@@ -3,49 +3,38 @@ sqrts: 13*TeV
 lumi: 139.0/fb
 url: https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-05/
 arxiv: https://arxiv.org/abs/2204.13072
-publication: Eur. Phys. J. C 83 (2023) 515
 publicationDOI: https://doi.org/10.1140/epjc/s10052-023-11434-w
 contact: atlas-phys-susy-conveners@cern.ch
 implementedBy: Sahana Narasimha
 lastUpdate: 2023/3/9
-jsonFiles: {
-  'simplified.json': [
-    {'smodels': 'SRHigh4_cuts', 'pyhf': 'SRHigh4_cuts'},
-    {'smodels': 'SRHigh8_1_cuts', 'pyhf': 'SRHigh8_1_cuts'},
-    {'smodels': 'SRHigh8_2_cuts', 'pyhf': 'SRHigh8_2_cuts'},
-    {'smodels': 'SRHigh16_1_cuts', 'pyhf': 'SRHigh16_1_cuts'},
-    {'smodels': 'SRHigh16_2_cuts', 'pyhf': 'SRHigh16_2_cuts'},
-    {'smodels': 'SRllbb_cuts', 'pyhf': 'SRllbb_cuts'},
-    {'smodels': 'SRInt_1_cuts', 'pyhf': 'SRInt_1_cuts'},
-    {'smodels': 'SRInt_2_cuts', 'pyhf': 'SRInt_2_cuts'},
-    {'smodels': 'SRLow_1_cuts', 'pyhf': 'SRLow_1_cuts'},
-    {'smodels': 'SRLow_2_cuts', 'pyhf': 'SRLow_2_cuts'},
-    {'smodels': 'SRLow2_cuts', 'pyhf': 'SRLow2_cuts'},
-    {'smodels': 'SROffShell_1_cuts', 'pyhf': 'SROffShell_1_cuts'},
-    {'smodels': 'SROffShell_2_cuts', 'pyhf': 'SROffShell_2_cuts'},
-    {'pyhf': 'CRZZ_cuts', 'smodels': None, 'type': 'CR'},
-    {'pyhf': 'CRtt_cuts', 'smodels': None, 'type': 'CR'},
-    {'pyhf': 'CRZ_cuts', 'smodels': None, 'type': 'CR'},
-    {'pyhf': 'CRDY_cuts', 'smodels': None, 'type': 'CR'}]
-  }
-jsonFiles_FullLikelihood: {
-  'ewk_signal_bkgonly.json': [
-    {'smodels': 'SRHigh4_cuts', 'pyhf': 'SRHigh4_cuts'},
-    {'smodels': 'SRHigh8_1_cuts', 'pyhf': 'SRHigh8_1_cuts'},
-    {'smodels': 'SRHigh8_2_cuts', 'pyhf': 'SRHigh8_2_cuts'},
-    {'smodels': 'SRHigh16_1_cuts', 'pyhf': 'SRHigh16_1_cuts'},
-    {'smodels': 'SRHigh16_2_cuts', 'pyhf': 'SRHigh16_2_cuts'},
-    {'smodels': 'SRllbb_cuts', 'pyhf': 'SRllbb_cuts'},
-    {'smodels': 'SRInt_1_cuts', 'pyhf': 'SRInt_1_cuts'},
-    {'smodels': 'SRInt_2_cuts', 'pyhf': 'SRInt_2_cuts'},
-    {'smodels': 'SRLow_1_cuts', 'pyhf': 'SRLow_1_cuts'},
-    {'smodels': 'SRLow_2_cuts', 'pyhf': 'SRLow_2_cuts'},
-    {'smodels': 'SRLow2_cuts', 'pyhf': 'SRLow2_cuts'},
-    {'smodels': 'SROffShell_1_cuts', 'pyhf': 'SROffShell_1_cuts'},
-    {'smodels': 'SROffShell_2_cuts', 'pyhf': 'SROffShell_2_cuts'},
-    {'pyhf': 'CRZZ_cuts', 'smodels': None, 'type': 'CR'},
-    {'pyhf': 'CRtt_cuts', 'smodels': None, 'type': 'CR'},
-    {'pyhf': 'CRZ_cuts', 'smodels': None, 'type': 'CR'},
-    {'pyhf': 'CRDY_cuts', 'smodels': None, 'type': 'CR'}]
-  }
 includeCRs: False
+regionMappings: {
+    'SRHigh4_cuts': {'smodels': 'SRHigh4_cuts', 'pyhf': 'SRHigh4_cuts'},
+    'SRHigh8_1_cuts': {'smodels': 'SRHigh8_1_cuts', 'pyhf': 'SRHigh8_1_cuts'},
+    'SRHigh8_2_cuts': {'smodels': 'SRHigh8_2_cuts', 'pyhf': 'SRHigh8_2_cuts'},
+    'SRHigh16_1_cuts': {'smodels': 'SRHigh16_1_cuts', 'pyhf': 'SRHigh16_1_cuts'},
+    'SRHigh16_2_cuts': {'smodels': 'SRHigh16_2_cuts', 'pyhf': 'SRHigh16_2_cuts'},
+    'SRllbb_cuts': {'smodels': 'SRllbb_cuts', 'pyhf': 'SRllbb_cuts'},
+    'SRInt_1_cuts': {'smodels': 'SRInt_1_cuts', 'pyhf': 'SRInt_1_cuts'},
+    'SRInt_2_cuts': {'smodels': 'SRInt_2_cuts', 'pyhf': 'SRInt_2_cuts'},
+    'SRLow_1_cuts': {'smodels': 'SRLow_1_cuts', 'pyhf': 'SRLow_1_cuts'},
+    'SRLow_2_cuts': {'smodels': 'SRLow_2_cuts', 'pyhf': 'SRLow_2_cuts'},
+    'SRLow2_cuts': {'smodels': 'SRLow2_cuts', 'pyhf': 'SRLow2_cuts'},
+    'SROffShell_1_cuts': {'smodels': 'SROffShell_1_cuts', 'pyhf': 'SROffShell_1_cuts'},
+    'SROffShell_2_cuts': {'smodels': 'SROffShell_2_cuts', 'pyhf': 'SROffShell_2_cuts'}}
+regionSets: { 'all': ['SRHigh4_cuts',
+          'SRHigh8_1_cuts',
+          'SRHigh8_2_cuts',
+          'SRHigh16_1_cuts',
+          'SRHigh16_2_cuts',
+          'SRllbb_cuts',
+          'SRInt_1_cuts',
+          'SRInt_2_cuts',
+          'SRLow_1_cuts',
+          'SRLow_2_cuts',
+          'SRLow2_cuts',
+          'SROffShell_1_cuts',
+          'SROffShell_2_cuts',
+          ]}
+statModels: { 'all': [ ( 'pyhf', 'simplified.json' ),
+				               ( 'pyhf', 'ewk_signal_bkgonly.json' )]}

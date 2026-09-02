@@ -1,0 +1,8 @@
+dataId: SRUDD1b
+dataType: efficiencyMap
+observedN: 4
+expectedBG: 3.1
+bgError: 0.8
+comment: SRUDD1b
+upperLimit: 0.04337*fb
+expectedUpperLimit: 0.03734*fb

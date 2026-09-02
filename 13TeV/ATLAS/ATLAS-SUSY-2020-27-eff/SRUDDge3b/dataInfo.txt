@@ -1,0 +1,8 @@
+dataId: SRUDDge3b
+dataType: efficiencyMap
+observedN: 5
+expectedBG: 4.6
+bgError: 1.1
+comment: SRUDDge3b
+upperLimit: 0.04545*fb
+expectedUpperLimit: 0.04305*fb

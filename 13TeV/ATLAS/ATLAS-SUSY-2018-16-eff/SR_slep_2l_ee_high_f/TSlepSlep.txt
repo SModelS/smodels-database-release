@@ -6,7 +6,6 @@ figureUrl: n/a
 source: ATLAS
 validated: True
 axes: [[x, x - y], [x, x - y]]
-axesMap: [[[x, x - y], [x, x - y]]]
 finalState: ['MET', 'MET']
 intermediateState: None
 efficiencyMap: [[[[9.000000E+01*GeV,7.000000E+01*GeV],[9.000000E+01*GeV,7.000000E+01*GeV]],2.39e-05],

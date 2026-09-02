@@ -1,0 +1,10 @@
+id: ATLAS-SUSY-2019-04
+sqrts: 13*TeV
+lumi: 139.0/fb
+url: http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-04
+arxiv: https://arxiv.org/abs/2106.09609
+publication: Eur. Phys. J. C 81 (2021) 1023
+publicationDOI: http://dx.doi.org/10.1140/epjc/s10052-021-09761-x
+contact: atlas-phys-susy-conveners@cern.ch
+implementedBy: AM
+lastUpdate: 2026/1/28

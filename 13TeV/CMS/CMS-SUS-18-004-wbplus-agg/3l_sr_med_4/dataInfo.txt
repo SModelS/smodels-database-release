@@ -1,0 +1,8 @@
+dataId: 3l_sr_med_4
+dataType: efficiencyMap
+observedN: 1
+expectedBG: 1.3157
+bgError: 1.1409
+comment: 3l_sr_med_4
+upperLimit: 0.02695*fb
+expectedUpperLimit: 0.0285*fb
