@@ -1,0 +1,14 @@
+txName: TChiWZoff
+constraint: {(PV > anyBSM(1),anyBSM(2)), (anyBSM(1) > mu+,mu-,MET(3)), (anyBSM(2) > jet,jet,MET(4))}
+condition: None
+conditionDescription: None
+figureUrl: None
+source: HackAnalysis recast by Mark Goodsell and others, https://doi.org/10.48550/arXiv.2506.21676
+validated: True
+axesMap: [{0: 'x', 1: 'y', 2: 'x', 3: 'y'}]
+dataMap: {0: (1, 'mass', GeV), 1: (3, 'mass', GeV), 2: (2, 'mass', GeV), 3: (4, 'mass', GeV)}
+finalState: ['MET', 'MET']
+efficiencyMap: [[[120.0,70.0,120.0,70.0],0.0],
+[[120.0,115.0,120.0,115.0],0.0],
+[[400.0,360.0,400.0,360.0],0.0],
+[[400.0,395.0,400.0,395.0],0.0]]

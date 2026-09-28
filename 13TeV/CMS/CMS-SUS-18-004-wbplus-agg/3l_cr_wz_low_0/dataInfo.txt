@@ -1,0 +1,8 @@
+dataId: 3l_cr_wz_low_0
+dataType: efficiencyMap
+observedN: 4
+expectedBG: 3.5172
+bgError: 1.7652
+comment: 3l_cr_wz_low_0
+upperLimit: 0.04749*fb
+expectedUpperLimit: 0.04524*fb

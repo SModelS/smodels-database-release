@@ -1,0 +1,8 @@
+dataId: 2los_cr_ss_med_2
+dataType: efficiencyMap
+observedN: 180
+expectedBG: 178.52
+bgError: 13.717
+comment: 2los_cr_ss_med_2
+upperLimit: 0.2882*fb
+expectedUpperLimit: 0.2836*fb

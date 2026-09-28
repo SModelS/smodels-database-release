@@ -1,0 +1,8 @@
+dataId: 3l_cr_wz_med_3
+dataType: efficiencyMap
+observedN: 23
+expectedBG: 20.999
+bgError: 4.201
+comment: 3l_cr_wz_med_3
+upperLimit: 0.1087*fb
+expectedUpperLimit: 0.1009*fb

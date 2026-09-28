@@ -1,0 +1,8 @@
+dataId: 2los_cr_dy_low_3
+dataType: efficiencyMap
+observedN: 68
+expectedBG: 66.184
+bgError: 10.124
+comment: 2los_cr_dy_low_3
+upperLimit: 0.2022*fb
+expectedUpperLimit: 0.1972*fb
